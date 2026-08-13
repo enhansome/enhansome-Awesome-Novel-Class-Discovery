@@ -1,0 +1,1588 @@
+{
+  "items": [
+    {
+      "description": "Below is the evolutionary tree diagram of novel class discovery: More details are in this survey.",
+      "items": [],
+      "title": "The Evolutionary Tree Diagram"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Large-scale Pre-trained Models are Surprisingly Strong in Incremental Novel Class Discovery [paper]",
+          "description": "[code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-07-03T14:14:40Z",
+            "owner": "OatmealLiu",
+            "repo": "MSc-iNCD",
+            "stars": 43
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "GET: Unlocking the Multi-modal Potential of CLIP for Generalized Category Discovery [paper]",
+          "description": "[code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-03-31T09:49:42Z",
+            "owner": "enguangW",
+            "repo": "GET",
+            "stars": 37
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Generalized Category Discovery in Semantic Segmentation [paper]",
+          "description": "[code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2023-12-20T13:15:36Z",
+            "owner": "JethroPeng",
+            "repo": "GCDSS",
+            "stars": 17
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "PANDAS: Prototype-based Novel Class Discovery and Detection [paper]",
+          "description": "[code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-05-28T12:14:48Z",
+            "owner": "naver",
+            "repo": "pandas",
+            "stars": 16
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Beyond Known Clusters: Probe New Prototypes for Efficient Generalized Class Discovery [paper]",
+          "description": "[code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-04-28T14:18:29Z",
+            "owner": "xjtuYW",
+            "repo": "PNP",
+            "stars": 15
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "OpenGCD: Assisting Open World Recognition with Generalized Category Discovery [paper]",
+          "description": "[code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-01-04T03:26:19Z",
+            "owner": "Fulin-Gao",
+            "repo": "OpenGCD",
+            "stars": 12
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Composing Novel Classes: A Concept-Driven Approach to Generalized Category Discovery [paper]",
+          "description": "[code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2025-07-18T10:32:02Z",
+            "owner": "algpy",
+            "repo": "conceptGCD",
+            "stars": 3
+          }
+        }
+      ],
+      "title": "Preprints"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "SpectralGCD: Spectral Concept Selection and Cross-modal Representation Learning for Generalized Category Discovery (ICLR 2026) [paper]",
+          "description": "[code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-03-18T15:19:03Z",
+            "owner": "miccunifi",
+            "repo": "SpectralGCD",
+            "stars": 23
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Learning Like Humans: Analogical Concept Learning for Generalized Category Discovery (CVPR 2026) [paper]",
+          "description": "[code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-07-01T02:11:40Z",
+            "owner": "zhou-9527",
+            "repo": "AnaLogical-GCD",
+            "stars": 20
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "TALON: Test-time Adaptive Learning for On-the-Fly Category Discovery (CVPR 2026) [paper]",
+          "description": "[code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-04-18T14:39:39Z",
+            "owner": "ynanwu",
+            "repo": "TALON",
+            "stars": 10
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "GLEAN: Active Generalized Category Discovery with Diverse LLM Feedback (EACL 2026) [paper]",
+          "description": "[code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-07-02T03:20:46Z",
+            "owner": "amazon-science",
+            "repo": "Glean",
+            "stars": 9
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Generalized Fine-Grained Category Discovery with Multi-Granularity Conceptual Experts (IJCV 2026) [paper]",
+          "description": "[code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-07-11T00:03:29Z",
+            "owner": "HaiyangZheng",
+            "repo": "MGCE",
+            "stars": 9
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Adaptive Gaussian Expansion for On-the-fly Category Discovery (ICLR 2026) [paper]",
+          "description": "[code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-04-01T09:30:31Z",
+            "owner": "Ashengl",
+            "repo": "AGE",
+            "stars": 6
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Generalized Category Discovery for LiDAR Semantic Segmentation (WACV 2026) [paper]",
+          "description": "[code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-03-14T07:00:01Z",
+            "owner": "Minseokkim-0124",
+            "repo": "Generalized-Category-Discovery-for-LiDAR-Semantic-Segmentation",
+            "stars": 4
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SECOS: Semantic Capture for Rigorous Classification in Open-World Semi-Supervised Learning (CVPR 2026) [paper]",
+          "description": "[code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-06-16T07:40:05Z",
+            "owner": "ganchi-huanggua",
+            "repo": "OSSL-Classification",
+            "stars": 3
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Assignment-Driven Hash Learning in a Hyper-Semantic Space for On-the-Fly Category Discovery (CVPR 2026) [paper]",
+          "description": "[code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-03-07T08:00:15Z",
+            "owner": "KeibingYang",
+            "repo": "Assignment-Driven-Hash-Learning-in-a-Hyper-Semantic-Space-for-OCD",
+            "stars": 3
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Learning through Creation: A Hash-Free Framework for On-the-Fly Category Discovery (CVPR Findings 2026) [paper]",
+          "description": "[code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-03-13T14:05:13Z",
+            "owner": "brandinzhang",
+            "repo": "LTC",
+            "stars": 3
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Multi-Modal Representation Learning via Semi-Supervised Rate Reduction for Generalized Category Discovery (CVPR 2026) [paper]",
+          "description": "[code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-04-11T06:58:41Z",
+            "owner": "hewei98",
+            "repo": "SSR2-GCD",
+            "stars": 2
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "TAR: Token-Aware Refinement for Fine-Grained Generalized Category Discovery (CVPR 2026) [paper]",
+          "description": "[code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-03-10T15:01:24Z",
+            "owner": "VectorYangYiStar",
+            "repo": "TAR",
+            "stars": 2
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Identifying Latent Concepts and Structures for Generalized Category Discovery (ICML 2026) [paper]",
+          "description": "[code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-06-07T07:21:44Z",
+            "owner": "Michael-McQueen",
+            "repo": "CPF",
+            "stars": 2
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "BOLT: Benchmarking Open-World Learning for Text Classification (ACL Findings 2026) [paper]",
+          "description": "[code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2026-04-20T02:54:22Z",
+            "owner": "CNIC-DSL",
+            "repo": "BOLT",
+            "stars": 2
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Bures-Isotropy Alignment: Manifold Learning in Generalized Category Discovery (ICLR 2026) [paper]",
+          "description": "[code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-02-04T08:25:48Z",
+            "owner": "lytang63",
+            "repo": "BIA",
+            "stars": 1
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Learning Intrinsic Hierarchy for Generalized Category Discovery (AAAI 2026) [paper]",
+          "description": "[code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-06-05T08:07:47Z",
+            "owner": "DuannYu",
+            "repo": "LEAH",
+            "stars": 0
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "TLSA: LLM-Guided Text-Label Space Alignment with Contrastive Learning for Generalized Category Discovery (ACL 2026) [paper]",
+          "description": "[code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-06-26T11:57:38Z",
+            "owner": "Wenxi-Xu",
+            "repo": "TLSA",
+            "stars": 0
+          }
+        }
+      ],
+      "title": "2026"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "ProtoGCD: Unified and Unbiased Prototype Learning for Generalized Category Discovery (TPAMI 2025) [paper]",
+          "description": "[code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-06-13T07:01:09Z",
+            "owner": "mashijie1028",
+            "repo": "ProtoGCD",
+            "stars": 43
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "GET: Unlocking the Multi-Modal Potential of CLIP for Generalized Category Discovery (CVPR 2025) [paper]",
+          "description": "[code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-03-31T09:49:42Z",
+            "owner": "enguangW",
+            "repo": "GET",
+            "stars": 37
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "HiLo: A Learning Framework for Generalized Category Discovery Robust to Domain Shifts (ICLR 2025) [paper]",
+          "description": "[code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-08-01T03:55:58Z",
+            "owner": "Visual-AI",
+            "repo": "HiLo",
+            "stars": 22
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "DebGCD: Debiased Learning with Distribution Guidance for Generalized Category Discovery (ICLR 2025) [paper]",
+          "description": "[code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-09-27T14:40:28Z",
+            "owner": "Visual-AI",
+            "repo": "DebGCD",
+            "stars": 16
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SEAL: Semantic-Aware Hierarchical Learning for Generalized Category Discovery (NeurIPS 2025) [paper]",
+          "description": "[code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-04-04T04:09:55Z",
+            "owner": "Visual-AI",
+            "repo": "SEAL",
+            "stars": 16
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "MOS: Modeling Object-Scene Associations in Generalized Category Discovery (CVPR 2025) [paper]",
+          "description": "[code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-04-13T14:54:42Z",
+            "owner": "JethroPeng",
+            "repo": "MOS",
+            "stars": 11
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Unleashing the Potential of Model Bias for Generalized Category Discovery (AAAI 2025) [paper]",
+          "description": "[code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-12-18T04:52:07Z",
+            "owner": "Lackel",
+            "repo": "SDC",
+            "stars": 10
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "A Hidden Stumbling Block in Generalized Category Discovery: Distracted Attention (ICCV 2025) [paper]",
+          "description": "[code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-05-18T06:15:59Z",
+            "owner": "Afleve",
+            "repo": "AFGCD",
+            "stars": 10
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Generalized Category Discovery via Reciprocal Learning and Class-Wise Distribution Regularization (ICML 2025) [paper]",
+          "description": "[code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-11-14T15:42:05Z",
+            "owner": "APORduo",
+            "repo": "RLCD",
+            "stars": 8
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Continual Generalized Category Discovery: Learning and Forgetting from a Bayesian Perspective (ICML 2025) [paper]",
+          "description": "[code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-07-18T06:29:32Z",
+            "owner": "daihao42",
+            "repo": "VB-CGCD",
+            "stars": 6
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Less Attention is More: Prompt Transformer for Generalized Category Discovery (CVPR 2025) [paper]",
+          "description": "[code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-09-09T12:51:34Z",
+            "owner": "wendy26zhang",
+            "repo": "AptGCD",
+            "stars": 4
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Learning Textual Prompts for Open-World Semi-Supervised Learning (CVPR 2025) [paper]",
+          "description": "[code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-03-13T02:13:05Z",
+            "owner": "GodFZ",
+            "repo": "TP-OWSSL",
+            "stars": 4
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Prior-Constrained Association Learning for Fine-Grained Generalized Category Discovery (AAAI 2025) [paper]",
+          "description": "[code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-02-26T08:49:24Z",
+            "owner": "Terminator8758",
+            "repo": "PAL-GCD",
+            "stars": 4
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Hyperbolic Hierarchical Representation Learning for Generalized Category Discovery (TNNLS 2025) [paper]",
+          "description": "[code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2025-08-23T05:41:32Z",
+            "owner": "DuannYu",
+            "repo": "HypGCD",
+            "stars": 4
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Dual-Space Contrastive Learning for Open-World Semi-Supervised Classification (TNNLS 2025) [paper]",
+          "description": "[code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-03-13T07:04:00Z",
+            "owner": "ascetic-monk",
+            "repo": "DSCL",
+            "stars": 4
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "When Domain Generalization meets Generalized Category Discovery: An Adaptive Task-Arithmetic Driven Approach (CVPR 2025) [paper]",
+          "description": "[code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-09-05T09:37:28Z",
+            "owner": "Shubh-Nil",
+            "repo": "D-GCD",
+            "stars": 3
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Dissecting Generalized Category Discovery: Multiplex Consensus under Self-Deconstruction (ICCV 2025) [paper]",
+          "description": "[code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2025-08-01T10:24:40Z",
+            "owner": "lytang63",
+            "repo": "ConGCD",
+            "stars": 3
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "HIDISC: A Hyperbolic Framework for Domain Generalization with Generalized Category Discovery (NeurIPS 2025) [paper]",
+          "description": "[code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-11-26T06:29:31Z",
+            "owner": "dgibn",
+            "repo": "HIDISC",
+            "stars": 3
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Consistent Prompt Tuning for Generalized Category Discovery (IJCV 2025) [paper]",
+          "description": "[code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2025-12-23T09:10:51Z",
+            "owner": "muliyangm",
+            "repo": "CPT",
+            "stars": 3
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Towards Understanding Parametric Generalized Category Discovery on Graphs (ICML 2025) [paper]",
+          "description": "[code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2025-05-24T08:34:31Z",
+            "owner": "bwdeng20",
+            "repo": "GraphGCD",
+            "stars": 1
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Mutual-support Generalized Category Discovery (Information Fusion 2025) [paper]",
+          "description": "[code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-05-12T06:24:49Z",
+            "owner": "DuannYu",
+            "repo": "MSGCD",
+            "stars": 1
+          }
+        }
+      ],
+      "title": "2025"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Active Generalized Category Discovery (CVPR 2024) [paper]",
+          "description": "[code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-10-17T09:59:35Z",
+            "owner": "mashijie1028",
+            "repo": "ActiveGCD",
+            "stars": 54
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Contrastive Mean-Shift Learning for Generalized Category Discovery (CVPR 2024) [paper]",
+          "description": "[code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-05-01T10:41:03Z",
+            "owner": "sua-choi",
+            "repo": "CMS",
+            "stars": 50
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Happy: A Debiased Learning Framework for Continual Generalized Category Discovery (NeurIPS 2024) [paper]",
+          "description": "[code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-11-25T14:49:38Z",
+            "owner": "mashijie1028",
+            "repo": "Happy-CGCD",
+            "stars": 47
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SPTNet: An Efficient Alternative Framework for Generalized Category Discovery with Spatial Prompt Tuning (ICLR 2024) [paper]",
+          "description": "[code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-04-09T08:44:37Z",
+            "owner": "Visual-AI",
+            "repo": "SPTNet",
+            "stars": 36
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SelEx: Self-Expertise in Fine-Grained Generalized Category Discovery (ECCV 2024) [paper]",
+          "description": "[code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-08-04T18:17:01Z",
+            "owner": "SarahRastegar",
+            "repo": "SelEx",
+            "stars": 31
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "PromptCCD: Learning Gaussian Mixture Prompt Pool for Continual Category Discovery (ECCV 2024) [paper]",
+          "description": "[code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-04-03T09:07:53Z",
+            "owner": "Visual-AI",
+            "repo": "PromptCCD",
+            "stars": 31
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Novel Class Discovery for Ultra-Fine-Grained Visual Categorization (CVPR 2024) [paper]",
+          "description": "[code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-07-01T07:13:42Z",
+            "owner": "SSDUT-Caiyq",
+            "repo": "UFG-NCD",
+            "stars": 24
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Textual Knowledge Matters: Cross-Modality Co-Teaching for Generalized Visual Class Discovery (ECCV 2024) [paper]",
+          "description": "[code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-11-26T07:43:37Z",
+            "owner": "HaiyangZheng",
+            "repo": "TextGCD",
+            "stars": 23
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Prototypical Hash Encoding for On-the-Fly Fine-Grained Category Discovery (NeurIPS 2024) [paper]",
+          "description": "[code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-10-01T08:34:34Z",
+            "owner": "HaiyangZheng",
+            "repo": "PHE",
+            "stars": 16
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Solving the Catastrophic Forgetting Problem in Generalized Category Discovery (CVPR 2024) [paper]",
+          "description": "[code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-12-24T07:41:57Z",
+            "owner": "Cliffia123",
+            "repo": "LegoGCD",
+            "stars": 16
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Online Continuous Generalized Category Discovery (ECCV 2024) [paper]",
+          "description": "[code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-10-06T11:42:43Z",
+            "owner": "KU-VGI",
+            "repo": "OCGCD",
+            "stars": 14
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Dual-level Adaptive Self-Labeling for Novel Class Discovery in Point Cloud Segmentation (ECCV 2024) [paper]",
+          "description": "[code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-11-01T04:44:46Z",
+            "owner": "RikkiXu",
+            "repo": "NCD_PC",
+            "stars": 14
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Transfer and Alignment Network for Generalized Category Discovery (AAAI 2024) [paper]",
+          "description": "[code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-06-22T13:10:33Z",
+            "owner": "Lackel",
+            "repo": "TAN",
+            "stars": 9
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Novel class discovery meets foundation models for 3D semantic segmentation (IJCV 2024) [paper]",
+          "description": "[code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-08-08T09:04:45Z",
+            "owner": "LuigiRiz",
+            "repo": "SNOPS",
+            "stars": 8
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Semantic-Guided Novel Category Discovery (AAAI 2024) [paper]",
+          "description": "[code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-02-20T16:58:16Z",
+            "owner": "wang-weishuai",
+            "repo": "Semantic-guided-NCD",
+            "stars": 8
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Guided Cluster Aggregation: A Hierarchical Approach to Generalized Category Discovery (WACV 2024) [paper]",
+          "description": "[code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-10-26T09:48:32Z",
+            "owner": "J-L-O",
+            "repo": "guided-cluster-aggregation",
+            "stars": 7
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Contextuality Helps Representation Learning for Generalized Category Discovery (ICIP 2024) [paper]",
+          "description": "[code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-12-14T05:23:26Z",
+            "owner": "Clarence-CV",
+            "repo": "Contexuality-GCD",
+            "stars": 6
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "AMEND: Adaptive Margin and Expanded Neighborhood for Efficient Generalized Category Discovery (WACV 2024) [paper]",
+          "description": "[code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-03-11T09:25:26Z",
+            "owner": "missBanerjee",
+            "repo": "AMEND",
+            "stars": 5
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Prediction consistency regularization for Generalized Category Discovery (Information Fusion 2024) [paper]",
+          "description": "[code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-01-16T08:14:07Z",
+            "owner": "DuannYu",
+            "repo": "PCR",
+            "stars": 2
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "A Practical Approach to Novel Class Discovery in Tabular Data (DMKD 2024) [paper]",
+          "description": "[code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2024-08-20T09:14:53Z",
+            "owner": "ColinTr",
+            "repo": "PracticalNCD",
+            "stars": 1
+          }
+        }
+      ],
+      "title": "2024"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Parametric Classification for Generalized Category Discovery: A Baseline Study (ICCV 2023) [paper]",
+          "description": "[code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-12-30T19:28:21Z",
+            "owner": "CVMI-Lab",
+            "repo": "SimGCD",
+            "stars": 127
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Novel Class Discovery for 3D Point Cloud Semantic Segmentation (CVPR 2023) [paper]",
+          "description": "[code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-09-01T10:03:54Z",
+            "owner": "LuigiRiz",
+            "repo": "NOPS",
+            "stars": 63
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "On-the-Fly Category Discovery (CVPR 2023) [paper]",
+          "description": "[code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-07-15T23:29:27Z",
+            "owner": "PRIS-CV",
+            "repo": "On-the-fly-Category-Discovery",
+            "stars": 59
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "PromptCAL: Contrastive Affinity Learning via Auxiliary Prompts for Generalized Novel Category Discovery (CVPR 2023) [paper]",
+          "description": "[code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-03-18T04:37:25Z",
+            "owner": "sheng-eatamath",
+            "repo": "PromptCAL",
+            "stars": 48
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Dynamic Conceptional Contrastive Learning for Generalized Category Discovery (CVPR 2023) [paper]",
+          "description": "[code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-02-20T02:37:56Z",
+            "owner": "TPCD",
+            "repo": "DCCL",
+            "stars": 43
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "OpenCon: Open-world Contrastive Learning (TMLR 2023) [paper]",
+          "description": "[code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-05-11T15:02:41Z",
+            "owner": "deeplearning-wisc",
+            "repo": "opencon",
+            "stars": 38
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Generalized Category Discovery with Decoupled Prototypical Network (AAAI 2023) [paper]",
+          "description": "[code] (DPN)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-06-22T13:16:55Z",
+            "owner": "Lackel",
+            "repo": "DPN",
+            "stars": 34
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Towards Distribution-Agnostic Generalized Category Discovery (NeurIPS 2023) [paper]",
+          "description": "[code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-10-21T04:01:46Z",
+            "owner": "JianhongBai",
+            "repo": "BaCon",
+            "stars": 29
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Modeling Inter-Class and Intra-Class Constraints in Novel Class Discovery (CVPR 2023) [paper]",
+          "description": "[code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-12-31T02:42:36Z",
+            "owner": "FanZhichen",
+            "repo": "NCD-IIC",
+            "stars": 28
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Open-world Semi-supervised Novel Class Discovery (IJCAI 2023) [paper]",
+          "description": "[code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-09-05T09:35:23Z",
+            "owner": "LiuJMzzZ",
+            "repo": "OpenNCD",
+            "stars": 25
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Learning Semi-supervised Gaussian Mixture Models for Generalized Category Discovery (ICCV 2023) [paper]",
+          "description": "[code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-10-12T01:56:11Z",
+            "owner": "DTennant",
+            "repo": "GPC",
+            "stars": 24
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Learn to Categorize or Categorize to Learn? Self-Coding for Generalized Category Discovery (NeurIPS 2023) [paper]",
+          "description": "[code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-08-04T18:17:50Z",
+            "owner": "SarahRastegar",
+            "repo": "InfoSieve",
+            "stars": 23
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Discover and Align Taxonomic Context Priors for Open-world Semi-Supervised Learning (NeurIPS 2023) [paper]",
+          "description": "[code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-04-15T03:26:47Z",
+            "owner": "rain305f",
+            "repo": "TIDA",
+            "stars": 17
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Parametric Information Maximization for Generalized Category Discovery (ICCV 2023) [paper]",
+          "description": "[code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-06-17T23:45:25Z",
+            "owner": "ThalesGroup",
+            "repo": "pim-generalized-category-discovery",
+            "stars": 16
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "MetaGCD: Learning to Continually Learn in Generalized Category Discovery (ICCV 2023) [paper]",
+          "description": "[code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-09-25T18:44:42Z",
+            "owner": "ynanwu",
+            "repo": "MetaGCD",
+            "stars": 15
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Incremental Generalized Category Discovery (ICCV 2023) [paper]",
+          "description": "[code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-10-27T10:53:14Z",
+            "owner": "DTennant",
+            "repo": "Incremental-Generalized-Category-Discovery",
+            "stars": 15
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "When and How Does Known Class Help Discover Unknown Ones? Provable Understandings Through Spectral Analysis (ICML 2023) [paper]",
+          "description": "[code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-06-24T14:34:53Z",
+            "owner": "deeplearning-wisc",
+            "repo": "NSCL",
+            "stars": 14
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Proxy Anchor-based Unsupervised Learning for Continuous Generalized Category Discovery (ICCV 2023) [paper]",
+          "description": "[code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-02-05T17:21:31Z",
+            "owner": "Hy2MK",
+            "repo": "CGCD",
+            "stars": 12
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Bootstrap Your Own Prior: Towards Distribution-Agnostic Novel Class Discovery (CVPR 2023) [paper]",
+          "description": "[code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-09-25T01:50:04Z",
+            "owner": "muliyangm",
+            "repo": "BYOP",
+            "stars": 11
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "A Graph-Theoretic Framework for Understanding Open-World Semi-Supervised Learning (NeurIPS 2023) [paper]",
+          "description": "[code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-10-26T23:17:24Z",
+            "owner": "deeplearning-wisc",
+            "repo": "sorl",
+            "stars": 8
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Boosting Novel Category Discovery Over Domains with Soft Contrastive Learning and All-in-One Classifier (ICCV 2023) [paper]",
+          "description": "[code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-11-15T15:12:31Z",
+            "owner": "zangzelin",
+            "repo": "code_san_share",
+            "stars": 7
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Supervised Knowledge May Hurt Novel Class Discovery Performance (TMLR 2023) [paper]",
+          "description": "[code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-05-16T16:29:25Z",
+            "owner": "J-L-O",
+            "repo": "SK-Hurt-NCD",
+            "stars": 7
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "An Interactive Interface for Novel Class Discovery in Tabular Data (ECML PKDD 2023, Demo Track) [paper]",
+          "description": "[code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2024-08-20T09:16:55Z",
+            "owner": "ColinTr",
+            "repo": "InteractiveClustering",
+            "stars": 2
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Open-world Semi-supervised Generalized Relation Discovery Aligned in a Real-world Setting (EMNLP 2023) [paper]",
+          "description": "[code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-12-19T17:29:10Z",
+            "owner": "wphogan",
+            "repo": "knord",
+            "stars": 1
+          }
+        }
+      ],
+      "title": "2023"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Generalized Category Discovery (CVPR 2022) [paper]",
+          "description": "[code] (GCD)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2022-12-15T21:20:18Z",
+            "owner": "sgvaze",
+            "repo": "generalized-category-discovery",
+            "stars": 242
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Class-incremental Novel Class Discovery (ECCV 2022) [paper]",
+          "description": "[code] (FRoST)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-09-10T12:53:08Z",
+            "owner": "OatmealLiu",
+            "repo": "class-iNCD",
+            "stars": 125
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Open-World Semi-Supervised Learning (ICLR 2022) [paper]",
+          "description": "[code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2022-02-17T04:35:15Z",
+            "owner": "snap-stanford",
+            "repo": "orca",
+            "stars": 105
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Novel Class Discovery in Semantic Segmentation (CVPR 2022) [paper]",
+          "description": "[code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-01-03T07:43:50Z",
+            "owner": "HeliosZhao",
+            "repo": "NCDSS",
+            "stars": 70
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Towards Realistic Semi-Supervised Learning (ECCV 2022) [paper]",
+          "description": "[code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-03-14T21:07:46Z",
+            "owner": "nayeemrizve",
+            "repo": "TRSSL",
+            "stars": 41
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "OpenLDN: Learning to Discover Novel Classes for Open-World Semi-Supervised Learning (ECCV 2022) [paper]",
+          "description": "[code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-03-14T21:08:56Z",
+            "owner": "nayeemrizve",
+            "repo": "OpenLDN",
+            "stars": 36
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "XCon: Learning with Experts for Fine-grained Category Discovery (BMVC 2022) [paper]",
+          "description": "[code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2022-12-19T06:44:03Z",
+            "owner": "YiXXin",
+            "repo": "XCon",
+            "stars": 19
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Meta Discovery: Learning to Discover Novel Classes given Very Limited Data (ICLR 2022) [paper]",
+          "description": "[code] (MEDI)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-01-14T10:59:15Z",
+            "owner": "Haoang97",
+            "repo": "MEDI",
+            "stars": 17
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Divide and Conquer: Compositional Experts for Generalized Novel Class Discovery (CVPR 2022) [paper]",
+          "description": "[code] (ComEx)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2022-12-05T01:52:13Z",
+            "owner": "muliyangm",
+            "repo": "ComEx",
+            "stars": 12
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Residual Tuning: Toward Novel Category Discovery Without Labels (TNNLS 2022) [paper]",
+          "description": "[code] (ResTune)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2022-11-26T20:29:05Z",
+            "owner": "liuyudut",
+            "repo": "ResTune",
+            "stars": 9
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "A Method for Discovering Novel Classes in Tabular Data (ICKG 2022) [paper]",
+          "description": "[code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-08-20T09:23:29Z",
+            "owner": "ColinTr",
+            "repo": "TabularNCD",
+            "stars": 7
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Progressive Self-Supervised Clustering With Novel Category Discovery (TCYB 2022) [paper]",
+          "description": "[code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "MATLAB",
+            "last_commit": "2023-01-28T10:17:53Z",
+            "owner": "jymesen-wang",
+            "repo": "2022-TCYB-PSSCNCD",
+            "stars": 1
+          }
+        }
+      ],
+      "title": "2022"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "A Unified Objective for Novel Class Discovery (ICCV 2021) [paper]",
+          "description": "[code] (UNO)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2022-03-22T15:03:02Z",
+            "owner": "DonkeyShot21",
+            "repo": "UNO",
+            "stars": 159
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Neighborhood Contrastive Learning for Novel Class Discovery (CVPR 2021) [paper]",
+          "description": "[code] (NCL)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2022-12-09T12:35:06Z",
+            "owner": "zhunzhong07",
+            "repo": "NCL",
+            "stars": 77
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Novel Visual Category Discovery with Dual Ranking Statistics and Mutual Knowledge Distillation (NeurIPS 2021) [paper]",
+          "description": "[code] (DualRS)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-08-20T22:44:15Z",
+            "owner": "DTennant",
+            "repo": "dual-rank-ncd",
+            "stars": 12
+          }
+        }
+      ],
+      "title": "2021"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Automatically Discovering and Learning New Visual Categories with Ranking Statistics (ICLR 2020) [paper]",
+          "description": "[code] (AutoNovel aka RS)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2020-02-13T13:16:24Z",
+            "owner": "k-han",
+            "repo": "AutoNovel",
+            "stars": 230
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Open-World Class Discovery with Kernel Networks (ICDM 2020) [paper]",
+          "description": "[code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2021-08-19T17:51:21Z",
+            "owner": "neu-spiral",
+            "repo": "OpenWorldKNet",
+            "stars": 3
+          }
+        }
+      ],
+      "title": "2020"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Multi-class classification without multi-class labels (ICLR 2019) [paper]",
+          "description": "[code] (MCL)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2020-01-08T05:10:18Z",
+            "owner": "GT-RIPL",
+            "repo": "L2C",
+            "stars": 315
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Learning to discover novel visual categories via deep transfer clustering (ICCV 2019) [paper]",
+          "description": "[code] (DTC)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2022-10-22T06:43:20Z",
+            "owner": "k-han",
+            "repo": "DTC",
+            "stars": 169
+          }
+        }
+      ],
+      "title": "2019"
+    },
+    {
+      "description": "Please help us improve the above listing by submitting PRs of other papers in this space. Thank you!",
+      "items": [],
+      "title": "Contributing"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T16:34:04.224Z",
+    "original_repository": "JosephKJ/Awesome-Novel-Class-Discovery",
+    "original_repository_sha": "7612ce3f9f57fb69adc3e26443d0812abdad0401",
+    "enhanced_repository": "enhansome/enhansome-Awesome-Novel-Class-Discovery",
+    "enhanced_repository_description": null,
+    "title": "Awesome-Novel-Class-Discovery with stars"
+  }
+}
