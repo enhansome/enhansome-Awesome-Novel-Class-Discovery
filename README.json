@@ -198,6 +198,20 @@
         },
         {
           "node_type": "item",
+          "title": "SECOS: Semantic Capture for Rigorous Classification in Open-World Semi-Supervised Learning (CVPR 2026) [paper]",
+          "description": "[code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-06-16T07:40:05Z",
+            "owner": "ganchi-huanggua",
+            "repo": "OSSL-Classification",
+            "stars": 4
+          }
+        },
+        {
+          "node_type": "item",
           "title": "Generalized Category Discovery for LiDAR Semantic Segmentation (WACV 2026) [paper]",
           "description": "[code]",
           "children": [],
@@ -208,20 +222,6 @@
             "owner": "Minseokkim-0124",
             "repo": "Generalized-Category-Discovery-for-LiDAR-Semantic-Segmentation",
             "stars": 4
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "SECOS: Semantic Capture for Rigorous Classification in Open-World Semi-Supervised Learning (CVPR 2026) [paper]",
-          "description": "[code]",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-06-16T07:40:05Z",
-            "owner": "ganchi-huanggua",
-            "repo": "OSSL-Classification",
-            "stars": 3
           }
         },
         {
@@ -1578,7 +1578,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-13T16:34:04.224Z",
+    "last_updated": "2026-08-14T16:30:25.214Z",
     "original_repository": "JosephKJ/Awesome-Novel-Class-Discovery",
     "original_repository_sha": "7612ce3f9f57fb69adc3e26443d0812abdad0401",
     "enhanced_repository": "enhansome/enhansome-Awesome-Novel-Class-Discovery",
