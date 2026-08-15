@@ -24,7 +24,7 @@ More details are in this [survey](https://arxiv.org/abs/2403.01759).
 
 * Novel Class Discovery: an Introduction and Key Concepts [\[paper\]](https://www.researchgate.net/publication/368753429_Novel_Class_Discovery_an_Introduction_and_Key_Concepts)
 * Open-world machine learning: A review and new outlooks [\[paper\]](https://arxiv.org/abs/2403.01759)
-* Category Discovery: An Open-World Perspective [\[paper\]](https://arxiv.org/abs/2509.22542) [\[code\]](https://github.com/Visual-AI/Category-Discovery) ⭐ 16 | 🐛 0 | 📅 2026-03-17
+* Category Discovery: An Open-World Perspective [\[paper\]](https://arxiv.org/abs/2509.22542) [\[code\]](https://github.com/Visual-AI/Category-Discovery) ⭐ 16 | 🐛 0 | 📅 2026-08-15
 
 ## Preprints
 
@@ -281,4 +281,4 @@ Please help us improve the above listing by submitting PRs of other papers in th
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-14._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-15._
