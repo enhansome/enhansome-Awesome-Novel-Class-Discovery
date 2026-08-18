@@ -163,10 +163,10 @@ More details are in this [survey](https://arxiv.org/abs/2403.01759).
 * Textual Knowledge Matters: Cross-Modality Co-Teaching for Generalized Visual Class Discovery (**ECCV** 2024) [\[paper\]](https://arxiv.org/abs/2403.07369) [\[code\]](https://github.com/HaiyangZheng/TextGCD) ⭐ 23 | 🐛 2 | 🌐 Python | 📅 2025-11-26
 * Prototypical Hash Encoding for On-the-Fly Fine-Grained Category Discovery (**NeurIPS** 2024) [\[paper\]](https://arxiv.org/abs/2410.19213) [\[code\]](https://github.com/HaiyangZheng/PHE) ⭐ 16 | 🐛 0 | 🌐 Python | 📅 2025-10-01
 * Solving the Catastrophic Forgetting Problem in Generalized Category Discovery (**CVPR** 2024) [\[paper\]](https://openaccess.thecvf.com/content/CVPR2024/html/Cao_Solving_the_Catastrophic_Forgetting_Problem_in_Generalized_Category_Discovery_CVPR_2024_paper.html) [\[code\]](https://github.com/Cliffia123/LegoGCD) ⭐ 16 | 🐛 2 | 🌐 Python | 📅 2024-12-24
+* Dual-level Adaptive Self-Labeling for Novel Class Discovery in Point Cloud Segmentation (**ECCV** 2024) [\[paper\]](https://arxiv.org/pdf/2407.12489) [\[code\]](https://github.com/RikkiXu/NCD_PC) ⭐ 15 | 🐛 1 | 🌐 Python | 📅 2024-11-01
 * Online Continuous Generalized Category Discovery (**ECCV** 2024) [\[paper\]](https://arxiv.org/abs/2408.13492) [\[code\]](https://github.com/KHU-AGI/OCGCD) ⭐ 14 | 🐛 0 | 🌐 Python | 📅 2024-10-06
-* Dual-level Adaptive Self-Labeling for Novel Class Discovery in Point Cloud Segmentation (**ECCV** 2024) [\[paper\]](https://arxiv.org/pdf/2407.12489) [\[code\]](https://github.com/RikkiXu/NCD_PC) ⭐ 14 | 🐛 1 | 🌐 Python | 📅 2024-11-01
+* Novel class discovery meets foundation models for 3D semantic segmentation (**IJCV** 2024) [\[paper\]](https://doi.org/10.1007/s11263-024-02180-x) [\[code\]](https://github.com/LuigiRiz/SNOPS) ⭐ 9 | 🐛 1 | 🌐 Python | 📅 2024-08-08
 * Transfer and Alignment Network for Generalized Category Discovery (**AAAI** 2024) [\[paper\]](https://arxiv.org/abs/2312.16467) [\[code\]](https://github.com/Lackel/TAN) ⭐ 9 | 🐛 0 | 🌐 Python | 📅 2024-06-22
-* Novel class discovery meets foundation models for 3D semantic segmentation (**IJCV** 2024) [\[paper\]](https://doi.org/10.1007/s11263-024-02180-x) [\[code\]](https://github.com/LuigiRiz/SNOPS) ⭐ 8 | 🐛 1 | 🌐 Python | 📅 2024-08-08
 * Semantic-Guided Novel Category Discovery (**AAAI** 2024) [\[paper\]](https://semantic-guided-ncd.github.io/img/SNCDpaper.pdf) [\[code\]](https://github.com/wang-weishuai/Semantic-guided-NCD) ⭐ 8 | 🐛 1 | 🌐 Python | 📅 2024-02-20
 * Guided Cluster Aggregation: A Hierarchical Approach to Generalized Category Discovery (**WACV** 2024) [\[paper\]](https://openaccess.thecvf.com/content/WACV2024/papers/Otholt_Guided_Cluster_Aggregation_A_Hierarchical_Approach_to_Generalized_Category_Discovery_WACV_2024_paper.pdf) [\[code\]](https://github.com/J-L-O/guided-cluster-aggregation) ⭐ 7 | 🐛 0 | 🌐 Python | 📅 2023-10-26
 * Contextuality Helps Representation Learning for Generalized Category Discovery (**ICIP** 2024) [\[paper\]](https://arxiv.org/abs/2407.19752) [\[code\]](https://github.com/Clarence-CV/Contexuality-GCD) ⭐ 6 | 🐛 0 | 🌐 Python | 📅 2024-12-14
@@ -188,7 +188,7 @@ More details are in this [survey](https://arxiv.org/abs/2403.01759).
 ## 2023
 
 * Parametric Classification for Generalized Category Discovery: A Baseline Study (**ICCV** 2023) [\[paper\]](https://arxiv.org/abs/2211.11727) [\[code\]](https://github.com/CVMI-Lab/SimGCD) ⭐ 127 | 🐛 2 | 🌐 Python | 📅 2023-12-30
-* Novel Class Discovery for 3D Point Cloud Semantic Segmentation (**CVPR** 2023) [\[paper\]](https://arxiv.org/abs/2303.11610) [\[code\]](https://github.com/LuigiRiz/NOPS) ⭐ 63 | 🐛 2 | 🌐 Python | 📅 2023-09-01
+* Novel Class Discovery for 3D Point Cloud Semantic Segmentation (**CVPR** 2023) [\[paper\]](https://arxiv.org/abs/2303.11610) [\[code\]](https://github.com/LuigiRiz/NOPS) ⭐ 64 | 🐛 2 | 🌐 Python | 📅 2023-09-01
 * On-the-Fly Category Discovery (**CVPR** 2023) [\[paper\]](https://openaccess.thecvf.com/content/CVPR2023/papers/Du_On-the-Fly_Category_Discovery_CVPR_2023_paper.pdf) [\[code\]](https://github.com/PRIS-CV/On-the-fly-Category-Discovery) ⭐ 59 | 🐛 2 | 🌐 Python | 📅 2023-07-15
 * PromptCAL: Contrastive Affinity Learning via Auxiliary Prompts for Generalized Novel Category Discovery (**CVPR** 2023) [\[paper\]](https://arxiv.org/abs/2212.05590) [\[code\]](https://github.com/sheng-eatamath/PromptCAL) ⭐ 48 | 🐛 0 | 🌐 Python | 📅 2023-03-18
 * Dynamic Conceptional Contrastive Learning for Generalized Category Discovery (**CVPR** 2023) [\[paper\]](https://arxiv.org/pdf/2303.17393) [\[code\]](https://github.com/TPCD/DCCL) ⭐ 43 | 🐛 7 | 🌐 Python | 📅 2024-02-20
@@ -281,4 +281,4 @@ Please help us improve the above listing by submitting PRs of other papers in th
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-16._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-18._

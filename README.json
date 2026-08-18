@@ -798,6 +798,20 @@
         },
         {
           "node_type": "item",
+          "title": "Dual-level Adaptive Self-Labeling for Novel Class Discovery in Point Cloud Segmentation (ECCV 2024) [paper]",
+          "description": "[code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-11-01T04:44:46Z",
+            "owner": "RikkiXu",
+            "repo": "NCD_PC",
+            "stars": 15
+          }
+        },
+        {
+          "node_type": "item",
           "title": "Online Continuous Generalized Category Discovery (ECCV 2024) [paper]",
           "description": "[code]",
           "children": [],
@@ -812,16 +826,16 @@
         },
         {
           "node_type": "item",
-          "title": "Dual-level Adaptive Self-Labeling for Novel Class Discovery in Point Cloud Segmentation (ECCV 2024) [paper]",
+          "title": "Novel class discovery meets foundation models for 3D semantic segmentation (IJCV 2024) [paper]",
           "description": "[code]",
           "children": [],
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2024-11-01T04:44:46Z",
-            "owner": "RikkiXu",
-            "repo": "NCD_PC",
-            "stars": 14
+            "last_commit": "2024-08-08T09:04:45Z",
+            "owner": "LuigiRiz",
+            "repo": "SNOPS",
+            "stars": 9
           }
         },
         {
@@ -836,20 +850,6 @@
             "owner": "Lackel",
             "repo": "TAN",
             "stars": 9
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Novel class discovery meets foundation models for 3D semantic segmentation (IJCV 2024) [paper]",
-          "description": "[code]",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2024-08-08T09:04:45Z",
-            "owner": "LuigiRiz",
-            "repo": "SNOPS",
-            "stars": 8
           }
         },
         {
@@ -967,7 +967,7 @@
             "last_commit": "2023-09-01T10:03:54Z",
             "owner": "LuigiRiz",
             "repo": "NOPS",
-            "stars": 63
+            "stars": 64
           }
         },
         {
@@ -1578,7 +1578,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-16T15:56:53.430Z",
+    "last_updated": "2026-08-18T16:02:18.876Z",
     "original_repository": "JosephKJ/Awesome-Novel-Class-Discovery",
     "original_repository_sha": "7612ce3f9f57fb69adc3e26443d0812abdad0401",
     "enhanced_repository": "enhansome/enhansome-Awesome-Novel-Class-Discovery",
