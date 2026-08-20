@@ -222,7 +222,7 @@ More details are in this [survey](https://arxiv.org/abs/2403.01759).
 
 ## 2022
 
-* Generalized Category Discovery (**CVPR** 2022) [\[paper\]](https://arxiv.org/abs/2201.02609) [\[code\]](https://github.com/sgvaze/generalized-category-discovery) ⭐ 242 | 🐛 12 | 🌐 Python | 📅 2022-12-15 (GCD)
+* Generalized Category Discovery (**CVPR** 2022) [\[paper\]](https://arxiv.org/abs/2201.02609) [\[code\]](https://github.com/sgvaze/generalized-category-discovery) ⭐ 243 | 🐛 12 | 🌐 Python | 📅 2022-12-15 (GCD)
 * Class-incremental Novel Class Discovery (**ECCV** 2022) [\[paper\]](https://arxiv.org/abs/2207.08605) [\[code\]](https://github.com/OatmealLiu/class-iNCD) ⭐ 125 | 🐛 1 | 🌐 Python | 📅 2024-09-10 (FRoST)
 * Open-World Semi-Supervised Learning (**ICLR** 2022) [\[paper\]](https://arxiv.org/abs/2102.03526) [\[code\]](https://github.com/snap-stanford/orca) ⭐ 105 | 🐛 10 | 🌐 Python | 📅 2022-02-17
 * Novel Class Discovery in Semantic Segmentation (**CVPR** 2022) [\[paper\]](https://arxiv.org/abs/2112.01900) [\[code\]](https://github.com/HeliosZhao/NCDSS) ⭐ 70 | 🐛 4 | 🌐 Python | 📅 2023-01-03
@@ -281,4 +281,4 @@ Please help us improve the above listing by submitting PRs of other papers in th
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-19._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-20._
