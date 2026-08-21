@@ -191,7 +191,7 @@ More details are in this [survey](https://arxiv.org/abs/2403.01759).
 * Novel Class Discovery for 3D Point Cloud Semantic Segmentation (**CVPR** 2023) [\[paper\]](https://arxiv.org/abs/2303.11610) [\[code\]](https://github.com/LuigiRiz/NOPS) ⭐ 64 | 🐛 2 | 🌐 Python | 📅 2023-09-01
 * On-the-Fly Category Discovery (**CVPR** 2023) [\[paper\]](https://openaccess.thecvf.com/content/CVPR2023/papers/Du_On-the-Fly_Category_Discovery_CVPR_2023_paper.pdf) [\[code\]](https://github.com/PRIS-CV/On-the-fly-Category-Discovery) ⭐ 59 | 🐛 2 | 🌐 Python | 📅 2023-07-15
 * PromptCAL: Contrastive Affinity Learning via Auxiliary Prompts for Generalized Novel Category Discovery (**CVPR** 2023) [\[paper\]](https://arxiv.org/abs/2212.05590) [\[code\]](https://github.com/sheng-eatamath/PromptCAL) ⭐ 48 | 🐛 0 | 🌐 Python | 📅 2023-03-18
-* Dynamic Conceptional Contrastive Learning for Generalized Category Discovery (**CVPR** 2023) [\[paper\]](https://arxiv.org/pdf/2303.17393) [\[code\]](https://github.com/TPCD/DCCL) ⭐ 43 | 🐛 7 | 🌐 Python | 📅 2024-02-20
+* Dynamic Conceptional Contrastive Learning for Generalized Category Discovery (**CVPR** 2023) [\[paper\]](https://arxiv.org/pdf/2303.17393) [\[code\]](https://github.com/TPCD/DCCL) ⭐ 42 | 🐛 7 | 🌐 Python | 📅 2024-02-20
 * OpenCon: Open-world Contrastive Learning (**TMLR** 2023) [\[paper\]](https://arxiv.org/abs/2208.02764) [\[code\]](https://github.com/deeplearning-wisc/opencon/) ⭐ 38 | 🐛 0 | 🌐 Python | 📅 2023-05-11
 * Generalized Category Discovery with Decoupled Prototypical Network (**AAAI** 2023) [\[paper\]](https://arxiv.org/abs/2211.15115) [\[code\]](https://github.com/Lackel/DPN) ⭐ 34 | 🐛 0 | 🌐 Python | 📅 2024-06-22 (DPN)
 * Towards Distribution-Agnostic Generalized Category Discovery (**NeurIPS** 2023) [\[paper\]](https://arxiv.org/abs/2310.01376) [\[code\]](https://github.com/JianhongBai/BaCon) ⭐ 29 | 🐛 1 | 🌐 Python | 📅 2023-10-21
@@ -281,4 +281,4 @@ Please help us improve the above listing by submitting PRs of other papers in th
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-20._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-21._
