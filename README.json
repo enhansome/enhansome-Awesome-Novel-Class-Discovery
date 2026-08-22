@@ -689,6 +689,21 @@
             "repo": "MSGCD",
             "stars": 1
           }
+        },
+        {
+          "node_type": "item",
+          "title": "SynC and SynC-AL: Language-assisted Feature Representation and Lightweight Active Learning For On-the-Fly Category Discovery (TMLR 2025) [paper]",
+          "description": "[code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1063059344,
+            "language": "Python",
+            "last_commit": "2025-09-24T17:27:21Z",
+            "owner": "missBanerjee",
+            "repo": "SynC",
+            "stars": 0
+          }
         }
       ],
       "title": "2025"
@@ -1676,10 +1691,10 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-21T16:03:28.612Z",
+    "last_updated": "2026-08-22T15:55:43.739Z",
     "original_repository": "JosephKJ/Awesome-Novel-Class-Discovery",
     "original_repository_id": 435729541,
-    "original_repository_sha": "7612ce3f9f57fb69adc3e26443d0812abdad0401",
+    "original_repository_sha": "653234996f03d11cabc5cdf442e9cae4fb6d1252",
     "enhanced_repository": "enhansome/enhansome-Awesome-Novel-Class-Discovery",
     "enhanced_repository_description": null,
     "title": "Awesome-Novel-Class-Discovery with stars"

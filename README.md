@@ -135,6 +135,7 @@ More details are in this [survey](https://arxiv.org/abs/2403.01759).
 * Consistent Prompt Tuning for Generalized Category Discovery (**IJCV** 2025) [\[paper\]](https://link.springer.com/article/10.1007/s11263-024-02343-w) [\[code\]](https://github.com/muliyangm/CPT) ⭐ 3 | 🐛 1 | 📅 2025-12-23
 * Towards Understanding Parametric Generalized Category Discovery on Graphs (**ICML** 2025) [\[paper\]](https://icml.cc/virtual/2025/poster/45645) [\[code\]](https://github.com/bwdeng20/GraphGCD) ⭐ 1 | 🐛 2 | 📅 2025-05-24
 * Mutual-support Generalized Category Discovery (**Information Fusion** 2025) [\[paper\]](https://doi.org/10.1016/j.inffus.2025.103020) [\[code\]](https://github.com/DuannYu/MSGCD) ⭐ 1 | 🐛 0 | 🌐 Python | 📅 2025-05-12
+* SynC and SynC-AL: Language-assisted Feature Representation and Lightweight Active Learning For On-the-Fly Category Discovery (**TMLR** 2025) [\[paper\]](https://openreview.net/pdf?id=ZihFoM8K0j) [\[code\]](https://github.com/missBanerjee/SynC) ⭐ 0 | 🐛 0 | 🌐 Python | 📅 2025-09-24
 * Hyperbolic Category Discovery (**CVPR** 2025) [\[paper\]](https://arxiv.org/abs/2504.06120) [\[code\]](https://visual-ai.github.io/hypcd/)
 * Adaptive Part Learning for Fine-Grained Generalized Category Discovery: A Plug-and-Play Enhancement (**CVPR** 2025) [\[paper\]](https://arxiv.org/pdf/2507.06928)
 * Multimodal Generalized Category Discovery (**CVPR Workshop** 2025) [\[paper\]](https://openaccess.thecvf.com/content/CVPR2025W/TMM-OpenWorld/html/Su_Multimodal_Generalized_Category_Discovery_CVPRW_2025_paper.html)
@@ -281,4 +282,4 @@ Please help us improve the above listing by submitting PRs of other papers in th
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-21._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-22._
