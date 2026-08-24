@@ -1688,10 +1688,52 @@
         }
       ],
       "title": "2019"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Learning to cluster in order to transfer across domains and tasks (ICLR 2018) [paper]",
+          "description": "[code] (KCL)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 140605814,
+            "language": "Python",
+            "last_commit": "2020-01-08T05:10:18Z",
+            "owner": "GT-RIPL",
+            "repo": "L2C",
+            "stars": 315
+          }
+        }
+      ],
+      "title": "2018"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Neural network-based clustering using pairwise constraints (ICLR-workshop 2016) [paper]",
+          "description": "[code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 140605814,
+            "language": "Python",
+            "last_commit": "2020-01-08T05:10:18Z",
+            "owner": "GT-RIPL",
+            "repo": "L2C",
+            "stars": 315
+          }
+        }
+      ],
+      "title": "2016"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-23T15:57:05.349Z",
+    "last_updated": "2026-08-24T14:26:00.119Z",
     "original_repository": "JosephKJ/Awesome-Novel-Class-Discovery",
     "original_repository_id": 435729541,
     "original_repository_sha": "653234996f03d11cabc5cdf442e9cae4fb6d1252",
