@@ -156,7 +156,7 @@
             "last_commit": "2026-04-18T14:39:39Z",
             "owner": "ynanwu",
             "repo": "TALON",
-            "stars": 10
+            "stars": 9
           }
         },
         {
@@ -341,21 +341,6 @@
         },
         {
           "node_type": "item",
-          "title": "Learning Intrinsic Hierarchy for Generalized Category Discovery (AAAI 2026) [paper]",
-          "description": "[code]",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "id": 1096963338,
-            "language": "Python",
-            "last_commit": "2026-06-05T08:07:47Z",
-            "owner": "DuannYu",
-            "repo": "LEAH",
-            "stars": 0
-          }
-        },
-        {
-          "node_type": "item",
           "title": "TLSA: LLM-Guided Text-Label Space Alignment with Contrastive Learning for Generalized Category Discovery (ACL 2026) [paper]",
           "description": "[code]",
           "children": [],
@@ -366,6 +351,21 @@
             "last_commit": "2026-06-26T11:57:38Z",
             "owner": "Wenxi-Xu",
             "repo": "TLSA",
+            "stars": 1
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Learning Intrinsic Hierarchy for Generalized Category Discovery (AAAI 2026) [paper]",
+          "description": "[code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1096963338,
+            "language": "Python",
+            "last_commit": "2026-06-05T08:07:47Z",
+            "owner": "DuannYu",
+            "repo": "LEAH",
             "stars": 0
           }
         }
@@ -1733,7 +1733,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T16:18:03.516Z",
+    "last_updated": "2026-08-26T16:37:53.582Z",
     "original_repository": "JosephKJ/Awesome-Novel-Class-Discovery",
     "original_repository_id": 435729541,
     "original_repository_sha": "653234996f03d11cabc5cdf442e9cae4fb6d1252",

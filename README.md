@@ -70,7 +70,7 @@ More details are in this [survey](https://arxiv.org/abs/2403.01759).
 
 * SpectralGCD: Spectral Concept Selection and Cross-modal Representation Learning for Generalized Category Discovery (**ICLR** 2026) [\[paper\]](https://openreview.net/forum?id=PyfV9tFmdR) [\[code\]](https://github.com/miccunifi/SpectralGCD) ⭐ 23 | 🐛 1 | 🌐 Python | 📅 2026-03-18
 * Learning Like Humans: Analogical Concept Learning for Generalized Category Discovery (**CVPR** 2026) [\[paper\]](https://openaccess.thecvf.com/content/CVPR2026/html/Han_Learning_Like_Humans_Analogical_Concept_Learning_for_Generalized_Category_Discovery_CVPR_2026_paper.html) [\[code\]](https://github.com/zhou-9527/AnaLogical-GCD) ⭐ 20 | 🐛 1 | 🌐 Python | 📅 2026-07-01
-* TALON: Test-time Adaptive Learning for On-the-Fly Category Discovery (**CVPR** 2026) [\[paper\]](https://openaccess.thecvf.com/content/CVPR2026/html/Wu_TALON_Test-time_Adaptive_Learning_for_On-the-Fly_Category_Discovery_CVPR_2026_paper.html) [\[code\]](https://github.com/ynanwu/TALON) ⭐ 10 | 🐛 2 | 🌐 Python | 📅 2026-04-18
+* TALON: Test-time Adaptive Learning for On-the-Fly Category Discovery (**CVPR** 2026) [\[paper\]](https://openaccess.thecvf.com/content/CVPR2026/html/Wu_TALON_Test-time_Adaptive_Learning_for_On-the-Fly_Category_Discovery_CVPR_2026_paper.html) [\[code\]](https://github.com/ynanwu/TALON) ⭐ 9 | 🐛 2 | 🌐 Python | 📅 2026-04-18
 * GLEAN: Active Generalized Category Discovery with Diverse LLM Feedback (**EACL** 2026) [\[paper\]](https://aclanthology.org/2026.eacl-long.358/) [\[code\]](https://github.com/amazon-science/Glean) ⭐ 9 | 🐛 1 | 🌐 Python | 📅 2026-07-02
 * Generalized Fine-Grained Category Discovery with Multi-Granularity Conceptual Experts (**IJCV** 2026) [\[paper\]](https://doi.org/10.1007/s11263-026-02970-5) [\[code\]](https://github.com/HaiyangZheng/MGCE) ⭐ 9 | 🐛 0 | 🌐 Python | 📅 2026-07-11
 * Adaptive Gaussian Expansion for On-the-fly Category Discovery (**ICLR** 2026) [\[paper\]](https://openreview.net/forum?id=Y59JeAbM3j) [\[code\]](https://github.com/Ashengl/AGE) ⭐ 6 | 🐛 0 | 🌐 Python | 📅 2026-04-01
@@ -83,8 +83,8 @@ More details are in this [survey](https://arxiv.org/abs/2403.01759).
 * Identifying Latent Concepts and Structures for Generalized Category Discovery (**ICML** 2026) [\[paper\]](https://icml.cc/virtual/2026/poster/62711) [\[code\]](https://github.com/Michael-McQueen/CPF) ⭐ 2 | 🐛 0 | 🌐 Python | 📅 2026-06-07
 * BOLT: Benchmarking Open-World Learning for Text Classification (**ACL Findings** 2026) [\[paper\]](https://aclanthology.org/2026.findings-acl.667/) [\[code\]](https://github.com/CNIC-DSL/BOLT) ⭐ 2 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2026-04-20
 * Bures-Isotropy Alignment: Manifold Learning in Generalized Category Discovery (**ICLR** 2026) [\[paper\]](https://openreview.net/forum?id=nfVKTJ1MJ3) [\[code\]](https://github.com/lytang63/BIA) ⭐ 1 | 🐛 0 | 📅 2026-02-04
+* TLSA: LLM-Guided Text-Label Space Alignment with Contrastive Learning for Generalized Category Discovery (**ACL** 2026) [\[paper\]](https://aclanthology.org/2026.acl-long.869/) [\[code\]](https://github.com/Wenxi-Xu/TLSA) ⭐ 1 | 🐛 0 | 🌐 Python | 📅 2026-06-26
 * Learning Intrinsic Hierarchy for Generalized Category Discovery (**AAAI** 2026) [\[paper\]](https://ojs.aaai.org/index.php/AAAI/article/view/39236) [\[code\]](https://github.com/DuannYu/LEAH) ⭐ 0 | 🐛 0 | 🌐 Python | 📅 2026-06-05
-* TLSA: LLM-Guided Text-Label Space Alignment with Contrastive Learning for Generalized Category Discovery (**ACL** 2026) [\[paper\]](https://aclanthology.org/2026.acl-long.869/) [\[code\]](https://github.com/Wenxi-Xu/TLSA) ⭐ 0 | 🐛 0 | 🌐 Python | 📅 2026-06-26
 * The Devil Is in Gradient Entanglement: Energy-Aware Gradient Coordinator for Robust Generalized Category Discovery (**CVPR** 2026) [\[paper\]](https://openaccess.thecvf.com/content/CVPR2026/html/Zheng_The_Devil_Is_in_Gradient_Entanglement_Energy-Aware_Gradient_Coordinator_for_CVPR_2026_paper.html) [\[code\]](https://haiyangzheng.github.io/EAGC/)
 * Seeing Through the Shift: Causality-Inspired Robust Generalized Category Discovery (**CVPR** 2026) [\[paper\]](https://openaccess.thecvf.com/content/CVPR2026/html/Feng_Seeing_Through_the_Shift_Causality-Inspired_Robust_Generalized_Category_Discovery_CVPR_2026_paper.html)
 * Decouple Your Discovery and Memory in Continual Generalized Category Discovery (**CVPR** 2026) [\[paper\]](https://openaccess.thecvf.com/content/CVPR2026/html/Yu_Decouple_Your_Discovery_and_Memory_in_Continual_Generalized_Category_Discovery_CVPR_2026_paper.html)
@@ -282,4 +282,4 @@ Please help us improve the above listing by submitting PRs of other papers in th
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-25._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-26._
