@@ -387,7 +387,7 @@
             "last_commit": "2025-06-13T07:01:09Z",
             "owner": "mashijie1028",
             "repo": "ProtoGCD",
-            "stars": 43
+            "stars": 44
           }
         },
         {
@@ -750,7 +750,7 @@
             "archived": false,
             "id": 868256960,
             "language": "Python",
-            "last_commit": "2025-11-25T14:49:38Z",
+            "last_commit": "2026-08-26T18:10:43Z",
             "owner": "mashijie1028",
             "repo": "Happy-CGCD",
             "stars": 47
@@ -1733,9 +1733,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-26T16:37:53.582Z",
-    "original_repository": "JosephKJ/Awesome-Novel-Class-Discovery",
-    "original_repository_id": 435729541,
+    "last_updated": "2026-08-27T11:26:02.649Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 435729541,
+      "language": null,
+      "last_commit": "2026-08-22T11:36:59Z",
+      "owner": "JosephKJ",
+      "repo": "Awesome-Novel-Class-Discovery",
+      "stars": 530
+    },
     "original_repository_sha": "653234996f03d11cabc5cdf442e9cae4fb6d1252",
     "enhanced_repository": "enhansome/enhansome-Awesome-Novel-Class-Discovery",
     "enhanced_repository_description": null,

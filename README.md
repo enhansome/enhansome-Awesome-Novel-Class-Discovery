@@ -114,7 +114,7 @@ More details are in this [survey](https://arxiv.org/abs/2403.01759).
 
 ## 2025
 
-* ProtoGCD: Unified and Unbiased Prototype Learning for Generalized Category Discovery (**TPAMI** 2025) [\[paper\]](https://arxiv.org/abs/2504.03755) [\[code\]](https://github.com/mashijie1028/ProtoGCD) ⭐ 43 | 🐛 0 | 🌐 Python | 📅 2025-06-13
+* ProtoGCD: Unified and Unbiased Prototype Learning for Generalized Category Discovery (**TPAMI** 2025) [\[paper\]](https://arxiv.org/abs/2504.03755) [\[code\]](https://github.com/mashijie1028/ProtoGCD) ⭐ 44 | 🐛 0 | 🌐 Python | 📅 2025-06-13
 * GET: Unlocking the Multi-Modal Potential of CLIP for Generalized Category Discovery (**CVPR** 2025) [\[paper\]](https://arxiv.org/abs/2403.09974) [\[code\]](https://github.com/enguangW/GET) ⭐ 37 | 🐛 2 | 🌐 Python | 📅 2025-03-31
 * HiLo: A Learning Framework for Generalized Category Discovery Robust to Domain Shifts (**ICLR** 2025) [\[paper\]](https://arxiv.org/abs/2408.04591) [\[code\]](https://github.com/Visual-AI/HiLo) ⭐ 22 | 🐛 4 | 🌐 Python | 📅 2025-08-01
 * DebGCD: Debiased Learning with Distribution Guidance for Generalized Category Discovery (**ICLR** 2025) [\[paper\]](https://arxiv.org/abs/2504.04804) [\[code\]](https://github.com/Visual-AI/DebGCD) ⭐ 16 | 🐛 0 | 🌐 Python | 📅 2025-09-27
@@ -156,7 +156,7 @@ More details are in this [survey](https://arxiv.org/abs/2403.01759).
 
 * Active Generalized Category Discovery (**CVPR** 2024) [\[paper\]](https://arxiv.org/abs/2403.04272) [\[code\]](https://github.com/mashijie1028/ActiveGCD) ⭐ 54 | 🐛 0 | 🌐 Python | 📅 2024-10-17
 * Contrastive Mean-Shift Learning for Generalized Category Discovery (**CVPR** 2024) [\[paper\]](https://arxiv.org/abs/2404.09451) [\[code\]](https://github.com/sua-choi/CMS) ⭐ 50 | 🐛 1 | 🌐 Python | 📅 2024-05-01
-* Happy: A Debiased Learning Framework for Continual Generalized Category Discovery (**NeurIPS** 2024) [\[paper\]](https://arxiv.org/abs/2410.06535) [\[code\]](https://github.com/mashijie1028/Happy-CGCD) ⭐ 47 | 🐛 1 | 🌐 Python | 📅 2025-11-25
+* Happy: A Debiased Learning Framework for Continual Generalized Category Discovery (**NeurIPS** 2024) [\[paper\]](https://arxiv.org/abs/2410.06535) [\[code\]](https://github.com/mashijie1028/Happy-CGCD) ⭐ 47 | 🐛 1 | 🌐 Python | 📅 2026-08-26
 * SPTNet: An Efficient Alternative Framework for Generalized Category Discovery with Spatial Prompt Tuning (**ICLR** 2024) [\[paper\]](https://openreview.net/forum?id=3QLkwU40EE) [\[code\]](https://github.com/Visual-AI/SPTNet) ⭐ 36 | 🐛 0 | 🌐 Python | 📅 2025-04-09
 * SelEx: Self-Expertise in Fine-Grained Generalized Category Discovery (**ECCV** 2024) [\[paper\]](https://arxiv.org/abs/2408.14371) [\[code\]](https://github.com/SarahRastegar/SelEx) ⭐ 31 | 🐛 0 | 🌐 Python | 📅 2025-08-04
 * PromptCCD: Learning Gaussian Mixture Prompt Pool for Continual Category Discovery (**ECCV** 2024) [\[paper\]](https://arxiv.org/abs/2407.19001) [\[code\]](https://github.com/Visual-AI/PromptCCD) ⭐ 31 | 🐛 0 | 🌐 Python | 📅 2025-04-03
@@ -282,4 +282,4 @@ Please help us improve the above listing by submitting PRs of other papers in th
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-26._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-27._
