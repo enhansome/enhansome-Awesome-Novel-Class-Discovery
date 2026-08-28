@@ -146,21 +146,6 @@
         },
         {
           "node_type": "item",
-          "title": "TALON: Test-time Adaptive Learning for On-the-Fly Category Discovery (CVPR 2026) [paper]",
-          "description": "[code]",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "id": 1176519778,
-            "language": "Python",
-            "last_commit": "2026-04-18T14:39:39Z",
-            "owner": "ynanwu",
-            "repo": "TALON",
-            "stars": 9
-          }
-        },
-        {
-          "node_type": "item",
           "title": "GLEAN: Active Generalized Category Discovery with Diverse LLM Feedback (EACL 2026) [paper]",
           "description": "[code]",
           "children": [],
@@ -187,6 +172,21 @@
             "owner": "HaiyangZheng",
             "repo": "MGCE",
             "stars": 9
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "TALON: Test-time Adaptive Learning for On-the-Fly Category Discovery (CVPR 2026) [paper]",
+          "description": "[code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1176519778,
+            "language": "Python",
+            "last_commit": "2026-04-18T14:39:39Z",
+            "owner": "ynanwu",
+            "repo": "TALON",
+            "stars": 8
           }
         },
         {
@@ -1733,7 +1733,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T11:26:02.649Z",
+    "last_updated": "2026-08-28T00:36:00.415Z",
     "original_repository_info": {
       "archived": false,
       "id": 435729541,

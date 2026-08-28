@@ -70,9 +70,9 @@ More details are in this [survey](https://arxiv.org/abs/2403.01759).
 
 * SpectralGCD: Spectral Concept Selection and Cross-modal Representation Learning for Generalized Category Discovery (**ICLR** 2026) [\[paper\]](https://openreview.net/forum?id=PyfV9tFmdR) [\[code\]](https://github.com/miccunifi/SpectralGCD) ⭐ 23 | 🐛 1 | 🌐 Python | 📅 2026-03-18
 * Learning Like Humans: Analogical Concept Learning for Generalized Category Discovery (**CVPR** 2026) [\[paper\]](https://openaccess.thecvf.com/content/CVPR2026/html/Han_Learning_Like_Humans_Analogical_Concept_Learning_for_Generalized_Category_Discovery_CVPR_2026_paper.html) [\[code\]](https://github.com/zhou-9527/AnaLogical-GCD) ⭐ 20 | 🐛 1 | 🌐 Python | 📅 2026-07-01
-* TALON: Test-time Adaptive Learning for On-the-Fly Category Discovery (**CVPR** 2026) [\[paper\]](https://openaccess.thecvf.com/content/CVPR2026/html/Wu_TALON_Test-time_Adaptive_Learning_for_On-the-Fly_Category_Discovery_CVPR_2026_paper.html) [\[code\]](https://github.com/ynanwu/TALON) ⭐ 9 | 🐛 2 | 🌐 Python | 📅 2026-04-18
 * GLEAN: Active Generalized Category Discovery with Diverse LLM Feedback (**EACL** 2026) [\[paper\]](https://aclanthology.org/2026.eacl-long.358/) [\[code\]](https://github.com/amazon-science/Glean) ⭐ 9 | 🐛 1 | 🌐 Python | 📅 2026-07-02
 * Generalized Fine-Grained Category Discovery with Multi-Granularity Conceptual Experts (**IJCV** 2026) [\[paper\]](https://doi.org/10.1007/s11263-026-02970-5) [\[code\]](https://github.com/HaiyangZheng/MGCE) ⭐ 9 | 🐛 0 | 🌐 Python | 📅 2026-07-11
+* TALON: Test-time Adaptive Learning for On-the-Fly Category Discovery (**CVPR** 2026) [\[paper\]](https://openaccess.thecvf.com/content/CVPR2026/html/Wu_TALON_Test-time_Adaptive_Learning_for_On-the-Fly_Category_Discovery_CVPR_2026_paper.html) [\[code\]](https://github.com/ynanwu/TALON) ⭐ 8 | 🐛 2 | 🌐 Python | 📅 2026-04-18
 * Adaptive Gaussian Expansion for On-the-fly Category Discovery (**ICLR** 2026) [\[paper\]](https://openreview.net/forum?id=Y59JeAbM3j) [\[code\]](https://github.com/Ashengl/AGE) ⭐ 6 | 🐛 0 | 🌐 Python | 📅 2026-04-01
 * SECOS: Semantic Capture for Rigorous Classification in Open-World Semi-Supervised Learning (**CVPR** 2026) [\[paper\]](https://openaccess.thecvf.com/content/CVPR2026/html/Liu_SECOS_Semantic_Capture_for_Rigorous_Classification_in_Open-World_Semi-Supervised_Learning_CVPR_2026_paper.html) [\[code\]](https://github.com/ganchi-huanggua/OSSL-Classification) ⭐ 4 | 🐛 0 | 🌐 Python | 📅 2026-06-16
 * Generalized Category Discovery for LiDAR Semantic Segmentation (**WACV** 2026) [\[paper\]](https://doi.org/10.1109/WACV61042.2026.00812) [\[code\]](https://github.com/Minseokkim-0124/Generalized-Category-Discovery-for-LiDAR-Semantic-Segmentation) ⭐ 4 | 🐛 1 | 🌐 Python | 📅 2026-03-14
@@ -282,4 +282,4 @@ Please help us improve the above listing by submitting PRs of other papers in th
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-27._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-28._
