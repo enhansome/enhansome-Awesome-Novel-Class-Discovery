@@ -366,7 +366,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
-            "description": null,
+            "description": "[CVPRF 2026] Learning through Creation: A Hash-Free Framework for On-the-Fly Category Discovery 🔥",
             "homepage": null,
             "id": 1180737297,
             "language": "Python",
@@ -2550,7 +2550,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T18:51:18.724Z",
+    "last_updated": "2026-08-30T18:48:33.874Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of papers that studies Novel Class Discovery",
