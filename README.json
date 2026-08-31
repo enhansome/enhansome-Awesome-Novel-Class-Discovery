@@ -1064,7 +1064,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
-            "description": "(NeurIPS 2024/TPAMI2026) Happy: A Debiased Learning Framework for Continual Generalized Category Discovery",
+            "description": "(NeurIPS 2024/TPAMI 2026) Happy: A Debiased Learning Framework for Continual Generalized Category Discovery",
             "homepage": "https://arxiv.org/abs/2410.06535",
             "id": 868256960,
             "language": "Python",
@@ -2550,7 +2550,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-30T18:48:33.874Z",
+    "last_updated": "2026-08-31T21:05:20.855Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of papers that studies Novel Class Discovery",
@@ -2562,7 +2562,7 @@
       "open_issues": 6,
       "owner": "JosephKJ",
       "repo": "Awesome-Novel-Class-Discovery",
-      "stars": 530,
+      "stars": 532,
       "topics": [
         "awesome-list",
         "class-discovery",
