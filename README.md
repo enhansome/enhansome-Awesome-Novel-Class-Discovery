@@ -68,6 +68,7 @@ More details are in this [survey](https://arxiv.org/abs/2403.01759).
 
 ## 2026
 
+* Happy++: Towards Stable and Unified Continual Generalized Category Discovery (**TPAMI 2026**) [\[paper\]](https://doi.org/10.1109/tpami.2026.3721625) [\[code\]](https://github.com/mashijie1028/happy-cgcd) ⭐ 47 | 🐛 1 | 🌐 Python | 📅 2026-08-26
 * SpectralGCD: Spectral Concept Selection and Cross-modal Representation Learning for Generalized Category Discovery (**ICLR** 2026) [\[paper\]](https://openreview.net/forum?id=PyfV9tFmdR) [\[code\]](https://github.com/miccunifi/SpectralGCD) ⭐ 23 | 🐛 1 | 🌐 Python | 📅 2026-03-18
 * Learning Like Humans: Analogical Concept Learning for Generalized Category Discovery (**CVPR** 2026) [\[paper\]](https://openaccess.thecvf.com/content/CVPR2026/html/Han_Learning_Like_Humans_Analogical_Concept_Learning_for_Generalized_Category_Discovery_CVPR_2026_paper.html) [\[code\]](https://github.com/zhou-9527/AnaLogical-GCD) ⭐ 20 | 🐛 1 | 🌐 Python | 📅 2026-07-01
 * GLEAN: Active Generalized Category Discovery with Diverse LLM Feedback (**EACL** 2026) [\[paper\]](https://aclanthology.org/2026.eacl-long.358/) [\[code\]](https://github.com/amazon-science/Glean) ⭐ 9 | 🐛 1 | 🌐 Python | 📅 2026-07-02
@@ -103,7 +104,6 @@ More details are in this [survey](https://arxiv.org/abs/2403.01759).
 * TGCD: A Framework for Generalized Category Discovery in Time-Series Data (**AAAI** 2026) [\[paper\]](https://ojs.aaai.org/index.php/AAAI/article/view/39271)
 * GenDis: Generative-Discriminative Dual-View Co-Training for Generalized Category Discovery (**ACL** 2026) [\[paper\]](https://aclanthology.org/2026.acl-long.107/)
 * Expectation-Maximization Driven Contrastive Disentanglement for Generalized Category Discovery (**WWW** 2026) [\[paper\]](https://doi.org/10.1145/3774904.3792255)
-* Happy++: Towards Stable and Unified Continual Generalized Category Discovery (**TPAMI** 2026) [\[paper\]](https://doi.org/10.1109/tpami.2026.3721625)
 * Memory Consistency Guided Divide-and-Conquer Learning for Generalized Category Discovery (**IJCV** 2026) [\[paper\]](https://doi.org/10.1007/s11263-026-02745-y)
 * Learning Part Knowledge to Facilitate Category Understanding for Fine-Grained Generalized Category Discovery (**TMM** 2026) [\[paper\]](https://doi.org/10.1109/tmm.2026.3668655)
 * Sharpness-Aware Dynamic Anchor Selection for Generalized Category Discovery (**TMM** 2026) [\[paper\]](https://doi.org/10.1109/tmm.2026.3654349)
@@ -282,4 +282,4 @@ Please help us improve the above listing by submitting PRs of other papers in th
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-03._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-04._

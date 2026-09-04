@@ -158,6 +158,32 @@
       "items": [
         {
           "node_type": "item",
+          "title": "Happy++: Towards Stable and Unified Continual Generalized Category Discovery (TPAMI 2026) [paper]",
+          "description": "[code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "(NeurIPS 2024/TPAMI 2026) Happy: A Debiased Learning Framework for Continual Generalized Category Discovery",
+            "homepage": "https://arxiv.org/abs/2410.06535",
+            "id": 868256960,
+            "language": "Python",
+            "license": "MIT",
+            "last_commit": "2026-08-26T18:10:43Z",
+            "open_issues": 1,
+            "owner": "mashijie1028",
+            "repo": "Happy-CGCD",
+            "stars": 47,
+            "topics": [
+              "continual-learning",
+              "machine-learning",
+              "novel-class-discovery",
+              "open-world-classification"
+            ]
+          },
+          "first_seen": "2026-08-29T00:06:14.917Z"
+        },
+        {
+          "node_type": "item",
           "title": "SpectralGCD: Spectral Concept Selection and Cross-modal Representation Learning for Generalized Category Discovery (ICLR 2026) [paper]",
           "description": "[code]",
           "children": [],
@@ -2550,7 +2576,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-03T18:52:23.056Z",
+    "last_updated": "2026-09-04T18:33:16.091Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of papers that studies Novel Class Discovery",
@@ -2558,8 +2584,8 @@
       "id": 435729541,
       "language": null,
       "license": null,
-      "last_commit": "2026-08-22T11:36:59Z",
-      "open_issues": 6,
+      "last_commit": "2026-09-04T10:55:46Z",
+      "open_issues": 5,
       "owner": "JosephKJ",
       "repo": "Awesome-Novel-Class-Discovery",
       "stars": 532,
@@ -2573,7 +2599,7 @@
         "papers"
       ]
     },
-    "original_repository_sha": "653234996f03d11cabc5cdf442e9cae4fb6d1252",
+    "original_repository_sha": "f9c078ebcecabf9237a020169411e3f6071da11d",
     "enhanced_repository": "enhansome/enhansome-Awesome-Novel-Class-Discovery",
     "enhanced_repository_description": null,
     "title": "Awesome-Novel-Class-Discovery with stars"
