@@ -258,7 +258,7 @@ More details are in this [survey](https://arxiv.org/abs/2403.01759).
 
 ## 2020
 
-* Automatically Discovering and Learning New Visual Categories with Ranking Statistics (**ICLR** 2020) [\[paper\]](https://openreview.net/forum?id=BJl2_nVFPB) [\[code\]](https://github.com/k-han/AutoNovel) ⭐ 230 | 🐛 5 | 🌐 Python | 📅 2020-02-13 (AutoNovel aka RS)
+* Automatically Discovering and Learning New Visual Categories with Ranking Statistics (**ICLR** 2020) [\[paper\]](https://openreview.net/forum?id=BJl2_nVFPB) [\[code\]](https://github.com/k-han/AutoNovel) ⭐ 231 | 🐛 5 | 🌐 Python | 📅 2020-02-13 (AutoNovel aka RS)
 * Open-World Class Discovery with Kernel Networks (**ICDM** 2020) [\[paper\]](https://arxiv.org/abs/2012.06957) [\[code\]](https://github.com/neu-spiral/OpenWorldKNet) ⭐ 3 | 🐛 1 | 🌐 Python | 📅 2021-08-19
 
 ## 2019
@@ -282,4 +282,4 @@ Please help us improve the above listing by submitting PRs of other papers in th
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-06._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-07._

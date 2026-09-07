@@ -2407,7 +2407,7 @@
             "open_issues": 5,
             "owner": "k-han",
             "repo": "AutoNovel",
-            "stars": 230,
+            "stars": 231,
             "topics": []
           },
           "first_seen": "2026-08-29T00:06:14.917Z"
@@ -2576,7 +2576,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-06T17:41:19.161Z",
+    "last_updated": "2026-09-07T19:22:51.552Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of papers that studies Novel Class Discovery",
@@ -2588,7 +2588,7 @@
       "open_issues": 5,
       "owner": "JosephKJ",
       "repo": "Awesome-Novel-Class-Discovery",
-      "stars": 532,
+      "stars": 533,
       "topics": [
         "awesome-list",
         "class-discovery",
