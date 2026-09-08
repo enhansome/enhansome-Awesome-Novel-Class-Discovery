@@ -240,6 +240,27 @@
         },
         {
           "node_type": "item",
+          "title": "TALON: Test-time Adaptive Learning for On-the-Fly Category Discovery (CVPR 2026) [paper]",
+          "description": "[code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "This repository is the official implementation of TALON: Test-time Adaptive Learning for On-the-Fly Category Discovery",
+            "homepage": null,
+            "id": 1176519778,
+            "language": "Python",
+            "license": null,
+            "last_commit": "2026-04-18T14:39:39Z",
+            "open_issues": 2,
+            "owner": "ynanwu",
+            "repo": "TALON",
+            "stars": 9,
+            "topics": []
+          },
+          "first_seen": "2026-08-29T00:06:14.917Z"
+        },
+        {
+          "node_type": "item",
           "title": "GLEAN: Active Generalized Category Discovery with Diverse LLM Feedback (EACL 2026) [paper]",
           "description": "[code]",
           "children": [],
@@ -276,27 +297,6 @@
             "owner": "HaiyangZheng",
             "repo": "MGCE",
             "stars": 9,
-            "topics": []
-          },
-          "first_seen": "2026-08-29T00:06:14.917Z"
-        },
-        {
-          "node_type": "item",
-          "title": "TALON: Test-time Adaptive Learning for On-the-Fly Category Discovery (CVPR 2026) [paper]",
-          "description": "[code]",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "This repository is the official implementation of TALON: Test-time Adaptive Learning for On-the-Fly Category Discovery",
-            "homepage": null,
-            "id": 1176519778,
-            "language": "Python",
-            "license": null,
-            "last_commit": "2026-04-18T14:39:39Z",
-            "open_issues": 2,
-            "owner": "ynanwu",
-            "repo": "TALON",
-            "stars": 8,
             "topics": []
           },
           "first_seen": "2026-08-29T00:06:14.917Z"
@@ -710,7 +710,7 @@
             "open_issues": 0,
             "owner": "Lackel",
             "repo": "SDC",
-            "stars": 10,
+            "stars": 11,
             "topics": []
           },
           "first_seen": "2026-08-29T00:06:14.917Z"
@@ -2407,7 +2407,7 @@
             "open_issues": 5,
             "owner": "k-han",
             "repo": "AutoNovel",
-            "stars": 231,
+            "stars": 230,
             "topics": []
           },
           "first_seen": "2026-08-29T00:06:14.917Z"
@@ -2576,7 +2576,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-07T19:22:51.552Z",
+    "last_updated": "2026-09-08T18:58:10.136Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of papers that studies Novel Class Discovery",
