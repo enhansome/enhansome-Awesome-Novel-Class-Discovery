@@ -68,10 +68,10 @@ More details are in this [survey](https://arxiv.org/abs/2403.01759).
 
 ## 2026
 
-* Happy++: Towards Stable and Unified Continual Generalized Category Discovery (**TPAMI 2026**) [\[paper\]](https://doi.org/10.1109/tpami.2026.3721625) [\[code\]](https://github.com/mashijie1028/happy-cgcd) ⭐ 47 | 🐛 1 | 🌐 Python | 📅 2026-08-26
+* Happy++: Towards Stable and Unified Continual Generalized Category Discovery (**TPAMI 2026**) [\[paper\]](https://doi.org/10.1109/tpami.2026.3721625) [\[code\]](https://github.com/mashijie1028/happy-cgcd) ⭐ 48 | 🐛 1 | 🌐 Python | 📅 2026-08-26
 * SpectralGCD: Spectral Concept Selection and Cross-modal Representation Learning for Generalized Category Discovery (**ICLR** 2026) [\[paper\]](https://openreview.net/forum?id=PyfV9tFmdR) [\[code\]](https://github.com/miccunifi/SpectralGCD) ⭐ 23 | 🐛 1 | 🌐 Python | 📅 2026-03-18
 * Learning Like Humans: Analogical Concept Learning for Generalized Category Discovery (**CVPR** 2026) [\[paper\]](https://openaccess.thecvf.com/content/CVPR2026/html/Han_Learning_Like_Humans_Analogical_Concept_Learning_for_Generalized_Category_Discovery_CVPR_2026_paper.html) [\[code\]](https://github.com/zhou-9527/AnaLogical-GCD) ⭐ 20 | 🐛 1 | 🌐 Python | 📅 2026-07-01
-* TALON: Test-time Adaptive Learning for On-the-Fly Category Discovery (**CVPR** 2026) [\[paper\]](https://openaccess.thecvf.com/content/CVPR2026/html/Wu_TALON_Test-time_Adaptive_Learning_for_On-the-Fly_Category_Discovery_CVPR_2026_paper.html) [\[code\]](https://github.com/ynanwu/TALON) ⭐ 9 | 🐛 2 | 🌐 Python | 📅 2026-04-18
+* TALON: Test-time Adaptive Learning for On-the-Fly Category Discovery (**CVPR** 2026) [\[paper\]](https://openaccess.thecvf.com/content/CVPR2026/html/Wu_TALON_Test-time_Adaptive_Learning_for_On-the-Fly_Category_Discovery_CVPR_2026_paper.html) [\[code\]](https://github.com/ynanwu/TALON) ⭐ 9 | 🐛 3 | 🌐 Python | 📅 2026-04-18
 * GLEAN: Active Generalized Category Discovery with Diverse LLM Feedback (**EACL** 2026) [\[paper\]](https://aclanthology.org/2026.eacl-long.358/) [\[code\]](https://github.com/amazon-science/Glean) ⭐ 9 | 🐛 1 | 🌐 Python | 📅 2026-07-02
 * Generalized Fine-Grained Category Discovery with Multi-Granularity Conceptual Experts (**IJCV** 2026) [\[paper\]](https://doi.org/10.1007/s11263-026-02970-5) [\[code\]](https://github.com/HaiyangZheng/MGCE) ⭐ 9 | 🐛 0 | 🌐 Python | 📅 2026-07-11
 * Adaptive Gaussian Expansion for On-the-fly Category Discovery (**ICLR** 2026) [\[paper\]](https://openreview.net/forum?id=Y59JeAbM3j) [\[code\]](https://github.com/Ashengl/AGE) ⭐ 6 | 🐛 0 | 🌐 Python | 📅 2026-04-01
@@ -156,7 +156,7 @@ More details are in this [survey](https://arxiv.org/abs/2403.01759).
 
 * Active Generalized Category Discovery (**CVPR** 2024) [\[paper\]](https://arxiv.org/abs/2403.04272) [\[code\]](https://github.com/mashijie1028/ActiveGCD) ⭐ 54 | 🐛 0 | 🌐 Python | 📅 2024-10-17
 * Contrastive Mean-Shift Learning for Generalized Category Discovery (**CVPR** 2024) [\[paper\]](https://arxiv.org/abs/2404.09451) [\[code\]](https://github.com/sua-choi/CMS) ⭐ 50 | 🐛 1 | 🌐 Python | 📅 2024-05-01
-* Happy: A Debiased Learning Framework for Continual Generalized Category Discovery (**NeurIPS** 2024) [\[paper\]](https://arxiv.org/abs/2410.06535) [\[code\]](https://github.com/mashijie1028/Happy-CGCD) ⭐ 47 | 🐛 1 | 🌐 Python | 📅 2026-08-26
+* Happy: A Debiased Learning Framework for Continual Generalized Category Discovery (**NeurIPS** 2024) [\[paper\]](https://arxiv.org/abs/2410.06535) [\[code\]](https://github.com/mashijie1028/Happy-CGCD) ⭐ 48 | 🐛 1 | 🌐 Python | 📅 2026-08-26
 * SPTNet: An Efficient Alternative Framework for Generalized Category Discovery with Spatial Prompt Tuning (**ICLR** 2024) [\[paper\]](https://openreview.net/forum?id=3QLkwU40EE) [\[code\]](https://github.com/Visual-AI/SPTNet) ⭐ 36 | 🐛 0 | 🌐 Python | 📅 2025-04-09
 * SelEx: Self-Expertise in Fine-Grained Generalized Category Discovery (**ECCV** 2024) [\[paper\]](https://arxiv.org/abs/2408.14371) [\[code\]](https://github.com/SarahRastegar/SelEx) ⭐ 31 | 🐛 0 | 🌐 Python | 📅 2025-08-04
 * PromptCCD: Learning Gaussian Mixture Prompt Pool for Continual Category Discovery (**ECCV** 2024) [\[paper\]](https://arxiv.org/abs/2407.19001) [\[code\]](https://github.com/Visual-AI/PromptCCD) ⭐ 31 | 🐛 0 | 🌐 Python | 📅 2025-04-03
@@ -282,4 +282,4 @@ Please help us improve the above listing by submitting PRs of other papers in th
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-08._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-09._
