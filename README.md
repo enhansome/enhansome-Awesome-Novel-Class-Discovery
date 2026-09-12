@@ -84,8 +84,8 @@ More details are in this [survey](https://arxiv.org/abs/2403.01759).
 * Identifying Latent Concepts and Structures for Generalized Category Discovery (**ICML** 2026) [\[paper\]](https://icml.cc/virtual/2026/poster/62711) [\[code\]](https://github.com/Michael-McQueen/CPF) ⭐ 2 | 🐛 0 | 🌐 Python | 📅 2026-06-07
 * BOLT: Benchmarking Open-World Learning for Text Classification (**ACL Findings** 2026) [\[paper\]](https://aclanthology.org/2026.findings-acl.667/) [\[code\]](https://github.com/CNIC-DSL/BOLT) ⭐ 2 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2026-04-20
 * Bures-Isotropy Alignment: Manifold Learning in Generalized Category Discovery (**ICLR** 2026) [\[paper\]](https://openreview.net/forum?id=nfVKTJ1MJ3) [\[code\]](https://github.com/lytang63/BIA) ⭐ 1 | 🐛 0 | 📅 2026-02-04
+* Learning Intrinsic Hierarchy for Generalized Category Discovery (**AAAI** 2026) [\[paper\]](https://ojs.aaai.org/index.php/AAAI/article/view/39236) [\[code\]](https://github.com/DuannYu/LEAH) ⭐ 1 | 🐛 0 | 🌐 Python | 📅 2026-06-05
 * TLSA: LLM-Guided Text-Label Space Alignment with Contrastive Learning for Generalized Category Discovery (**ACL** 2026) [\[paper\]](https://aclanthology.org/2026.acl-long.869/) [\[code\]](https://github.com/Wenxi-Xu/TLSA) ⭐ 1 | 🐛 0 | 🌐 Python | 📅 2026-06-26
-* Learning Intrinsic Hierarchy for Generalized Category Discovery (**AAAI** 2026) [\[paper\]](https://ojs.aaai.org/index.php/AAAI/article/view/39236) [\[code\]](https://github.com/DuannYu/LEAH) ⭐ 0 | 🐛 0 | 🌐 Python | 📅 2026-06-05
 * The Devil Is in Gradient Entanglement: Energy-Aware Gradient Coordinator for Robust Generalized Category Discovery (**CVPR** 2026) [\[paper\]](https://openaccess.thecvf.com/content/CVPR2026/html/Zheng_The_Devil_Is_in_Gradient_Entanglement_Energy-Aware_Gradient_Coordinator_for_CVPR_2026_paper.html) [\[code\]](https://haiyangzheng.github.io/EAGC/)
 * Seeing Through the Shift: Causality-Inspired Robust Generalized Category Discovery (**CVPR** 2026) [\[paper\]](https://openaccess.thecvf.com/content/CVPR2026/html/Feng_Seeing_Through_the_Shift_Causality-Inspired_Robust_Generalized_Category_Discovery_CVPR_2026_paper.html)
 * Decouple Your Discovery and Memory in Continual Generalized Category Discovery (**CVPR** 2026) [\[paper\]](https://openaccess.thecvf.com/content/CVPR2026/html/Yu_Decouple_Your_Discovery_and_Memory_in_Continual_Generalized_Category_Discovery_CVPR_2026_paper.html)
@@ -188,7 +188,7 @@ More details are in this [survey](https://arxiv.org/abs/2403.01759).
 
 ## 2023
 
-* Parametric Classification for Generalized Category Discovery: A Baseline Study (**ICCV** 2023) [\[paper\]](https://arxiv.org/abs/2211.11727) [\[code\]](https://github.com/CVMI-Lab/SimGCD) ⭐ 127 | 🐛 2 | 🌐 Python | 📅 2023-12-30
+* Parametric Classification for Generalized Category Discovery: A Baseline Study (**ICCV** 2023) [\[paper\]](https://arxiv.org/abs/2211.11727) [\[code\]](https://github.com/CVMI-Lab/SimGCD) ⭐ 128 | 🐛 2 | 🌐 Python | 📅 2023-12-30
 * Novel Class Discovery for 3D Point Cloud Semantic Segmentation (**CVPR** 2023) [\[paper\]](https://arxiv.org/abs/2303.11610) [\[code\]](https://github.com/LuigiRiz/NOPS) ⭐ 64 | 🐛 2 | 🌐 Python | 📅 2023-09-01
 * On-the-Fly Category Discovery (**CVPR** 2023) [\[paper\]](https://openaccess.thecvf.com/content/CVPR2023/papers/Du_On-the-Fly_Category_Discovery_CVPR_2023_paper.pdf) [\[code\]](https://github.com/PRIS-CV/On-the-fly-Category-Discovery) ⭐ 59 | 🐛 2 | 🌐 Python | 📅 2023-07-15
 * PromptCAL: Contrastive Affinity Learning via Auxiliary Prompts for Generalized Novel Category Discovery (**CVPR** 2023) [\[paper\]](https://arxiv.org/abs/2212.05590) [\[code\]](https://github.com/sheng-eatamath/PromptCAL) ⭐ 48 | 🐛 0 | 🌐 Python | 📅 2023-03-18
@@ -282,4 +282,4 @@ Please help us improve the above listing by submitting PRs of other papers in th
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-11._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-12._

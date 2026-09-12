@@ -513,6 +513,27 @@
         },
         {
           "node_type": "item",
+          "title": "Learning Intrinsic Hierarchy for Generalized Category Discovery (AAAI 2026) [paper]",
+          "description": "[code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "【AAAI 2026】Learning Intrinsic Hierarchy for Generalized Category Discovery",
+            "homepage": null,
+            "id": 1096963338,
+            "language": "Python",
+            "license": null,
+            "last_commit": "2026-06-05T08:07:47Z",
+            "open_issues": 0,
+            "owner": "DuannYu",
+            "repo": "LEAH",
+            "stars": 1,
+            "topics": []
+          },
+          "first_seen": "2026-08-29T00:06:14.917Z"
+        },
+        {
+          "node_type": "item",
           "title": "TLSA: LLM-Guided Text-Label Space Alignment with Contrastive Learning for Generalized Category Discovery (ACL 2026) [paper]",
           "description": "[code]",
           "children": [],
@@ -528,27 +549,6 @@
             "owner": "Wenxi-Xu",
             "repo": "TLSA",
             "stars": 1,
-            "topics": []
-          },
-          "first_seen": "2026-08-29T00:06:14.917Z"
-        },
-        {
-          "node_type": "item",
-          "title": "Learning Intrinsic Hierarchy for Generalized Category Discovery (AAAI 2026) [paper]",
-          "description": "[code]",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "【AAAI 2026】Learning Intrinsic Hierarchy for Generalized Category Discovery",
-            "homepage": null,
-            "id": 1096963338,
-            "language": "Python",
-            "license": null,
-            "last_commit": "2026-06-05T08:07:47Z",
-            "open_issues": 0,
-            "owner": "DuannYu",
-            "repo": "LEAH",
-            "stars": 0,
             "topics": []
           },
           "first_seen": "2026-08-29T00:06:14.917Z"
@@ -1498,7 +1498,7 @@
             "open_issues": 2,
             "owner": "CVMI-Lab",
             "repo": "SimGCD",
-            "stars": 127,
+            "stars": 128,
             "topics": [
               "novel-category-discovery",
               "open-world-classification",
@@ -2576,7 +2576,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-11T18:45:02.517Z",
+    "last_updated": "2026-09-12T17:49:38.825Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of papers that studies Novel Class Discovery",
