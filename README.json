@@ -2576,7 +2576,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-12T17:49:38.825Z",
+    "last_updated": "2026-09-13T18:20:12.711Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of papers that studies Novel Class Discovery",
@@ -2588,7 +2588,7 @@
       "open_issues": 5,
       "owner": "JosephKJ",
       "repo": "Awesome-Novel-Class-Discovery",
-      "stars": 533,
+      "stars": 532,
       "topics": [
         "awesome-list",
         "class-discovery",
