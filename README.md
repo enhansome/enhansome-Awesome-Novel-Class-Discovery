@@ -123,7 +123,7 @@ More details are in this [survey](https://arxiv.org/abs/2403.01759).
 * Unleashing the Potential of Model Bias for Generalized Category Discovery (**AAAI** 2025) [\[paper\]](https://ojs.aaai.org/index.php/AAAI/article/view/33686) [\[code\]](https://github.com/Lackel/SDC) ⭐ 11 | 🐛 0 | 🌐 Python | 📅 2024-12-18
 * A Hidden Stumbling Block in Generalized Category Discovery: Distracted Attention (**ICCV** 2025) [\[paper\]](https://arxiv.org/abs/2507.14315) [\[code\]](https://github.com/Afleve/AFGCD) ⭐ 10 | 🐛 0 | 🌐 Python | 📅 2026-05-18
 * Generalized Category Discovery via Reciprocal Learning and Class-Wise Distribution Regularization (**ICML** 2025) [\[paper\]](https://icml.cc/virtual/2025/poster/43993) [\[code\]](https://github.com/APORduo/RLCD) ⭐ 8 | 🐛 2 | 🌐 Python | 📅 2025-11-14
-* Continual Generalized Category Discovery: Learning and Forgetting from a Bayesian Perspective (**ICML** 2025) [\[paper\]](https://icml.cc/virtual/2025/poster/45679) [\[code\]](https://github.com/daihao42/VB-CGCD) ⭐ 6 | 🐛 2 | 🌐 Python | 📅 2025-07-18
+* Continual Generalized Category Discovery: Learning and Forgetting from a Bayesian Perspective (**ICML** 2025) [\[paper\]](https://icml.cc/virtual/2025/poster/45679) [\[code\]](https://github.com/daihao42/VB-CGCD) ⭐ 7 | 🐛 2 | 🌐 Python | 📅 2025-07-18
 * Less Attention is More: Prompt Transformer for Generalized Category Discovery (**CVPR** 2025) [\[paper\]](https://openaccess.thecvf.com/content/CVPR2025/papers/Zhang_Less_Attention_is_More_Prompt_Transformer_for_Generalized_Category_Discovery_CVPR_2025_paper.pdf) [\[code\]](https://github.com/wendy26zhang/AptGCD) ⭐ 4 | 🐛 1 | 🌐 Python | 📅 2025-09-09
 * Learning Textual Prompts for Open-World Semi-Supervised Learning (**CVPR** 2025) [\[paper\]](https://openaccess.thecvf.com/content/CVPR2025/html/Fan_Learning_Textual_Prompts_for_Open-World_Semi-Supervised_Learning_CVPR_2025_paper.html) [\[code\]](https://github.com/GodFZ/TP-OWSSL) ⭐ 4 | 🐛 1 | 🌐 Python | 📅 2025-03-13
 * Prior-Constrained Association Learning for Fine-Grained Generalized Category Discovery (**AAAI** 2025) [\[paper\]](https://ojs.aaai.org/index.php/AAAI/article/view/35414) [\[code\]](https://github.com/Terminator8758/PAL-GCD) ⭐ 4 | 🐛 1 | 🌐 Python | 📅 2025-02-26
@@ -282,4 +282,4 @@ Please help us improve the above listing by submitting PRs of other papers in th
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-13._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-14._

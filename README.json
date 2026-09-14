@@ -773,7 +773,7 @@
             "open_issues": 2,
             "owner": "daihao42",
             "repo": "VB-CGCD",
-            "stars": 6,
+            "stars": 7,
             "topics": []
           },
           "first_seen": "2026-08-29T00:06:14.917Z"
@@ -2576,7 +2576,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-13T18:20:12.711Z",
+    "last_updated": "2026-09-14T19:56:03.323Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of papers that studies Novel Class Discovery",
