@@ -345,6 +345,27 @@
         },
         {
           "node_type": "item",
+          "title": "Assignment-Driven Hash Learning in a Hyper-Semantic Space for On-the-Fly Category Discovery (CVPR 2026) [paper]",
+          "description": "[code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Assignment-Driven Hash Learning in a Hyper-Semantic Space for On-the-fly Category Discovery, CVPR2026",
+            "homepage": null,
+            "id": 1028933582,
+            "language": "Python",
+            "license": "MIT",
+            "last_commit": "2026-03-07T08:00:15Z",
+            "open_issues": 0,
+            "owner": "KeibingYang",
+            "repo": "Assignment-Driven-Hash-Learning-in-a-Hyper-Semantic-Space-for-OCD",
+            "stars": 4,
+            "topics": []
+          },
+          "first_seen": "2026-08-29T00:06:14.917Z"
+        },
+        {
+          "node_type": "item",
           "title": "Generalized Category Discovery for LiDAR Semantic Segmentation (WACV 2026) [paper]",
           "description": "[code]",
           "children": [],
@@ -360,27 +381,6 @@
             "owner": "Minseokkim-0124",
             "repo": "Generalized-Category-Discovery-for-LiDAR-Semantic-Segmentation",
             "stars": 4,
-            "topics": []
-          },
-          "first_seen": "2026-08-29T00:06:14.917Z"
-        },
-        {
-          "node_type": "item",
-          "title": "Assignment-Driven Hash Learning in a Hyper-Semantic Space for On-the-Fly Category Discovery (CVPR 2026) [paper]",
-          "description": "[code]",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Assignment-Driven Hash Learning in a Hyper-Semantic Space for On-the-fly Category Discovery, CVPR2026",
-            "homepage": null,
-            "id": 1028933582,
-            "language": "Python",
-            "license": "MIT",
-            "last_commit": "2026-03-07T08:00:15Z",
-            "open_issues": 0,
-            "owner": "KeibingYang",
-            "repo": "Assignment-Driven-Hash-Learning-in-a-Hyper-Semantic-Space-for-OCD",
-            "stars": 3,
             "topics": []
           },
           "first_seen": "2026-08-29T00:06:14.917Z"
@@ -2080,7 +2080,7 @@
             "open_issues": 10,
             "owner": "snap-stanford",
             "repo": "orca",
-            "stars": 105,
+            "stars": 106,
             "topics": []
           },
           "first_seen": "2026-08-29T00:06:14.917Z"
@@ -2576,7 +2576,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-14T19:56:03.323Z",
+    "last_updated": "2026-09-15T19:12:12.874Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of papers that studies Novel Class Discovery",

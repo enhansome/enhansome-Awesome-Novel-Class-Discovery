@@ -76,8 +76,8 @@ More details are in this [survey](https://arxiv.org/abs/2403.01759).
 * Generalized Fine-Grained Category Discovery with Multi-Granularity Conceptual Experts (**IJCV** 2026) [\[paper\]](https://doi.org/10.1007/s11263-026-02970-5) [\[code\]](https://github.com/HaiyangZheng/MGCE) ⭐ 9 | 🐛 0 | 🌐 Python | 📅 2026-07-11
 * Adaptive Gaussian Expansion for On-the-fly Category Discovery (**ICLR** 2026) [\[paper\]](https://openreview.net/forum?id=Y59JeAbM3j) [\[code\]](https://github.com/Ashengl/AGE) ⭐ 6 | 🐛 0 | 🌐 Python | 📅 2026-04-01
 * SECOS: Semantic Capture for Rigorous Classification in Open-World Semi-Supervised Learning (**CVPR** 2026) [\[paper\]](https://openaccess.thecvf.com/content/CVPR2026/html/Liu_SECOS_Semantic_Capture_for_Rigorous_Classification_in_Open-World_Semi-Supervised_Learning_CVPR_2026_paper.html) [\[code\]](https://github.com/ganchi-huanggua/OSSL-Classification) ⭐ 4 | 🐛 0 | 🌐 Python | 📅 2026-06-16
+* Assignment-Driven Hash Learning in a Hyper-Semantic Space for On-the-Fly Category Discovery (**CVPR** 2026) [\[paper\]](https://openaccess.thecvf.com/content/CVPR2026/html/Yang_Assignment-Driven_Hash_Learning_in_a_Hyper-Semantic_Space_for_On-the-Fly_Category_CVPR_2026_paper.html) [\[code\]](https://github.com/KeibingYang/Assignment-Driven-Hash-Learning-in-a-Hyper-Semantic-Space-for-OCD) ⭐ 4 | 🐛 0 | 🌐 Python | 📅 2026-03-07
 * Generalized Category Discovery for LiDAR Semantic Segmentation (**WACV** 2026) [\[paper\]](https://doi.org/10.1109/WACV61042.2026.00812) [\[code\]](https://github.com/Minseokkim-0124/Generalized-Category-Discovery-for-LiDAR-Semantic-Segmentation) ⭐ 4 | 🐛 1 | 🌐 Python | 📅 2026-03-14
-* Assignment-Driven Hash Learning in a Hyper-Semantic Space for On-the-Fly Category Discovery (**CVPR** 2026) [\[paper\]](https://openaccess.thecvf.com/content/CVPR2026/html/Yang_Assignment-Driven_Hash_Learning_in_a_Hyper-Semantic_Space_for_On-the-Fly_Category_CVPR_2026_paper.html) [\[code\]](https://github.com/KeibingYang/Assignment-Driven-Hash-Learning-in-a-Hyper-Semantic-Space-for-OCD) ⭐ 3 | 🐛 0 | 🌐 Python | 📅 2026-03-07
 * Learning through Creation: A Hash-Free Framework for On-the-Fly Category Discovery (**CVPR Findings** 2026) [\[paper\]](https://arxiv.org/abs/2603.13858) [\[code\]](https://github.com/brandinzhang/LTC) ⭐ 3 | 🐛 0 | 🌐 Python | 📅 2026-03-13
 * Multi-Modal Representation Learning via Semi-Supervised Rate Reduction for Generalized Category Discovery (**CVPR** 2026) [\[paper\]](https://openaccess.thecvf.com/content/CVPR2026/html/He_Multi-Modal_Representation_Learning_via_Semi-Supervised_Rate_Reduction_for_Generalized_Category_CVPR_2026_paper.html) [\[code\]](https://github.com/hewei98/SSR2-GCD) ⭐ 2 | 🐛 0 | 🌐 Python | 📅 2026-04-11
 * TAR: Token-Aware Refinement for Fine-Grained Generalized Category Discovery (**CVPR** 2026) [\[paper\]](https://openaccess.thecvf.com/content/CVPR2026/html/Yang_TAR_Token-Aware_Refinement_for_Fine-grained_Generalized_Category_Discovery_CVPR_2026_paper.html) [\[code\]](https://github.com/VectorYangYiStar/TAR) ⭐ 2 | 🐛 0 | 🌐 Python | 📅 2026-03-10
@@ -225,7 +225,7 @@ More details are in this [survey](https://arxiv.org/abs/2403.01759).
 
 * Generalized Category Discovery (**CVPR** 2022) [\[paper\]](https://arxiv.org/abs/2201.02609) [\[code\]](https://github.com/sgvaze/generalized-category-discovery) ⭐ 243 | 🐛 12 | 🌐 Python | 📅 2022-12-15 (GCD)
 * Class-incremental Novel Class Discovery (**ECCV** 2022) [\[paper\]](https://arxiv.org/abs/2207.08605) [\[code\]](https://github.com/OatmealLiu/class-iNCD) ⭐ 125 | 🐛 1 | 🌐 Python | 📅 2024-09-10 (FRoST)
-* Open-World Semi-Supervised Learning (**ICLR** 2022) [\[paper\]](https://arxiv.org/abs/2102.03526) [\[code\]](https://github.com/snap-stanford/orca) ⭐ 105 | 🐛 10 | 🌐 Python | 📅 2022-02-17
+* Open-World Semi-Supervised Learning (**ICLR** 2022) [\[paper\]](https://arxiv.org/abs/2102.03526) [\[code\]](https://github.com/snap-stanford/orca) ⭐ 106 | 🐛 10 | 🌐 Python | 📅 2022-02-17
 * Novel Class Discovery in Semantic Segmentation (**CVPR** 2022) [\[paper\]](https://arxiv.org/abs/2112.01900) [\[code\]](https://github.com/HeliosZhao/NCDSS) ⭐ 70 | 🐛 4 | 🌐 Python | 📅 2023-01-03
 * Towards Realistic Semi-Supervised Learning (**ECCV** 2022) [\[paper\]](https://arxiv.org/abs/2207.02269) [\[code\]](https://github.com/nayeemrizve/TRSSL) ⭐ 41 | 🐛 4 | 🌐 Python | 📅 2023-03-14
 * OpenLDN: Learning to Discover Novel Classes for Open-World Semi-Supervised Learning (**ECCV** 2022) [\[paper\]](https://arxiv.org/abs/2207.02261) [\[code\]](https://github.com/nayeemrizve/OpenLDN) ⭐ 36 | 🐛 4 | 🌐 Python | 📅 2023-03-14
@@ -282,4 +282,4 @@ Please help us improve the above listing by submitting PRs of other papers in th
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-14._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-15._
