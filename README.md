@@ -24,7 +24,7 @@ More details are in this [survey](https://arxiv.org/abs/2403.01759).
 
 * Novel Class Discovery: an Introduction and Key Concepts [\[paper\]](https://www.researchgate.net/publication/368753429_Novel_Class_Discovery_an_Introduction_and_Key_Concepts)
 * Open-world machine learning: A review and new outlooks [\[paper\]](https://arxiv.org/abs/2403.01759)
-* Category Discovery: An Open-World Perspective [\[paper\]](https://arxiv.org/abs/2509.22542) [\[code\]](https://github.com/Visual-AI/Category-Discovery) ⭐ 16 | 🐛 0 | 📅 2026-08-15
+* Category Discovery: An Open-World Perspective [\[paper\]](https://arxiv.org/abs/2509.22542) [\[code\]](https://github.com/Visual-AI/Category-Discovery) ⭐ 17 | 🐛 0 | 📅 2026-08-15
 
 ## Preprints
 
@@ -188,7 +188,7 @@ More details are in this [survey](https://arxiv.org/abs/2403.01759).
 
 ## 2023
 
-* Parametric Classification for Generalized Category Discovery: A Baseline Study (**ICCV** 2023) [\[paper\]](https://arxiv.org/abs/2211.11727) [\[code\]](https://github.com/CVMI-Lab/SimGCD) ⭐ 128 | 🐛 2 | 🌐 Python | 📅 2023-12-30
+* Parametric Classification for Generalized Category Discovery: A Baseline Study (**ICCV** 2023) [\[paper\]](https://arxiv.org/abs/2211.11727) [\[code\]](https://github.com/CVMI-Lab/SimGCD) ⭐ 129 | 🐛 2 | 🌐 Python | 📅 2023-12-30
 * Novel Class Discovery for 3D Point Cloud Semantic Segmentation (**CVPR** 2023) [\[paper\]](https://arxiv.org/abs/2303.11610) [\[code\]](https://github.com/LuigiRiz/NOPS) ⭐ 64 | 🐛 2 | 🌐 Python | 📅 2023-09-01
 * On-the-Fly Category Discovery (**CVPR** 2023) [\[paper\]](https://openaccess.thecvf.com/content/CVPR2023/papers/Du_On-the-Fly_Category_Discovery_CVPR_2023_paper.pdf) [\[code\]](https://github.com/PRIS-CV/On-the-fly-Category-Discovery) ⭐ 59 | 🐛 2 | 🌐 Python | 📅 2023-07-15
 * PromptCAL: Contrastive Affinity Learning via Auxiliary Prompts for Generalized Novel Category Discovery (**CVPR** 2023) [\[paper\]](https://arxiv.org/abs/2212.05590) [\[code\]](https://github.com/sheng-eatamath/PromptCAL) ⭐ 48 | 🐛 0 | 🌐 Python | 📅 2023-03-18
@@ -282,4 +282,4 @@ Please help us improve the above listing by submitting PRs of other papers in th
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-15._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-16._
