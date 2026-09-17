@@ -752,7 +752,7 @@
             "open_issues": 2,
             "owner": "APORduo",
             "repo": "RLCD",
-            "stars": 8,
+            "stars": 9,
             "topics": []
           },
           "first_seen": "2026-08-29T00:06:14.917Z"
@@ -1851,7 +1851,7 @@
             "open_issues": 0,
             "owner": "deeplearning-wisc",
             "repo": "NSCL",
-            "stars": 14,
+            "stars": 15,
             "topics": []
           },
           "first_seen": "2026-08-29T00:06:14.917Z"
@@ -2576,7 +2576,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-16T19:05:08.347Z",
+    "last_updated": "2026-09-17T19:15:36.251Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of papers that studies Novel Class Discovery",

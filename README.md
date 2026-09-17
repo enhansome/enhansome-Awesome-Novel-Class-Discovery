@@ -122,7 +122,7 @@ More details are in this [survey](https://arxiv.org/abs/2403.01759).
 * MOS: Modeling Object-Scene Associations in Generalized Category Discovery (**CVPR** 2025) [\[paper\]](https://arxiv.org/abs/2503.12035) [\[code\]](https://github.com/JethroPeng/MOS?tab=readme-ov-file) ⭐ 11 | 🐛 1 | 🌐 Python | 📅 2025-04-13
 * Unleashing the Potential of Model Bias for Generalized Category Discovery (**AAAI** 2025) [\[paper\]](https://ojs.aaai.org/index.php/AAAI/article/view/33686) [\[code\]](https://github.com/Lackel/SDC) ⭐ 11 | 🐛 0 | 🌐 Python | 📅 2024-12-18
 * A Hidden Stumbling Block in Generalized Category Discovery: Distracted Attention (**ICCV** 2025) [\[paper\]](https://arxiv.org/abs/2507.14315) [\[code\]](https://github.com/Afleve/AFGCD) ⭐ 10 | 🐛 0 | 🌐 Python | 📅 2026-05-18
-* Generalized Category Discovery via Reciprocal Learning and Class-Wise Distribution Regularization (**ICML** 2025) [\[paper\]](https://icml.cc/virtual/2025/poster/43993) [\[code\]](https://github.com/APORduo/RLCD) ⭐ 8 | 🐛 2 | 🌐 Python | 📅 2025-11-14
+* Generalized Category Discovery via Reciprocal Learning and Class-Wise Distribution Regularization (**ICML** 2025) [\[paper\]](https://icml.cc/virtual/2025/poster/43993) [\[code\]](https://github.com/APORduo/RLCD) ⭐ 9 | 🐛 2 | 🌐 Python | 📅 2025-11-14
 * Continual Generalized Category Discovery: Learning and Forgetting from a Bayesian Perspective (**ICML** 2025) [\[paper\]](https://icml.cc/virtual/2025/poster/45679) [\[code\]](https://github.com/daihao42/VB-CGCD) ⭐ 7 | 🐛 2 | 🌐 Python | 📅 2025-07-18
 * Less Attention is More: Prompt Transformer for Generalized Category Discovery (**CVPR** 2025) [\[paper\]](https://openaccess.thecvf.com/content/CVPR2025/papers/Zhang_Less_Attention_is_More_Prompt_Transformer_for_Generalized_Category_Discovery_CVPR_2025_paper.pdf) [\[code\]](https://github.com/wendy26zhang/AptGCD) ⭐ 4 | 🐛 1 | 🌐 Python | 📅 2025-09-09
 * Learning Textual Prompts for Open-World Semi-Supervised Learning (**CVPR** 2025) [\[paper\]](https://openaccess.thecvf.com/content/CVPR2025/html/Fan_Learning_Textual_Prompts_for_Open-World_Semi-Supervised_Learning_CVPR_2025_paper.html) [\[code\]](https://github.com/GodFZ/TP-OWSSL) ⭐ 4 | 🐛 1 | 🌐 Python | 📅 2025-03-13
@@ -204,7 +204,7 @@ More details are in this [survey](https://arxiv.org/abs/2403.01759).
 * Parametric Information Maximization for Generalized Category Discovery (**ICCV** 2023) [\[paper\]](https://arxiv.org/abs/2212.00334) [\[code\]](https://github.com/ThalesGroup/pim-generalized-category-discovery) ⭐ 16 | 🐛 2 | 🌐 Python | 📅 2024-06-17
 * MetaGCD: Learning to Continually Learn in Generalized Category Discovery (**ICCV** 2023) [\[paper\]](https://arxiv.org/abs/2308.11063) [\[code\]](https://github.com/ynanwu/MetaGCD) ⭐ 15 | 🐛 4 | 🌐 Python | 📅 2023-09-25
 * Incremental Generalized Category Discovery (**ICCV** 2023) [\[paper\]](https://arxiv.org/abs/2304.14310) [\[code\]](https://github.com/DTennant/Incremental-Generalized-Category-Discovery) ⭐ 15 | 🐛 4 | 🌐 Python | 📅 2023-10-27
-* When and How Does Known Class Help Discover Unknown Ones? Provable Understandings Through Spectral Analysis (**ICML** 2023)  [\[paper\]](https://openreview.net/pdf?id=JHodnaW5WZ) [\[code\]](https://github.com/deeplearning-wisc/NSCL) ⭐ 14 | 🐛 0 | 🌐 Python | 📅 2023-06-24
+* When and How Does Known Class Help Discover Unknown Ones? Provable Understandings Through Spectral Analysis (**ICML** 2023)  [\[paper\]](https://openreview.net/pdf?id=JHodnaW5WZ) [\[code\]](https://github.com/deeplearning-wisc/NSCL) ⭐ 15 | 🐛 0 | 🌐 Python | 📅 2023-06-24
 * Proxy Anchor-based Unsupervised Learning for Continuous Generalized Category Discovery (**ICCV** 2023) [\[paper\]](https://arxiv.org/abs/2307.10943) [\[code\]](https://github.com/Hy2MK/CGCD) ⭐ 12 | 🐛 0 | 🌐 Python | 📅 2024-02-05
 * Bootstrap Your Own Prior: Towards Distribution-Agnostic Novel Class Discovery (**CVPR** 2023) [\[paper\]](https://openaccess.thecvf.com/content/CVPR2023/papers/Yang_Bootstrap_Your_Own_Prior_Towards_Distribution-Agnostic_Novel_Class_Discovery_CVPR_2023_paper.pdf) [\[code\]](https://github.com/muliyangm/BYOP) ⭐ 11 | 🐛 0 | 🌐 Python | 📅 2023-09-25
 * A Graph-Theoretic Framework for Understanding Open-World Semi-Supervised Learning (**NeurIPS** 2023) [\[paper\]](https://arxiv.org/abs/2311.03524) [\[code\]](https://github.com/deeplearning-wisc/sorl) ⭐ 8 | 🐛 0 | 🌐 Python | 📅 2023-10-26
@@ -282,4 +282,4 @@ Please help us improve the above listing by submitting PRs of other papers in th
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-16._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-17._
