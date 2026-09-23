@@ -1498,7 +1498,7 @@
             "open_issues": 2,
             "owner": "CVMI-Lab",
             "repo": "SimGCD",
-            "stars": 129,
+            "stars": 130,
             "topics": [
               "novel-category-discovery",
               "open-world-classification",
@@ -2576,7 +2576,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-22T19:09:55.241Z",
+    "last_updated": "2026-09-23T19:14:02.173Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of papers that studies Novel Class Discovery",
