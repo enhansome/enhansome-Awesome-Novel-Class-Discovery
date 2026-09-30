@@ -208,8 +208,8 @@ More details are in this [survey](https://arxiv.org/abs/2403.01759).
 * Proxy Anchor-based Unsupervised Learning for Continuous Generalized Category Discovery (**ICCV** 2023) [\[paper\]](https://arxiv.org/abs/2307.10943) [\[code\]](https://github.com/Hy2MK/CGCD) ⭐ 12 | 🐛 0 | 🌐 Python | 📅 2024-02-05
 * Bootstrap Your Own Prior: Towards Distribution-Agnostic Novel Class Discovery (**CVPR** 2023) [\[paper\]](https://openaccess.thecvf.com/content/CVPR2023/papers/Yang_Bootstrap_Your_Own_Prior_Towards_Distribution-Agnostic_Novel_Class_Discovery_CVPR_2023_paper.pdf) [\[code\]](https://github.com/muliyangm/BYOP) ⭐ 11 | 🐛 0 | 🌐 Python | 📅 2023-09-25
 * A Graph-Theoretic Framework for Understanding Open-World Semi-Supervised Learning (**NeurIPS** 2023) [\[paper\]](https://arxiv.org/abs/2311.03524) [\[code\]](https://github.com/deeplearning-wisc/sorl) ⭐ 8 | 🐛 0 | 🌐 Python | 📅 2023-10-26
+* Supervised Knowledge May Hurt Novel Class Discovery Performance (**TMLR** 2023) [\[paper\]](https://openreview.net/pdf?id=oqOBTo5uWD)[\[code\]](https://github.com/J-L-O/SK-Hurt-NCD) ⭐ 8 | 🐛 0 | 🌐 Python | 📅 2023-05-16
 * Boosting Novel Category Discovery Over Domains with Soft Contrastive Learning and All-in-One Classifier (**ICCV** 2023) [\[paper\]](https://arxiv.org/abs/2211.11262) [\[code\]](https://github.com/zangzelin/code_san_share?tab=readme-ov-file) ⭐ 7 | 🐛 1 | 🌐 Python | 📅 2023-11-15
-* Supervised Knowledge May Hurt Novel Class Discovery Performance (**TMLR** 2023) [\[paper\]](https://openreview.net/pdf?id=oqOBTo5uWD)[\[code\]](https://github.com/J-L-O/SK-Hurt-NCD) ⭐ 7 | 🐛 0 | 🌐 Python | 📅 2023-05-16
 * An Interactive Interface for Novel Class Discovery in Tabular Data (**ECML PKDD** 2023, Demo Track) [\[paper\]](https://arxiv.org/pdf/2306.12919.pdf) [\[code\]](https://github.com/ColinTr/InteractiveClustering) ⭐ 2 | 🐛 0 | 🌐 JavaScript | 📅 2024-08-20
 * Open-world Semi-supervised Generalized Relation Discovery Aligned in a Real-world Setting (**EMNLP** 2023) [\[paper\]](https://arxiv.org/abs/2305.13533) [\[code\]](https://github.com/wphogan/knord) ⭐ 1 | 🐛 1 | 🌐 Python | 📅 2023-12-19
 * Decompose Novel into Known: Part Concept Learning For 3D Novel Class Discovery (**NeurIPS** 2023) [\[paper\]](https://openreview.net/pdf?id=UYl9IIsjq7)
@@ -282,4 +282,4 @@ Please help us improve the above listing by submitting PRs of other papers in th
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-29._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-30._

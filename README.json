@@ -1921,27 +1921,6 @@
         },
         {
           "node_type": "item",
-          "title": "Boosting Novel Category Discovery Over Domains with Soft Contrastive Learning and All-in-One Classifier (ICCV 2023) [paper]",
-          "description": "[code]",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": null,
-            "homepage": null,
-            "id": 716870100,
-            "language": "Python",
-            "license": null,
-            "last_commit": "2023-11-15T15:12:31Z",
-            "open_issues": 1,
-            "owner": "zangzelin",
-            "repo": "code_san_share",
-            "stars": 7,
-            "topics": []
-          },
-          "first_seen": "2026-08-29T00:06:14.917Z"
-        },
-        {
-          "node_type": "item",
           "title": "Supervised Knowledge May Hurt Novel Class Discovery Performance (TMLR 2023) [paper]",
           "description": "[code]",
           "children": [],
@@ -1956,6 +1935,27 @@
             "open_issues": 0,
             "owner": "J-L-O",
             "repo": "SK-Hurt-NCD",
+            "stars": 8,
+            "topics": []
+          },
+          "first_seen": "2026-08-29T00:06:14.917Z"
+        },
+        {
+          "node_type": "item",
+          "title": "Boosting Novel Category Discovery Over Domains with Soft Contrastive Learning and All-in-One Classifier (ICCV 2023) [paper]",
+          "description": "[code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": null,
+            "homepage": null,
+            "id": 716870100,
+            "language": "Python",
+            "license": null,
+            "last_commit": "2023-11-15T15:12:31Z",
+            "open_issues": 1,
+            "owner": "zangzelin",
+            "repo": "code_san_share",
             "stars": 7,
             "topics": []
           },
@@ -2576,7 +2576,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-29T20:13:29.059Z",
+    "last_updated": "2026-09-30T20:18:09.836Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of papers that studies Novel Class Discovery",
