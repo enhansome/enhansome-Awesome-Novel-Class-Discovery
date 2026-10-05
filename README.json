@@ -1175,7 +1175,7 @@
         {
           "node_type": "item",
           "title": "Novel Class Discovery for Ultra-Fine-Grained Visual Categorization (CVPR 2024) [paper]",
-          "description": "SSDUT-Caiyq/UFG-NCD",
+          "description": "yaqicai/UFG-NCD",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1186,7 +1186,7 @@
             "license": null,
             "last_commit": "2024-07-01T07:13:42Z",
             "open_issues": 0,
-            "owner": "SSDUT-Caiyq",
+            "owner": "yaqicai",
             "repo": "UFG-NCD",
             "stars": 24,
             "topics": [
@@ -2031,7 +2031,7 @@
             "open_issues": 12,
             "owner": "sgvaze",
             "repo": "generalized-category-discovery",
-            "stars": 244,
+            "stars": 245,
             "topics": []
           },
           "first_seen": "2026-08-29T00:06:14.917Z"
@@ -2576,7 +2576,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-04T18:47:25.970Z",
+    "last_updated": "2026-10-05T22:11:27.585Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of papers that studies Novel Class Discovery",
