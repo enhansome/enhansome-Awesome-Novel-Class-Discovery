@@ -408,6 +408,33 @@
         },
         {
           "node_type": "item",
+          "title": "Identifying Latent Concepts and Structures for Generalized Category Discovery (ICML 2026) [paper]",
+          "description": "Michael-McQueen/CPF",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "[ICML 2026] Identifying Latent Concepts and Structures for Generalized Category Discovery",
+            "homepage": "https://arxiv.org/abs/2607.00620",
+            "id": 1240798003,
+            "language": "Python",
+            "license": null,
+            "last_commit": "2026-10-09T06:31:40Z",
+            "open_issues": 0,
+            "owner": "Michael-McQueen",
+            "repo": "CPF",
+            "stars": 3,
+            "topics": [
+              "generalized-category-discovery",
+              "icml-2026",
+              "image-classification",
+              "object-centric-learning",
+              "object-centric-representation"
+            ]
+          },
+          "first_seen": "2026-08-29T00:06:14.917Z"
+        },
+        {
+          "node_type": "item",
           "title": "Multi-Modal Representation Learning via Semi-Supervised Rate Reduction for Generalized Category Discovery (CVPR 2026) [paper]",
           "description": "hewei98/SSR2-GCD",
           "children": [],
@@ -443,27 +470,6 @@
             "open_issues": 0,
             "owner": "VectorYangYiStar",
             "repo": "TAR",
-            "stars": 2,
-            "topics": []
-          },
-          "first_seen": "2026-08-29T00:06:14.917Z"
-        },
-        {
-          "node_type": "item",
-          "title": "Identifying Latent Concepts and Structures for Generalized Category Discovery (ICML 2026) [paper]",
-          "description": "Michael-McQueen/CPF",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "[ICML 2026] Identifying Latent Concepts and Structures for Generalized Category Discovery",
-            "homepage": null,
-            "id": 1240798003,
-            "language": "Python",
-            "license": null,
-            "last_commit": "2026-06-07T07:21:44Z",
-            "open_issues": 0,
-            "owner": "Michael-McQueen",
-            "repo": "CPF",
             "stars": 2,
             "topics": []
           },
@@ -1125,7 +1131,7 @@
             "open_issues": 0,
             "owner": "Visual-AI",
             "repo": "SPTNet",
-            "stars": 36,
+            "stars": 37,
             "topics": []
           },
           "first_seen": "2026-08-29T00:06:14.917Z"
@@ -2576,7 +2582,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-08T20:48:45.369Z",
+    "last_updated": "2026-10-09T20:19:26.238Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of papers that studies Novel Class Discovery",
