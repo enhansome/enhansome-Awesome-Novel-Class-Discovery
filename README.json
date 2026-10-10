@@ -975,27 +975,6 @@
         },
         {
           "node_type": "item",
-          "title": "Towards Understanding Parametric Generalized Category Discovery on Graphs (ICML 2025) [paper]",
-          "description": "bwdeng20/GraphGCD",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Official implementation of ICML2025 paper titled \"Towards Understanding Parametric Generalized Category Discovery on Graphs\"",
-            "homepage": null,
-            "id": 989507037,
-            "language": null,
-            "license": null,
-            "last_commit": "2025-05-24T08:34:31Z",
-            "open_issues": 2,
-            "owner": "bwdeng20",
-            "repo": "GraphGCD",
-            "stars": 1,
-            "topics": []
-          },
-          "first_seen": "2026-08-29T00:06:14.917Z"
-        },
-        {
-          "node_type": "item",
           "title": "Mutual-support Generalized Category Discovery (Information Fusion 2025) [paper]",
           "description": "DuannYu/MSGCD",
           "children": [],
@@ -1010,6 +989,27 @@
             "open_issues": 0,
             "owner": "DuannYu",
             "repo": "MSGCD",
+            "stars": 2,
+            "topics": []
+          },
+          "first_seen": "2026-08-29T00:06:14.917Z"
+        },
+        {
+          "node_type": "item",
+          "title": "Towards Understanding Parametric Generalized Category Discovery on Graphs (ICML 2025) [paper]",
+          "description": "bwdeng20/GraphGCD",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Official implementation of ICML2025 paper titled \"Towards Understanding Parametric Generalized Category Discovery on Graphs\"",
+            "homepage": null,
+            "id": 989507037,
+            "language": null,
+            "license": null,
+            "last_commit": "2025-05-24T08:34:31Z",
+            "open_issues": 2,
+            "owner": "bwdeng20",
+            "repo": "GraphGCD",
             "stars": 1,
             "topics": []
           },
@@ -1504,7 +1504,7 @@
             "open_issues": 2,
             "owner": "CVMI-Lab",
             "repo": "SimGCD",
-            "stars": 130,
+            "stars": 131,
             "topics": [
               "novel-category-discovery",
               "open-world-classification",
@@ -2582,7 +2582,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-09T20:19:26.238Z",
+    "last_updated": "2026-10-10T19:31:08.309Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of papers that studies Novel Class Discovery",

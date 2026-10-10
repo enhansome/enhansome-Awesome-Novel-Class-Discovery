@@ -133,8 +133,8 @@ More details are in this [survey](https://arxiv.org/abs/2403.01759).
 * Dissecting Generalized Category Discovery: Multiplex Consensus under Self-Deconstruction (**ICCV** 2025) [\[paper\]](https://arxiv.org/abs/2508.10731) [\[code\]](https://github.com/lytang63/ConGCD) ⭐ 3 | 🐛 2 | 📅 2025-08-01
 * HIDISC: A Hyperbolic Framework for Domain Generalization with Generalized Category Discovery (**NeurIPS** 2025) [\[paper\]](https://arxiv.org/abs/2510.17188) [\[code\]](https://github.com/dgibn/HIDISC) ⭐ 3 | 🐛 0 | 🌐 Python | 📅 2025-11-26
 * Consistent Prompt Tuning for Generalized Category Discovery (**IJCV** 2025) [\[paper\]](https://link.springer.com/article/10.1007/s11263-024-02343-w) [\[code\]](https://github.com/muliyangm/CPT) ⭐ 3 | 🐛 1 | 📅 2025-12-23
+* Mutual-support Generalized Category Discovery (**Information Fusion** 2025) [\[paper\]](https://doi.org/10.1016/j.inffus.2025.103020) [\[code\]](https://github.com/DuannYu/MSGCD) ⭐ 2 | 🐛 0 | 🌐 Python | 📅 2025-05-12
 * Towards Understanding Parametric Generalized Category Discovery on Graphs (**ICML** 2025) [\[paper\]](https://icml.cc/virtual/2025/poster/45645) [\[code\]](https://github.com/bwdeng20/GraphGCD) ⭐ 1 | 🐛 2 | 📅 2025-05-24
-* Mutual-support Generalized Category Discovery (**Information Fusion** 2025) [\[paper\]](https://doi.org/10.1016/j.inffus.2025.103020) [\[code\]](https://github.com/DuannYu/MSGCD) ⭐ 1 | 🐛 0 | 🌐 Python | 📅 2025-05-12
 * SynC and SynC-AL: Language-assisted Feature Representation and Lightweight Active Learning For On-the-Fly Category Discovery (**TMLR** 2025) [\[paper\]](https://openreview.net/pdf?id=ZihFoM8K0j) [\[code\]](https://github.com/missBanerjee/SynC) ⭐ 0 | 🐛 0 | 🌐 Python | 📅 2025-09-24
 * Hyperbolic Category Discovery (**CVPR** 2025) [\[paper\]](https://arxiv.org/abs/2504.06120) [\[code\]](https://visual-ai.github.io/hypcd/)
 * Adaptive Part Learning for Fine-Grained Generalized Category Discovery: A Plug-and-Play Enhancement (**CVPR** 2025) [\[paper\]](https://arxiv.org/pdf/2507.06928)
@@ -188,7 +188,7 @@ More details are in this [survey](https://arxiv.org/abs/2403.01759).
 
 ## 2023
 
-* Parametric Classification for Generalized Category Discovery: A Baseline Study (**ICCV** 2023) [\[paper\]](https://arxiv.org/abs/2211.11727) [\[code\]](https://github.com/CVMI-Lab/SimGCD) ⭐ 130 | 🐛 2 | 🌐 Python | 📅 2023-12-30
+* Parametric Classification for Generalized Category Discovery: A Baseline Study (**ICCV** 2023) [\[paper\]](https://arxiv.org/abs/2211.11727) [\[code\]](https://github.com/CVMI-Lab/SimGCD) ⭐ 131 | 🐛 2 | 🌐 Python | 📅 2023-12-30
 * Novel Class Discovery for 3D Point Cloud Semantic Segmentation (**CVPR** 2023) [\[paper\]](https://arxiv.org/abs/2303.11610) [\[code\]](https://github.com/LuigiRiz/NOPS) ⭐ 64 | 🐛 2 | 🌐 Python | 📅 2023-09-01
 * On-the-Fly Category Discovery (**CVPR** 2023) [\[paper\]](https://openaccess.thecvf.com/content/CVPR2023/papers/Du_On-the-Fly_Category_Discovery_CVPR_2023_paper.pdf) [\[code\]](https://github.com/PRIS-CV/On-the-fly-Category-Discovery) ⭐ 59 | 🐛 2 | 🌐 Python | 📅 2023-07-15
 * PromptCAL: Contrastive Affinity Learning via Auxiliary Prompts for Generalized Novel Category Discovery (**CVPR** 2023) [\[paper\]](https://arxiv.org/abs/2212.05590) [\[code\]](https://github.com/sheng-eatamath/PromptCAL) ⭐ 48 | 🐛 0 | 🌐 Python | 📅 2023-03-18
@@ -282,4 +282,4 @@ Please help us improve the above listing by submitting PRs of other papers in th
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-09._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-10._
