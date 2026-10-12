@@ -33,7 +33,7 @@ More details are in this [survey](https://arxiv.org/abs/2403.01759).
 * Generalized Category Discovery in Semantic Segmentation [\[paper\]](https://arxiv.org/abs/2311.11525) [\[code\]](https://github.com/JethroPeng/GCDSS) ⭐ 17 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2023-12-20
 * PANDAS: Prototype-based Novel Class Discovery and Detection [\[paper\]](https://arxiv.org/abs/2402.17420) [\[code\]](https://github.com/naver/pandas) ⭐ 16 | 🐛 0 | 🌐 Python | 📅 2024-05-28
 * Beyond Known Clusters: Probe New Prototypes for Efficient Generalized Class Discovery [\[paper\]](https://arxiv.org/abs/2404.08995) [\[code\]](https://github.com/xjtuYW/PNP) ⭐ 15 | 🐛 1 | 🌐 Python | 📅 2024-04-28
-* OpenGCD: Assisting Open World Recognition with Generalized Category Discovery [\[paper\]](https://arxiv.org/abs/2308.06926) [\[code\]](https://github.com/Fulin-Gao/OpenGCD) ⭐ 12 | 🐛 0 | 🌐 Python | 📅 2026-01-04
+* OpenGCD: Assisting Open World Recognition with Generalized Category Discovery [\[paper\]](https://arxiv.org/abs/2308.06926) [\[code\]](https://github.com/Fulin-Gao/OpenGCD) ⭐ 13 | 🐛 0 | 🌐 Python | 📅 2026-01-04
 * Composing Novel Classes: A Concept-Driven Approach to Generalized Category Discovery [\[paper\]](https://arxiv.org/abs/2410.13285)[\[code\]](https://github.com/algpy/conceptGCD) ⭐ 3 | 🐛 0 | 📅 2025-07-18
 * HiLo: A Learning Framework for Generalized Category Discovery Robust to Domain Shifts [\[paper\]](https://arxiv.org/abs/2408.04591)
 * Continual Novel Class Discovery via Feature Enhancement and Adaptation [\[paper\]](https://arxiv.org/abs/2405.06389)
@@ -77,9 +77,9 @@ More details are in this [survey](https://arxiv.org/abs/2403.01759).
 * Adaptive Gaussian Expansion for On-the-fly Category Discovery (**ICLR** 2026) [\[paper\]](https://openreview.net/forum?id=Y59JeAbM3j) [\[code\]](https://github.com/Ashengl/AGE) ⭐ 6 | 🐛 0 | 🌐 Python | 📅 2026-04-01
 * SECOS: Semantic Capture for Rigorous Classification in Open-World Semi-Supervised Learning (**CVPR** 2026) [\[paper\]](https://openaccess.thecvf.com/content/CVPR2026/html/Liu_SECOS_Semantic_Capture_for_Rigorous_Classification_in_Open-World_Semi-Supervised_Learning_CVPR_2026_paper.html) [\[code\]](https://github.com/ganchi-huanggua/OSSL-Classification) ⭐ 4 | 🐛 1 | 🌐 Python | 📅 2026-06-16
 * Assignment-Driven Hash Learning in a Hyper-Semantic Space for On-the-Fly Category Discovery (**CVPR** 2026) [\[paper\]](https://openaccess.thecvf.com/content/CVPR2026/html/Yang_Assignment-Driven_Hash_Learning_in_a_Hyper-Semantic_Space_for_On-the-Fly_Category_CVPR_2026_paper.html) [\[code\]](https://github.com/KeibingYang/Assignment-Driven-Hash-Learning-in-a-Hyper-Semantic-Space-for-OCD) ⭐ 4 | 🐛 0 | 🌐 Python | 📅 2026-03-07
+* Identifying Latent Concepts and Structures for Generalized Category Discovery (**ICML** 2026) [\[paper\]](https://icml.cc/virtual/2026/poster/62711) [\[code\]](https://github.com/Michael-McQueen/CPF) ⭐ 4 | 🐛 0 | 🌐 Python | 📅 2026-10-09
 * Generalized Category Discovery for LiDAR Semantic Segmentation (**WACV** 2026) [\[paper\]](https://doi.org/10.1109/WACV61042.2026.00812) [\[code\]](https://github.com/Minseokkim-0124/Generalized-Category-Discovery-for-LiDAR-Semantic-Segmentation) ⭐ 4 | 🐛 1 | 🌐 Python | 📅 2026-03-14
 * Learning through Creation: A Hash-Free Framework for On-the-Fly Category Discovery (**CVPR Findings** 2026) [\[paper\]](https://arxiv.org/abs/2603.13858) [\[code\]](https://github.com/brandinzhang/LTC) ⭐ 3 | 🐛 0 | 🌐 Python | 📅 2026-03-13
-* Identifying Latent Concepts and Structures for Generalized Category Discovery (**ICML** 2026) [\[paper\]](https://icml.cc/virtual/2026/poster/62711) [\[code\]](https://github.com/Michael-McQueen/CPF) ⭐ 3 | 🐛 0 | 🌐 Python | 📅 2026-10-09
 * Multi-Modal Representation Learning via Semi-Supervised Rate Reduction for Generalized Category Discovery (**CVPR** 2026) [\[paper\]](https://openaccess.thecvf.com/content/CVPR2026/html/He_Multi-Modal_Representation_Learning_via_Semi-Supervised_Rate_Reduction_for_Generalized_Category_CVPR_2026_paper.html) [\[code\]](https://github.com/hewei98/SSR2-GCD) ⭐ 2 | 🐛 0 | 🌐 Python | 📅 2026-04-11
 * TAR: Token-Aware Refinement for Fine-Grained Generalized Category Discovery (**CVPR** 2026) [\[paper\]](https://openaccess.thecvf.com/content/CVPR2026/html/Yang_TAR_Token-Aware_Refinement_for_Fine-grained_Generalized_Category_Discovery_CVPR_2026_paper.html) [\[code\]](https://github.com/VectorYangYiStar/TAR) ⭐ 2 | 🐛 0 | 🌐 Python | 📅 2026-03-10
 * BOLT: Benchmarking Open-World Learning for Text Classification (**ACL Findings** 2026) [\[paper\]](https://aclanthology.org/2026.findings-acl.667/) [\[code\]](https://github.com/CNIC-DSL/BOLT) ⭐ 2 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2026-04-20
@@ -282,4 +282,4 @@ Please help us improve the above listing by submitting PRs of other papers in th
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-11._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-12._

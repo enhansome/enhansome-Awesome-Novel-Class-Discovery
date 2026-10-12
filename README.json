@@ -124,7 +124,7 @@
             "open_issues": 0,
             "owner": "Fulin-Gao",
             "repo": "OpenGCD",
-            "stars": 12,
+            "stars": 13,
             "topics": []
           },
           "first_seen": "2026-08-29T00:06:14.917Z"
@@ -366,6 +366,33 @@
         },
         {
           "node_type": "item",
+          "title": "Identifying Latent Concepts and Structures for Generalized Category Discovery (ICML 2026) [paper]",
+          "description": "Michael-McQueen/CPF",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "[ICML 2026] Identifying Latent Concepts and Structures for Generalized Category Discovery",
+            "homepage": "https://arxiv.org/abs/2607.00620",
+            "id": 1240798003,
+            "language": "Python",
+            "license": null,
+            "last_commit": "2026-10-09T06:31:40Z",
+            "open_issues": 0,
+            "owner": "Michael-McQueen",
+            "repo": "CPF",
+            "stars": 4,
+            "topics": [
+              "generalized-category-discovery",
+              "icml-2026",
+              "image-classification",
+              "object-centric-learning",
+              "object-centric-representation"
+            ]
+          },
+          "first_seen": "2026-08-29T00:06:14.917Z"
+        },
+        {
+          "node_type": "item",
           "title": "Generalized Category Discovery for LiDAR Semantic Segmentation (WACV 2026) [paper]",
           "description": "Minseokkim-0124/Generalized-Category-Discovery-for-LiDAR-Semantic-Segmentation",
           "children": [],
@@ -403,33 +430,6 @@
             "repo": "LTC",
             "stars": 3,
             "topics": []
-          },
-          "first_seen": "2026-08-29T00:06:14.917Z"
-        },
-        {
-          "node_type": "item",
-          "title": "Identifying Latent Concepts and Structures for Generalized Category Discovery (ICML 2026) [paper]",
-          "description": "Michael-McQueen/CPF",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "[ICML 2026] Identifying Latent Concepts and Structures for Generalized Category Discovery",
-            "homepage": "https://arxiv.org/abs/2607.00620",
-            "id": 1240798003,
-            "language": "Python",
-            "license": null,
-            "last_commit": "2026-10-09T06:31:40Z",
-            "open_issues": 0,
-            "owner": "Michael-McQueen",
-            "repo": "CPF",
-            "stars": 3,
-            "topics": [
-              "generalized-category-discovery",
-              "icml-2026",
-              "image-classification",
-              "object-centric-learning",
-              "object-centric-representation"
-            ]
           },
           "first_seen": "2026-08-29T00:06:14.917Z"
         },
@@ -2582,7 +2582,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-11T19:42:54.625Z",
+    "last_updated": "2026-10-12T22:35:32.342Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of papers that studies Novel Class Discovery",
