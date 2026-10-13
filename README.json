@@ -635,6 +635,31 @@
         },
         {
           "node_type": "item",
+          "title": "SEAL: Semantic-Aware Hierarchical Learning for Generalized Category Discovery (NeurIPS 2025) [paper]",
+          "description": "Visual-AI/SEAL",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "[NeurIPS 2025] SEAL: Semantic-Aware Hierarchical Learning for Generalized Category Discovery",
+            "homepage": "https://visual-ai.github.io/seal/",
+            "id": 1121171264,
+            "language": "Python",
+            "license": null,
+            "last_commit": "2026-04-04T04:09:55Z",
+            "open_issues": 0,
+            "owner": "Visual-AI",
+            "repo": "SEAL",
+            "stars": 17,
+            "topics": [
+              "generalized-category-discovery",
+              "neurips-2025",
+              "open-world-learning"
+            ]
+          },
+          "first_seen": "2026-08-29T00:06:14.917Z"
+        },
+        {
+          "node_type": "item",
           "title": "DebGCD: Debiased Learning with Distribution Guidance for Generalized Category Discovery (ICLR 2025) [paper]",
           "description": "Visual-AI/DebGCD",
           "children": [],
@@ -651,31 +676,6 @@
             "repo": "DebGCD",
             "stars": 16,
             "topics": []
-          },
-          "first_seen": "2026-08-29T00:06:14.917Z"
-        },
-        {
-          "node_type": "item",
-          "title": "SEAL: Semantic-Aware Hierarchical Learning for Generalized Category Discovery (NeurIPS 2025) [paper]",
-          "description": "Visual-AI/SEAL",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "[NeurIPS 2025] SEAL: Semantic-Aware Hierarchical Learning for Generalized Category Discovery",
-            "homepage": "https://visual-ai.github.io/seal/",
-            "id": 1121171264,
-            "language": "Python",
-            "license": null,
-            "last_commit": "2026-04-04T04:09:55Z",
-            "open_issues": 0,
-            "owner": "Visual-AI",
-            "repo": "SEAL",
-            "stars": 16,
-            "topics": [
-              "generalized-category-discovery",
-              "neurips-2025",
-              "open-world-learning"
-            ]
           },
           "first_seen": "2026-08-29T00:06:14.917Z"
         },
@@ -1131,7 +1131,7 @@
             "open_issues": 0,
             "owner": "Visual-AI",
             "repo": "SPTNet",
-            "stars": 37,
+            "stars": 38,
             "topics": []
           },
           "first_seen": "2026-08-29T00:06:14.917Z"
@@ -1152,7 +1152,7 @@
             "open_issues": 0,
             "owner": "SarahRastegar",
             "repo": "SelEx",
-            "stars": 31,
+            "stars": 32,
             "topics": []
           },
           "first_seen": "2026-08-29T00:06:14.917Z"
@@ -1226,27 +1226,6 @@
         },
         {
           "node_type": "item",
-          "title": "Prototypical Hash Encoding for On-the-Fly Fine-Grained Category Discovery (NeurIPS 2024) [paper]",
-          "description": "HaiyangZheng/PHE",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "(NeurIPS2024) Prototypical Hash Encoding for On-the-Fly Fine-Grained Category Discovery (PHE)",
-            "homepage": null,
-            "id": 876468035,
-            "language": "Python",
-            "license": null,
-            "last_commit": "2025-10-01T08:34:34Z",
-            "open_issues": 0,
-            "owner": "HaiyangZheng",
-            "repo": "PHE",
-            "stars": 16,
-            "topics": []
-          },
-          "first_seen": "2026-08-29T00:06:14.917Z"
-        },
-        {
-          "node_type": "item",
           "title": "Solving the Catastrophic Forgetting Problem in Generalized Category Discovery (CVPR 2024) [paper]",
           "description": "Cliffia123/LegoGCD",
           "children": [],
@@ -1261,6 +1240,27 @@
             "open_issues": 2,
             "owner": "Cliffia123",
             "repo": "LegoGCD",
+            "stars": 17,
+            "topics": []
+          },
+          "first_seen": "2026-08-29T00:06:14.917Z"
+        },
+        {
+          "node_type": "item",
+          "title": "Prototypical Hash Encoding for On-the-Fly Fine-Grained Category Discovery (NeurIPS 2024) [paper]",
+          "description": "HaiyangZheng/PHE",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "(NeurIPS2024) Prototypical Hash Encoding for On-the-Fly Fine-Grained Category Discovery (PHE)",
+            "homepage": null,
+            "id": 876468035,
+            "language": "Python",
+            "license": null,
+            "last_commit": "2025-10-01T08:34:34Z",
+            "open_issues": 0,
+            "owner": "HaiyangZheng",
+            "repo": "PHE",
             "stars": 16,
             "topics": []
           },
@@ -1373,6 +1373,27 @@
         },
         {
           "node_type": "item",
+          "title": "Contextuality Helps Representation Learning for Generalized Category Discovery (ICIP 2024) [paper]",
+          "description": "Clarence-CV/Contexuality-GCD",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": null,
+            "homepage": null,
+            "id": 750144677,
+            "language": "Python",
+            "license": "NOASSERTION",
+            "last_commit": "2024-12-14T05:23:26Z",
+            "open_issues": 0,
+            "owner": "Clarence-CV",
+            "repo": "Contexuality-GCD",
+            "stars": 7,
+            "topics": []
+          },
+          "first_seen": "2026-08-29T00:06:14.917Z"
+        },
+        {
+          "node_type": "item",
           "title": "Guided Cluster Aggregation: A Hierarchical Approach to Generalized Category Discovery (WACV 2024) [paper]",
           "description": "J-L-O/guided-cluster-aggregation",
           "children": [],
@@ -1388,27 +1409,6 @@
             "owner": "J-L-O",
             "repo": "guided-cluster-aggregation",
             "stars": 7,
-            "topics": []
-          },
-          "first_seen": "2026-08-29T00:06:14.917Z"
-        },
-        {
-          "node_type": "item",
-          "title": "Contextuality Helps Representation Learning for Generalized Category Discovery (ICIP 2024) [paper]",
-          "description": "Clarence-CV/Contexuality-GCD",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": null,
-            "homepage": null,
-            "id": 750144677,
-            "language": "Python",
-            "license": "NOASSERTION",
-            "last_commit": "2024-12-14T05:23:26Z",
-            "open_issues": 0,
-            "owner": "Clarence-CV",
-            "repo": "Contexuality-GCD",
-            "stars": 6,
             "topics": []
           },
           "first_seen": "2026-08-29T00:06:14.917Z"
@@ -1578,7 +1578,7 @@
             "open_issues": 0,
             "owner": "sheng-eatamath",
             "repo": "PromptCAL",
-            "stars": 48,
+            "stars": 49,
             "topics": []
           },
           "first_seen": "2026-08-29T00:06:14.917Z"
@@ -1599,7 +1599,7 @@
             "open_issues": 7,
             "owner": "TPCD",
             "repo": "DCCL",
-            "stars": 42,
+            "stars": 43,
             "topics": []
           },
           "first_seen": "2026-08-29T00:06:14.917Z"
@@ -2582,7 +2582,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-12T22:35:32.342Z",
+    "last_updated": "2026-10-13T20:49:03.573Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of papers that studies Novel Class Discovery",
@@ -2594,7 +2594,7 @@
       "open_issues": 5,
       "owner": "JosephKJ",
       "repo": "Awesome-Novel-Class-Discovery",
-      "stars": 532,
+      "stars": 533,
       "topics": [
         "awesome-list",
         "class-discovery",
