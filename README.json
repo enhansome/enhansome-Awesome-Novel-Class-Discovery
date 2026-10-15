@@ -1149,7 +1149,7 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2025-08-04T18:17:01Z",
-            "open_issues": 0,
+            "open_issues": 1,
             "owner": "SarahRastegar",
             "repo": "SelEx",
             "stars": 32,
@@ -2582,7 +2582,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-14T19:41:24.424Z",
+    "last_updated": "2026-10-15T19:22:35.010Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of papers that studies Novel Class Discovery",
@@ -2594,7 +2594,7 @@
       "open_issues": 5,
       "owner": "JosephKJ",
       "repo": "Awesome-Novel-Class-Discovery",
-      "stars": 534,
+      "stars": 535,
       "topics": [
         "awesome-list",
         "class-discovery",
