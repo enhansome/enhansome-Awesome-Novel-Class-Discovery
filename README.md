@@ -264,7 +264,7 @@ More details are in this [survey](https://arxiv.org/abs/2403.01759).
 ## 2019
 
 * Multi-class classification without multi-class labels (**ICLR** 2019) [\[paper\]](https://openreview.net/forum?id=SJzR2iRcK7) [\[code\]](https://github.com/GT-RIPL/L2C) ⭐ 315 | 🐛 0 | 🌐 Python | 📅 2020-01-08 (MCL)
-* Learning to discover novel visual categories via deep transfer clustering (**ICCV** 2019) [\[paper\]](https://arxiv.org/abs/1908.09884) [\[code\]](https://github.com/k-han/DTC) ⭐ 169 | 🐛 2 | 🌐 Python | 📅 2022-10-22 (DTC)
+* Learning to discover novel visual categories via deep transfer clustering (**ICCV** 2019) [\[paper\]](https://arxiv.org/abs/1908.09884) [\[code\]](https://github.com/k-han/DTC) ⭐ 168 | 🐛 2 | 🌐 Python | 📅 2022-10-22 (DTC)
 
 ## 2018
 
@@ -282,4 +282,4 @@ Please help us improve the above listing by submitting PRs of other papers in th
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-16._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-17._
