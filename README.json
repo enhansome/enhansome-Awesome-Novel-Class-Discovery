@@ -901,7 +901,7 @@
             "id": 1029261922,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2025-09-05T09:37:28Z",
+            "last_commit": "2026-10-18T12:54:17Z",
             "open_issues": 0,
             "owner": "Shubh-Nil",
             "repo": "D-GCD",
@@ -2582,7 +2582,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-17T17:55:34.066Z",
+    "last_updated": "2026-10-18T18:16:24.340Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of papers that studies Novel Class Discovery",
