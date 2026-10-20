@@ -172,7 +172,7 @@
             "open_issues": 1,
             "owner": "mashijie1028",
             "repo": "Happy-CGCD",
-            "stars": 48,
+            "stars": 49,
             "topics": [
               "continual-learning",
               "machine-learning",
@@ -1105,7 +1105,7 @@
             "open_issues": 1,
             "owner": "mashijie1028",
             "repo": "Happy-CGCD",
-            "stars": 48,
+            "stars": 49,
             "topics": [
               "continual-learning",
               "machine-learning",
@@ -1148,7 +1148,7 @@
             "id": 828708956,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2025-08-04T18:17:01Z",
+            "last_commit": "2026-10-20T10:18:29Z",
             "open_issues": 1,
             "owner": "SarahRastegar",
             "repo": "SelEx",
@@ -2582,7 +2582,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-19T20:42:33.428Z",
+    "last_updated": "2026-10-20T19:34:20.407Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of papers that studies Novel Class Discovery",
