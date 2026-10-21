@@ -2037,7 +2037,7 @@
             "open_issues": 12,
             "owner": "sgvaze",
             "repo": "generalized-category-discovery",
-            "stars": 245,
+            "stars": 246,
             "topics": []
           },
           "first_seen": "2026-08-29T00:06:14.917Z"
@@ -2582,7 +2582,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-20T19:34:20.407Z",
+    "last_updated": "2026-10-21T19:36:48.342Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of papers that studies Novel Class Discovery",
@@ -2594,7 +2594,7 @@
       "open_issues": 5,
       "owner": "JosephKJ",
       "repo": "Awesome-Novel-Class-Discovery",
-      "stars": 536,
+      "stars": 537,
       "topics": [
         "awesome-list",
         "class-discovery",
