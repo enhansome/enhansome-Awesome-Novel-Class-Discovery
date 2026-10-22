@@ -70,10 +70,10 @@ More details are in this [survey](https://arxiv.org/abs/2403.01759).
 
 * Happy++: Towards Stable and Unified Continual Generalized Category Discovery (**TPAMI 2026**) [\[paper\]](https://doi.org/10.1109/tpami.2026.3721625) [\[code\]](https://github.com/mashijie1028/happy-cgcd) ⭐ 49 | 🐛 1 | 🌐 Python | 📅 2026-08-26
 * SpectralGCD: Spectral Concept Selection and Cross-modal Representation Learning for Generalized Category Discovery (**ICLR** 2026) [\[paper\]](https://openreview.net/forum?id=PyfV9tFmdR) [\[code\]](https://github.com/miccunifi/SpectralGCD) ⭐ 23 | 🐛 1 | 🌐 Python | 📅 2026-03-18
-* Learning Like Humans: Analogical Concept Learning for Generalized Category Discovery (**CVPR** 2026) [\[paper\]](https://openaccess.thecvf.com/content/CVPR2026/html/Han_Learning_Like_Humans_Analogical_Concept_Learning_for_Generalized_Category_Discovery_CVPR_2026_paper.html) [\[code\]](https://github.com/zhou-9527/AnaLogical-GCD) ⭐ 20 | 🐛 1 | 🌐 Python | 📅 2026-07-01
+* Learning Like Humans: Analogical Concept Learning for Generalized Category Discovery (**CVPR** 2026) [\[paper\]](https://openaccess.thecvf.com/content/CVPR2026/html/Han_Learning_Like_Humans_Analogical_Concept_Learning_for_Generalized_Category_Discovery_CVPR_2026_paper.html) [\[code\]](https://github.com/zhou-9527/AnaLogical-GCD) ⭐ 21 | 🐛 1 | 🌐 Python | 📅 2026-07-01
 * TALON: Test-time Adaptive Learning for On-the-Fly Category Discovery (**CVPR** 2026) [\[paper\]](https://openaccess.thecvf.com/content/CVPR2026/html/Wu_TALON_Test-time_Adaptive_Learning_for_On-the-Fly_Category_Discovery_CVPR_2026_paper.html) [\[code\]](https://github.com/ynanwu/TALON) ⭐ 9 | 🐛 3 | 🌐 Python | 📅 2026-04-18
-* GLEAN: Active Generalized Category Discovery with Diverse LLM Feedback (**EACL** 2026) [\[paper\]](https://aclanthology.org/2026.eacl-long.358/) [\[code\]](https://github.com/amazon-science/Glean) ⭐ 9 | 🐛 1 | 🌐 Python | 📅 2026-07-02
 * Generalized Fine-Grained Category Discovery with Multi-Granularity Conceptual Experts (**IJCV** 2026) [\[paper\]](https://doi.org/10.1007/s11263-026-02970-5) [\[code\]](https://github.com/HaiyangZheng/MGCE) ⭐ 9 | 🐛 0 | 🌐 Python | 📅 2026-07-11
+* GLEAN: Active Generalized Category Discovery with Diverse LLM Feedback (**EACL** 2026) [\[paper\]](https://aclanthology.org/2026.eacl-long.358/) [\[code\]](https://github.com/amazon-science/Glean) ⭐ 8 | 🐛 1 | 🌐 Python | 📅 2026-07-02
 * Adaptive Gaussian Expansion for On-the-fly Category Discovery (**ICLR** 2026) [\[paper\]](https://openreview.net/forum?id=Y59JeAbM3j) [\[code\]](https://github.com/Ashengl/AGE) ⭐ 6 | 🐛 0 | 🌐 Python | 📅 2026-04-01
 * SECOS: Semantic Capture for Rigorous Classification in Open-World Semi-Supervised Learning (**CVPR** 2026) [\[paper\]](https://openaccess.thecvf.com/content/CVPR2026/html/Liu_SECOS_Semantic_Capture_for_Rigorous_Classification_in_Open-World_Semi-Supervised_Learning_CVPR_2026_paper.html) [\[code\]](https://github.com/ganchi-huanggua/OSSL-Classification) ⭐ 4 | 🐛 1 | 🌐 Python | 📅 2026-06-16
 * Assignment-Driven Hash Learning in a Hyper-Semantic Space for On-the-Fly Category Discovery (**CVPR** 2026) [\[paper\]](https://openaccess.thecvf.com/content/CVPR2026/html/Yang_Assignment-Driven_Hash_Learning_in_a_Hyper-Semantic_Space_for_On-the-Fly_Category_CVPR_2026_paper.html) [\[code\]](https://github.com/KeibingYang/Assignment-Driven-Hash-Learning-in-a-Hyper-Semantic-Space-for-OCD) ⭐ 4 | 🐛 0 | 🌐 Python | 📅 2026-03-07
@@ -118,7 +118,7 @@ More details are in this [survey](https://arxiv.org/abs/2403.01759).
 * GET: Unlocking the Multi-Modal Potential of CLIP for Generalized Category Discovery (**CVPR** 2025) [\[paper\]](https://arxiv.org/abs/2403.09974) [\[code\]](https://github.com/enguangW/GET) ⭐ 37 | 🐛 2 | 🌐 Python | 📅 2025-03-31
 * HiLo: A Learning Framework for Generalized Category Discovery Robust to Domain Shifts (**ICLR** 2025) [\[paper\]](https://arxiv.org/abs/2408.04591) [\[code\]](https://github.com/Visual-AI/HiLo) ⭐ 22 | 🐛 4 | 🌐 Python | 📅 2025-08-01
 * SEAL: Semantic-Aware Hierarchical Learning for Generalized Category Discovery (**NeurIPS** 2025) [\[paper\]](https://arxiv.org/abs/2510.18740) [\[code\]](https://github.com/Visual-AI/seal) ⭐ 17 | 🐛 0 | 🌐 Python | 📅 2026-04-04
-* DebGCD: Debiased Learning with Distribution Guidance for Generalized Category Discovery (**ICLR** 2025) [\[paper\]](https://arxiv.org/abs/2504.04804) [\[code\]](https://github.com/Visual-AI/DebGCD) ⭐ 16 | 🐛 0 | 🌐 Python | 📅 2025-09-27
+* DebGCD: Debiased Learning with Distribution Guidance for Generalized Category Discovery (**ICLR** 2025) [\[paper\]](https://arxiv.org/abs/2504.04804) [\[code\]](https://github.com/Visual-AI/DebGCD) ⭐ 15 | 🐛 0 | 🌐 Python | 📅 2025-09-27
 * MOS: Modeling Object-Scene Associations in Generalized Category Discovery (**CVPR** 2025) [\[paper\]](https://arxiv.org/abs/2503.12035) [\[code\]](https://github.com/JethroPeng/MOS?tab=readme-ov-file) ⭐ 11 | 🐛 1 | 🌐 Python | 📅 2025-04-13
 * Unleashing the Potential of Model Bias for Generalized Category Discovery (**AAAI** 2025) [\[paper\]](https://ojs.aaai.org/index.php/AAAI/article/view/33686) [\[code\]](https://github.com/Lackel/SDC) ⭐ 11 | 🐛 0 | 🌐 Python | 📅 2024-12-18
 * A Hidden Stumbling Block in Generalized Category Discovery: Distracted Attention (**ICCV** 2025) [\[paper\]](https://arxiv.org/abs/2507.14315) [\[code\]](https://github.com/Afleve/AFGCD) ⭐ 10 | 🐛 0 | 🌐 Python | 📅 2026-05-18
@@ -188,14 +188,14 @@ More details are in this [survey](https://arxiv.org/abs/2403.01759).
 
 ## 2023
 
-* Parametric Classification for Generalized Category Discovery: A Baseline Study (**ICCV** 2023) [\[paper\]](https://arxiv.org/abs/2211.11727) [\[code\]](https://github.com/CVMI-Lab/SimGCD) ⭐ 131 | 🐛 2 | 🌐 Python | 📅 2023-12-30
+* Parametric Classification for Generalized Category Discovery: A Baseline Study (**ICCV** 2023) [\[paper\]](https://arxiv.org/abs/2211.11727) [\[code\]](https://github.com/CVMI-Lab/SimGCD) ⭐ 130 | 🐛 2 | 🌐 Python | 📅 2023-12-30
 * Novel Class Discovery for 3D Point Cloud Semantic Segmentation (**CVPR** 2023) [\[paper\]](https://arxiv.org/abs/2303.11610) [\[code\]](https://github.com/LuigiRiz/NOPS) ⭐ 64 | 🐛 2 | 🌐 Python | 📅 2023-09-01
 * On-the-Fly Category Discovery (**CVPR** 2023) [\[paper\]](https://openaccess.thecvf.com/content/CVPR2023/papers/Du_On-the-Fly_Category_Discovery_CVPR_2023_paper.pdf) [\[code\]](https://github.com/PRIS-CV/On-the-fly-Category-Discovery) ⭐ 59 | 🐛 2 | 🌐 Python | 📅 2023-07-15
 * PromptCAL: Contrastive Affinity Learning via Auxiliary Prompts for Generalized Novel Category Discovery (**CVPR** 2023) [\[paper\]](https://arxiv.org/abs/2212.05590) [\[code\]](https://github.com/sheng-eatamath/PromptCAL) ⭐ 49 | 🐛 0 | 🌐 Python | 📅 2023-03-18
 * Dynamic Conceptional Contrastive Learning for Generalized Category Discovery (**CVPR** 2023) [\[paper\]](https://arxiv.org/pdf/2303.17393) [\[code\]](https://github.com/TPCD/DCCL) ⭐ 43 | 🐛 7 | 🌐 Python | 📅 2024-02-20
-* OpenCon: Open-world Contrastive Learning (**TMLR** 2023) [\[paper\]](https://arxiv.org/abs/2208.02764) [\[code\]](https://github.com/deeplearning-wisc/opencon/) ⭐ 38 | 🐛 0 | 🌐 Python | 📅 2023-05-11
+* OpenCon: Open-world Contrastive Learning (**TMLR** 2023) [\[paper\]](https://arxiv.org/abs/2208.02764) [\[code\]](https://github.com/deeplearning-wisc/opencon/) ⭐ 37 | 🐛 0 | 🌐 Python | 📅 2023-05-11
 * Generalized Category Discovery with Decoupled Prototypical Network (**AAAI** 2023) [\[paper\]](https://arxiv.org/abs/2211.15115) [\[code\]](https://github.com/Lackel/DPN) ⭐ 34 | 🐛 0 | 🌐 Python | 📅 2024-06-22 (DPN)
-* Towards Distribution-Agnostic Generalized Category Discovery (**NeurIPS** 2023) [\[paper\]](https://arxiv.org/abs/2310.01376) [\[code\]](https://github.com/JianhongBai/BaCon) ⭐ 29 | 🐛 1 | 🌐 Python | 📅 2023-10-21
+* Towards Distribution-Agnostic Generalized Category Discovery (**NeurIPS** 2023) [\[paper\]](https://arxiv.org/abs/2310.01376) [\[code\]](https://github.com/JianhongBai/BaCon) ⭐ 28 | 🐛 1 | 🌐 Python | 📅 2023-10-21
 * Modeling Inter-Class and Intra-Class Constraints in Novel Class Discovery (**CVPR** 2023) [\[paper\]](https://arxiv.org/abs/2210.03591) [\[code\]](https://github.com/FanZhichen/NCD-IIC) ⭐ 28 | 🐛 0 | 🌐 Python | 📅 2023-12-31
 * Open-world Semi-supervised Novel Class Discovery (**IJCAI** 2023) [\[paper\]](https://arxiv.org/abs/2305.13095) [\[code\]](https://github.com/LiuJMzzZ/OpenNCD) ⭐ 25 | 🐛 1 | 🌐 Python | 📅 2023-09-05
 * Learning Semi-supervised Gaussian Mixture Models for Generalized Category Discovery (**ICCV** 2023) [\[paper\]](https://arxiv.org/abs/2305.06144) [\[code\]](https://github.com/DTennant/GPC) ⭐ 24 | 🐛 0 | 🌐 Python | 📅 2024-10-12
@@ -223,12 +223,12 @@ More details are in this [survey](https://arxiv.org/abs/2403.01759).
 
 ## 2022
 
-* Generalized Category Discovery (**CVPR** 2022) [\[paper\]](https://arxiv.org/abs/2201.02609) [\[code\]](https://github.com/sgvaze/generalized-category-discovery) ⭐ 246 | 🐛 12 | 🌐 Python | 📅 2022-12-15 (GCD)
+* Generalized Category Discovery (**CVPR** 2022) [\[paper\]](https://arxiv.org/abs/2201.02609) [\[code\]](https://github.com/sgvaze/generalized-category-discovery) ⭐ 245 | 🐛 12 | 🌐 Python | 📅 2022-12-15 (GCD)
 * Class-incremental Novel Class Discovery (**ECCV** 2022) [\[paper\]](https://arxiv.org/abs/2207.08605) [\[code\]](https://github.com/OatmealLiu/class-iNCD) ⭐ 125 | 🐛 1 | 🌐 Python | 📅 2024-09-10 (FRoST)
-* Open-World Semi-Supervised Learning (**ICLR** 2022) [\[paper\]](https://arxiv.org/abs/2102.03526) [\[code\]](https://github.com/snap-stanford/orca) ⭐ 106 | 🐛 10 | 🌐 Python | 📅 2022-02-17
+* Open-World Semi-Supervised Learning (**ICLR** 2022) [\[paper\]](https://arxiv.org/abs/2102.03526) [\[code\]](https://github.com/snap-stanford/orca) ⭐ 105 | 🐛 10 | 🌐 Python | 📅 2022-02-17
 * Novel Class Discovery in Semantic Segmentation (**CVPR** 2022) [\[paper\]](https://arxiv.org/abs/2112.01900) [\[code\]](https://github.com/HeliosZhao/NCDSS) ⭐ 70 | 🐛 4 | 🌐 Python | 📅 2023-01-03
 * Towards Realistic Semi-Supervised Learning (**ECCV** 2022) [\[paper\]](https://arxiv.org/abs/2207.02269) [\[code\]](https://github.com/nayeemrizve/TRSSL) ⭐ 41 | 🐛 4 | 🌐 Python | 📅 2023-03-14
-* OpenLDN: Learning to Discover Novel Classes for Open-World Semi-Supervised Learning (**ECCV** 2022) [\[paper\]](https://arxiv.org/abs/2207.02261) [\[code\]](https://github.com/nayeemrizve/OpenLDN) ⭐ 36 | 🐛 4 | 🌐 Python | 📅 2023-03-14
+* OpenLDN: Learning to Discover Novel Classes for Open-World Semi-Supervised Learning (**ECCV** 2022) [\[paper\]](https://arxiv.org/abs/2207.02261) [\[code\]](https://github.com/nayeemrizve/OpenLDN) ⭐ 35 | 🐛 4 | 🌐 Python | 📅 2023-03-14
 * XCon: Learning with Experts for Fine-grained Category Discovery (**BMVC** 2022) [\[paper\]](https://arxiv.org/abs/2208.01898) [\[code\]](https://github.com/YiXXin/XCon) ⭐ 19 | 🐛 1 | 🌐 Python | 📅 2022-12-19
 * Meta Discovery: Learning to Discover Novel Classes given Very Limited Data (**ICLR** 2022) [\[paper\]](https://openreview.net/forum?id=MEpKGLsY8f) [\[code\]](https://github.com/Haoang97/MEDI) ⭐ 17 | 🐛 3 | 🌐 Python | 📅 2024-01-14 (MEDI)
 * Divide and Conquer: Compositional Experts for Generalized Novel Class Discovery (**CVPR** 2022) [\[paper\]](https://openaccess.thecvf.com/content/CVPR2022/papers/Yang_Divide_and_Conquer_Compositional_Experts_for_Generalized_Novel_Class_Discovery_CVPR_2022_paper.pdf) [\[code\]](https://github.com/muliyangm/ComEx) ⭐ 12 | 🐛 0 | 🌐 Python | 📅 2022-12-05 (ComEx)
@@ -248,8 +248,8 @@ More details are in this [survey](https://arxiv.org/abs/2403.01759).
 
 ## 2021
 
-* A Unified Objective for Novel Class Discovery (**ICCV** 2021) [\[paper\]](https://openaccess.thecvf.com/content/ICCV2021/papers/Fini_A_Unified_Objective_for_Novel_Class_Discovery_ICCV_2021_paper.pdf) [\[code\]](https://github.com/DonkeyShot21/UNO) ⭐ 159 | 🐛 1 | 🌐 Python | 📅 2022-03-22 (UNO)
-* Neighborhood Contrastive Learning for Novel Class Discovery (**CVPR** 2021) [\[paper\]](https://arxiv.org/abs/2106.10731) [\[code\]](https://github.com/zhunzhong07/NCL) ⭐ 77 | 🐛 3 | 🌐 Python | 📅 2022-12-09 (NCL)
+* A Unified Objective for Novel Class Discovery (**ICCV** 2021) [\[paper\]](https://openaccess.thecvf.com/content/ICCV2021/papers/Fini_A_Unified_Objective_for_Novel_Class_Discovery_ICCV_2021_paper.pdf) [\[code\]](https://github.com/DonkeyShot21/UNO) ⭐ 158 | 🐛 1 | 🌐 Python | 📅 2022-03-22 (UNO)
+* Neighborhood Contrastive Learning for Novel Class Discovery (**CVPR** 2021) [\[paper\]](https://arxiv.org/abs/2106.10731) [\[code\]](https://github.com/zhunzhong07/NCL) ⭐ 76 | 🐛 3 | 🌐 Python | 📅 2022-12-09 (NCL)
 * Novel Visual Category Discovery with Dual Ranking Statistics and Mutual Knowledge Distillation (**NeurIPS** 2021) [\[paper\]](https://openreview.net/forum?id=xWq1MVj7YrE) [\[code\]](https://github.com/DTennant/dual-rank-ncd) ⭐ 12 | 🐛 3 | 🌐 Python | 📅 2023-08-20 (DualRS)
 * Joint Representation Learning and Novel Category Discovery on Single- and Multi-modal Data (**ICCV** 2021) [\[paper\]](https://openaccess.thecvf.com/content/ICCV2021/papers/Jia_Joint_Representation_Learning_and_Novel_Category_Discovery_on_Single-_and_ICCV_2021_paper.pdf) (Joint)
 * OpenMix: Reviving Known Knowledge for Discovering Novel Visual Categories in An Open World (**CVPR** 2021) [\[paper\]](https://openaccess.thecvf.com/content/CVPR2021/papers/Zhong_OpenMix_Reviving_Known_Knowledge_for_Discovering_Novel_Visual_Categories_in_CVPR_2021_paper.pdf) (OpenMix)
@@ -282,4 +282,4 @@ Please help us improve the above listing by submitting PRs of other papers in th
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-21._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-22._
