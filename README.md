@@ -71,7 +71,7 @@ More details are in this [survey](https://arxiv.org/abs/2403.01759).
 * Happy++: Towards Stable and Unified Continual Generalized Category Discovery (**TPAMI 2026**) [\[paper\]](https://doi.org/10.1109/tpami.2026.3721625) [\[code\]](https://github.com/mashijie1028/happy-cgcd) ⭐ 49 | 🐛 1 | 🌐 Python | 📅 2026-08-26
 * SpectralGCD: Spectral Concept Selection and Cross-modal Representation Learning for Generalized Category Discovery (**ICLR** 2026) [\[paper\]](https://openreview.net/forum?id=PyfV9tFmdR) [\[code\]](https://github.com/miccunifi/SpectralGCD) ⭐ 23 | 🐛 1 | 🌐 Python | 📅 2026-03-18
 * Learning Like Humans: Analogical Concept Learning for Generalized Category Discovery (**CVPR** 2026) [\[paper\]](https://openaccess.thecvf.com/content/CVPR2026/html/Han_Learning_Like_Humans_Analogical_Concept_Learning_for_Generalized_Category_Discovery_CVPR_2026_paper.html) [\[code\]](https://github.com/zhou-9527/AnaLogical-GCD) ⭐ 21 | 🐛 1 | 🌐 Python | 📅 2026-07-01
-* TALON: Test-time Adaptive Learning for On-the-Fly Category Discovery (**CVPR** 2026) [\[paper\]](https://openaccess.thecvf.com/content/CVPR2026/html/Wu_TALON_Test-time_Adaptive_Learning_for_On-the-Fly_Category_Discovery_CVPR_2026_paper.html) [\[code\]](https://github.com/ynanwu/TALON) ⭐ 9 | 🐛 3 | 🌐 Python | 📅 2026-04-18
+* TALON: Test-time Adaptive Learning for On-the-Fly Category Discovery (**CVPR** 2026) [\[paper\]](https://openaccess.thecvf.com/content/CVPR2026/html/Wu_TALON_Test-time_Adaptive_Learning_for_On-the-Fly_Category_Discovery_CVPR_2026_paper.html) [\[code\]](https://github.com/ynanwu/TALON) ⭐ 9 | 🐛 2 | 🌐 Python | 📅 2026-10-23
 * Generalized Fine-Grained Category Discovery with Multi-Granularity Conceptual Experts (**IJCV** 2026) [\[paper\]](https://doi.org/10.1007/s11263-026-02970-5) [\[code\]](https://github.com/HaiyangZheng/MGCE) ⭐ 9 | 🐛 0 | 🌐 Python | 📅 2026-07-11
 * GLEAN: Active Generalized Category Discovery with Diverse LLM Feedback (**EACL** 2026) [\[paper\]](https://aclanthology.org/2026.eacl-long.358/) [\[code\]](https://github.com/amazon-science/Glean) ⭐ 8 | 🐛 1 | 🌐 Python | 📅 2026-07-02
 * Adaptive Gaussian Expansion for On-the-fly Category Discovery (**ICLR** 2026) [\[paper\]](https://openreview.net/forum?id=Y59JeAbM3j) [\[code\]](https://github.com/Ashengl/AGE) ⭐ 6 | 🐛 0 | 🌐 Python | 📅 2026-04-01
@@ -188,7 +188,7 @@ More details are in this [survey](https://arxiv.org/abs/2403.01759).
 
 ## 2023
 
-* Parametric Classification for Generalized Category Discovery: A Baseline Study (**ICCV** 2023) [\[paper\]](https://arxiv.org/abs/2211.11727) [\[code\]](https://github.com/CVMI-Lab/SimGCD) ⭐ 130 | 🐛 2 | 🌐 Python | 📅 2023-12-30
+* Parametric Classification for Generalized Category Discovery: A Baseline Study (**ICCV** 2023) [\[paper\]](https://arxiv.org/abs/2211.11727) [\[code\]](https://github.com/CVMI-Lab/SimGCD) ⭐ 131 | 🐛 2 | 🌐 Python | 📅 2023-12-30
 * Novel Class Discovery for 3D Point Cloud Semantic Segmentation (**CVPR** 2023) [\[paper\]](https://arxiv.org/abs/2303.11610) [\[code\]](https://github.com/LuigiRiz/NOPS) ⭐ 64 | 🐛 2 | 🌐 Python | 📅 2023-09-01
 * On-the-Fly Category Discovery (**CVPR** 2023) [\[paper\]](https://openaccess.thecvf.com/content/CVPR2023/papers/Du_On-the-Fly_Category_Discovery_CVPR_2023_paper.pdf) [\[code\]](https://github.com/PRIS-CV/On-the-fly-Category-Discovery) ⭐ 59 | 🐛 2 | 🌐 Python | 📅 2023-07-15
 * PromptCAL: Contrastive Affinity Learning via Auxiliary Prompts for Generalized Novel Category Discovery (**CVPR** 2023) [\[paper\]](https://arxiv.org/abs/2212.05590) [\[code\]](https://github.com/sheng-eatamath/PromptCAL) ⭐ 49 | 🐛 0 | 🌐 Python | 📅 2023-03-18
@@ -223,7 +223,7 @@ More details are in this [survey](https://arxiv.org/abs/2403.01759).
 
 ## 2022
 
-* Generalized Category Discovery (**CVPR** 2022) [\[paper\]](https://arxiv.org/abs/2201.02609) [\[code\]](https://github.com/sgvaze/generalized-category-discovery) ⭐ 245 | 🐛 12 | 🌐 Python | 📅 2022-12-15 (GCD)
+* Generalized Category Discovery (**CVPR** 2022) [\[paper\]](https://arxiv.org/abs/2201.02609) [\[code\]](https://github.com/sgvaze/generalized-category-discovery) ⭐ 246 | 🐛 12 | 🌐 Python | 📅 2022-12-15 (GCD)
 * Class-incremental Novel Class Discovery (**ECCV** 2022) [\[paper\]](https://arxiv.org/abs/2207.08605) [\[code\]](https://github.com/OatmealLiu/class-iNCD) ⭐ 125 | 🐛 1 | 🌐 Python | 📅 2024-09-10 (FRoST)
 * Open-World Semi-Supervised Learning (**ICLR** 2022) [\[paper\]](https://arxiv.org/abs/2102.03526) [\[code\]](https://github.com/snap-stanford/orca) ⭐ 105 | 🐛 10 | 🌐 Python | 📅 2022-02-17
 * Novel Class Discovery in Semantic Segmentation (**CVPR** 2022) [\[paper\]](https://arxiv.org/abs/2112.01900) [\[code\]](https://github.com/HeliosZhao/NCDSS) ⭐ 70 | 🐛 4 | 🌐 Python | 📅 2023-01-03
@@ -282,4 +282,4 @@ Please help us improve the above listing by submitting PRs of other papers in th
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-22._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-23._

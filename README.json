@@ -250,8 +250,8 @@
             "id": 1176519778,
             "language": "Python",
             "license": null,
-            "last_commit": "2026-04-18T14:39:39Z",
-            "open_issues": 3,
+            "last_commit": "2026-10-23T10:42:03Z",
+            "open_issues": 2,
             "owner": "ynanwu",
             "repo": "TALON",
             "stars": 9,
@@ -1504,7 +1504,7 @@
             "open_issues": 2,
             "owner": "CVMI-Lab",
             "repo": "SimGCD",
-            "stars": 130,
+            "stars": 131,
             "topics": [
               "novel-category-discovery",
               "open-world-classification",
@@ -2037,7 +2037,7 @@
             "open_issues": 12,
             "owner": "sgvaze",
             "repo": "generalized-category-discovery",
-            "stars": 245,
+            "stars": 246,
             "topics": []
           },
           "first_seen": "2026-08-29T00:06:14.917Z"
@@ -2582,7 +2582,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-22T19:29:39.998Z",
+    "last_updated": "2026-10-23T19:31:48.952Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of papers that studies Novel Class Discovery",
@@ -2594,7 +2594,7 @@
       "open_issues": 5,
       "owner": "JosephKJ",
       "repo": "Awesome-Novel-Class-Discovery",
-      "stars": 536,
+      "stars": 535,
       "topics": [
         "awesome-list",
         "class-discovery",
