@@ -251,7 +251,7 @@
             "language": "Python",
             "license": null,
             "last_commit": "2026-10-23T10:42:03Z",
-            "open_issues": 2,
+            "open_issues": 3,
             "owner": "ynanwu",
             "repo": "TALON",
             "stars": 9,
@@ -425,7 +425,7 @@
             "language": "Python",
             "license": null,
             "last_commit": "2026-03-13T14:05:13Z",
-            "open_issues": 0,
+            "open_issues": 1,
             "owner": "brandinzhang",
             "repo": "LTC",
             "stars": 3,
@@ -2582,7 +2582,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-30T20:07:57.558Z",
+    "last_updated": "2026-10-31T19:32:27.628Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of papers that studies Novel Class Discovery",
