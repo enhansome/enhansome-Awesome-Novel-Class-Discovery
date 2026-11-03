@@ -335,7 +335,7 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2026-03-07T08:00:15Z",
-            "open_issues": 0,
+            "open_issues": 1,
             "owner": "KeibingYang",
             "repo": "Assignment-Driven-Hash-Learning-in-a-Hyper-Semantic-Space-for-OCD",
             "stars": 5,
@@ -2582,7 +2582,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-02T23:12:28.373Z",
+    "last_updated": "2026-11-03T21:15:54.858Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of papers that studies Novel Class Discovery",
