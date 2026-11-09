@@ -1148,8 +1148,8 @@
             "id": 828708956,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-10-20T10:18:29Z",
-            "open_issues": 1,
+            "last_commit": "2026-11-08T23:38:45Z",
+            "open_issues": 0,
             "owner": "SarahRastegar",
             "repo": "SelEx",
             "stars": 31,
@@ -2086,7 +2086,7 @@
             "open_issues": 10,
             "owner": "snap-stanford",
             "repo": "orca",
-            "stars": 105,
+            "stars": 106,
             "topics": []
           },
           "first_seen": "2026-08-29T00:06:14.917Z"
@@ -2582,7 +2582,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-08T19:57:29.987Z",
+    "last_updated": "2026-11-09T23:51:06.668Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of papers that studies Novel Class Discovery",

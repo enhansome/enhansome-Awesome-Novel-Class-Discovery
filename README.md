@@ -24,7 +24,7 @@ More details are in this [survey](https://arxiv.org/abs/2403.01759).
 
 * Novel Class Discovery: an Introduction and Key Concepts [\[paper\]](https://www.researchgate.net/publication/368753429_Novel_Class_Discovery_an_Introduction_and_Key_Concepts)
 * Open-world machine learning: A review and new outlooks [\[paper\]](https://arxiv.org/abs/2403.01759)
-* Category Discovery: An Open-World Perspective [\[paper\]](https://arxiv.org/abs/2509.22542) [\[code\]](https://github.com/Visual-AI/Category-Discovery) ⭐ 19 | 🐛 0 | 📅 2026-11-06
+* Category Discovery: An Open-World Perspective [\[paper\]](https://arxiv.org/abs/2509.22542) [\[code\]](https://github.com/Visual-AI/Category-Discovery) ⭐ 20 | 🐛 0 | 📅 2026-11-06
 
 ## Preprints
 
@@ -158,7 +158,7 @@ More details are in this [survey](https://arxiv.org/abs/2403.01759).
 * Contrastive Mean-Shift Learning for Generalized Category Discovery (**CVPR** 2024) [\[paper\]](https://arxiv.org/abs/2404.09451) [\[code\]](https://github.com/sua-choi/CMS) ⭐ 50 | 🐛 1 | 🌐 Python | 📅 2024-05-01
 * Happy: A Debiased Learning Framework for Continual Generalized Category Discovery (**NeurIPS** 2024) [\[paper\]](https://arxiv.org/abs/2410.06535) [\[code\]](https://github.com/mashijie1028/Happy-CGCD) ⭐ 49 | 🐛 1 | 🌐 Python | 📅 2026-08-26
 * SPTNet: An Efficient Alternative Framework for Generalized Category Discovery with Spatial Prompt Tuning (**ICLR** 2024) [\[paper\]](https://openreview.net/forum?id=3QLkwU40EE) [\[code\]](https://github.com/Visual-AI/SPTNet) ⭐ 38 | 🐛 0 | 🌐 Python | 📅 2026-11-06
-* SelEx: Self-Expertise in Fine-Grained Generalized Category Discovery (**ECCV** 2024) [\[paper\]](https://arxiv.org/abs/2408.14371) [\[code\]](https://github.com/SarahRastegar/SelEx) ⭐ 31 | 🐛 1 | 🌐 Python | 📅 2026-10-20
+* SelEx: Self-Expertise in Fine-Grained Generalized Category Discovery (**ECCV** 2024) [\[paper\]](https://arxiv.org/abs/2408.14371) [\[code\]](https://github.com/SarahRastegar/SelEx) ⭐ 31 | 🐛 0 | 🌐 Python | 📅 2026-11-08
 * PromptCCD: Learning Gaussian Mixture Prompt Pool for Continual Category Discovery (**ECCV** 2024) [\[paper\]](https://arxiv.org/abs/2407.19001) [\[code\]](https://github.com/Visual-AI/PromptCCD) ⭐ 31 | 🐛 0 | 🌐 Python | 📅 2026-11-06
 * Novel Class Discovery for Ultra-Fine-Grained Visual Categorization (**CVPR** 2024) [\[paper\]](https://arxiv.org/abs/2405.06283) [\[code\]](https://github.com/SSDUT-Caiyq/UFG-NCD) ⭐ 24 | 🐛 0 | 🌐 Python | 📅 2024-07-01
 * Textual Knowledge Matters: Cross-Modality Co-Teaching for Generalized Visual Class Discovery (**ECCV** 2024) [\[paper\]](https://arxiv.org/abs/2403.07369) [\[code\]](https://github.com/HaiyangZheng/TextGCD) ⭐ 23 | 🐛 2 | 🌐 Python | 📅 2025-11-26
@@ -225,7 +225,7 @@ More details are in this [survey](https://arxiv.org/abs/2403.01759).
 
 * Generalized Category Discovery (**CVPR** 2022) [\[paper\]](https://arxiv.org/abs/2201.02609) [\[code\]](https://github.com/sgvaze/generalized-category-discovery) ⭐ 246 | 🐛 12 | 🌐 Python | 📅 2022-12-15 (GCD)
 * Class-incremental Novel Class Discovery (**ECCV** 2022) [\[paper\]](https://arxiv.org/abs/2207.08605) [\[code\]](https://github.com/OatmealLiu/class-iNCD) ⭐ 125 | 🐛 1 | 🌐 Python | 📅 2024-09-10 (FRoST)
-* Open-World Semi-Supervised Learning (**ICLR** 2022) [\[paper\]](https://arxiv.org/abs/2102.03526) [\[code\]](https://github.com/snap-stanford/orca) ⭐ 105 | 🐛 10 | 🌐 Python | 📅 2022-02-17
+* Open-World Semi-Supervised Learning (**ICLR** 2022) [\[paper\]](https://arxiv.org/abs/2102.03526) [\[code\]](https://github.com/snap-stanford/orca) ⭐ 106 | 🐛 10 | 🌐 Python | 📅 2022-02-17
 * Novel Class Discovery in Semantic Segmentation (**CVPR** 2022) [\[paper\]](https://arxiv.org/abs/2112.01900) [\[code\]](https://github.com/HeliosZhao/NCDSS) ⭐ 70 | 🐛 4 | 🌐 Python | 📅 2023-01-03
 * Towards Realistic Semi-Supervised Learning (**ECCV** 2022) [\[paper\]](https://arxiv.org/abs/2207.02269) [\[code\]](https://github.com/nayeemrizve/TRSSL) ⭐ 41 | 🐛 4 | 🌐 Python | 📅 2023-03-14
 * OpenLDN: Learning to Discover Novel Classes for Open-World Semi-Supervised Learning (**ECCV** 2022) [\[paper\]](https://arxiv.org/abs/2207.02261) [\[code\]](https://github.com/nayeemrizve/OpenLDN) ⭐ 35 | 🐛 4 | 🌐 Python | 📅 2023-03-14
@@ -282,4 +282,4 @@ Please help us improve the above listing by submitting PRs of other papers in th
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-08._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-09._
