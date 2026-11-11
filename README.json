@@ -254,7 +254,7 @@
             "open_issues": 1,
             "owner": "ynanwu",
             "repo": "TALON",
-            "stars": 9,
+            "stars": 11,
             "topics": []
           },
           "first_seen": "2026-08-29T00:06:14.917Z"
@@ -2582,7 +2582,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-10T21:25:21.860Z",
+    "last_updated": "2026-11-11T22:15:34.302Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of papers that studies Novel Class Discovery",
@@ -2594,7 +2594,7 @@
       "open_issues": 5,
       "owner": "JosephKJ",
       "repo": "Awesome-Novel-Class-Discovery",
-      "stars": 538,
+      "stars": 539,
       "topics": [
         "awesome-list",
         "class-discovery",
