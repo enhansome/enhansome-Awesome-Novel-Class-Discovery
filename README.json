@@ -849,6 +849,27 @@
         },
         {
           "node_type": "item",
+          "title": "HIDISC: A Hyperbolic Framework for Domain Generalization with Generalized Category Discovery (NeurIPS 2025) [paper]",
+          "description": "dgibn/HIDISC",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": null,
+            "homepage": null,
+            "id": 1026120137,
+            "language": "Python",
+            "license": null,
+            "last_commit": "2025-11-26T06:29:31Z",
+            "open_issues": 0,
+            "owner": "dgibn",
+            "repo": "HIDISC",
+            "stars": 4,
+            "topics": []
+          },
+          "first_seen": "2026-08-29T00:06:14.917Z"
+        },
+        {
+          "node_type": "item",
           "title": "Hyperbolic Hierarchical Representation Learning for Generalized Category Discovery (TNNLS 2025) [paper]",
           "description": "DuannYu/HypGCD",
           "children": [],
@@ -926,27 +947,6 @@
             "open_issues": 2,
             "owner": "lytang63",
             "repo": "ConGCD",
-            "stars": 3,
-            "topics": []
-          },
-          "first_seen": "2026-08-29T00:06:14.917Z"
-        },
-        {
-          "node_type": "item",
-          "title": "HIDISC: A Hyperbolic Framework for Domain Generalization with Generalized Category Discovery (NeurIPS 2025) [paper]",
-          "description": "dgibn/HIDISC",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": null,
-            "homepage": null,
-            "id": 1026120137,
-            "language": "Python",
-            "license": null,
-            "last_commit": "2025-11-26T06:29:31Z",
-            "open_issues": 0,
-            "owner": "dgibn",
-            "repo": "HIDISC",
             "stars": 3,
             "topics": []
           },
@@ -2582,7 +2582,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-11T22:15:34.302Z",
+    "last_updated": "2026-11-12T21:55:05.285Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of papers that studies Novel Class Discovery",

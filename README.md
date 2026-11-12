@@ -127,11 +127,11 @@ More details are in this [survey](https://arxiv.org/abs/2403.01759).
 * Less Attention is More: Prompt Transformer for Generalized Category Discovery (**CVPR** 2025) [\[paper\]](https://openaccess.thecvf.com/content/CVPR2025/papers/Zhang_Less_Attention_is_More_Prompt_Transformer_for_Generalized_Category_Discovery_CVPR_2025_paper.pdf) [\[code\]](https://github.com/wendy26zhang/AptGCD) ⭐ 4 | 🐛 1 | 🌐 Python | 📅 2025-09-09
 * Learning Textual Prompts for Open-World Semi-Supervised Learning (**CVPR** 2025) [\[paper\]](https://openaccess.thecvf.com/content/CVPR2025/html/Fan_Learning_Textual_Prompts_for_Open-World_Semi-Supervised_Learning_CVPR_2025_paper.html) [\[code\]](https://github.com/GodFZ/TP-OWSSL) ⭐ 4 | 🐛 1 | 🌐 Python | 📅 2025-03-13
 * Prior-Constrained Association Learning for Fine-Grained Generalized Category Discovery (**AAAI** 2025) [\[paper\]](https://ojs.aaai.org/index.php/AAAI/article/view/35414) [\[code\]](https://github.com/Terminator8758/PAL-GCD) ⭐ 4 | 🐛 1 | 🌐 Python | 📅 2025-02-26
+* HIDISC: A Hyperbolic Framework for Domain Generalization with Generalized Category Discovery (**NeurIPS** 2025) [\[paper\]](https://arxiv.org/abs/2510.17188) [\[code\]](https://github.com/dgibn/HIDISC) ⭐ 4 | 🐛 0 | 🌐 Python | 📅 2025-11-26
 * Hyperbolic Hierarchical Representation Learning for Generalized Category Discovery (**TNNLS** 2025) [\[paper\]](https://ieeexplore.ieee.org/document/11134045) [\[code\]](https://github.com/DuannYu/HypGCD) ⭐ 4 | 🐛 1 | 🌐 Shell | 📅 2025-08-23
 * Dual-Space Contrastive Learning for Open-World Semi-Supervised Classification (**TNNLS** 2025) [\[paper\]](https://ieeexplore.ieee.org/abstract/document/10934981) [\[code\]](https://github.com/ascetic-monk/DSCL) ⭐ 4 | 🐛 0 | 🌐 Python | 📅 2025-03-13
 * When Domain Generalization meets Generalized Category Discovery: An Adaptive Task-Arithmetic Driven Approach (**CVPR** 2025) [\[paper\]](https://arxiv.org/abs/2503.14897) [\[code\]](https://github.com/Shubh-Nil/D_GCD) ⭐ 3 | 🐛 0 | 🌐 Python | 📅 2026-10-18
 * Dissecting Generalized Category Discovery: Multiplex Consensus under Self-Deconstruction (**ICCV** 2025) [\[paper\]](https://arxiv.org/abs/2508.10731) [\[code\]](https://github.com/lytang63/ConGCD) ⭐ 3 | 🐛 2 | 📅 2025-08-01
-* HIDISC: A Hyperbolic Framework for Domain Generalization with Generalized Category Discovery (**NeurIPS** 2025) [\[paper\]](https://arxiv.org/abs/2510.17188) [\[code\]](https://github.com/dgibn/HIDISC) ⭐ 3 | 🐛 0 | 🌐 Python | 📅 2025-11-26
 * Consistent Prompt Tuning for Generalized Category Discovery (**IJCV** 2025) [\[paper\]](https://link.springer.com/article/10.1007/s11263-024-02343-w) [\[code\]](https://github.com/muliyangm/CPT) ⭐ 3 | 🐛 1 | 📅 2025-12-23
 * Mutual-support Generalized Category Discovery (**Information Fusion** 2025) [\[paper\]](https://doi.org/10.1016/j.inffus.2025.103020) [\[code\]](https://github.com/DuannYu/MSGCD) ⭐ 2 | 🐛 0 | 🌐 Python | 📅 2025-05-12
 * Towards Understanding Parametric Generalized Category Discovery on Graphs (**ICML** 2025) [\[paper\]](https://icml.cc/virtual/2025/poster/45645) [\[code\]](https://github.com/bwdeng20/GraphGCD) ⭐ 1 | 🐛 2 | 📅 2025-05-24
@@ -282,4 +282,4 @@ Please help us improve the above listing by submitting PRs of other papers in th
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-11._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-12._
