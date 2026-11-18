@@ -581,7 +581,7 @@
             "open_issues": 0,
             "owner": "mashijie1028",
             "repo": "ProtoGCD",
-            "stars": 44,
+            "stars": 45,
             "topics": [
               "clustering",
               "machine-learning",
@@ -2582,7 +2582,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-17T23:09:20.908Z",
+    "last_updated": "2026-11-18T22:41:40.730Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of papers that studies Novel Class Discovery",
