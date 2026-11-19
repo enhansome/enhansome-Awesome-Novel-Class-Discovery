@@ -1529,7 +1529,7 @@
             "open_issues": 2,
             "owner": "LuigiRiz",
             "repo": "NOPS",
-            "stars": 64,
+            "stars": 65,
             "topics": []
           },
           "first_seen": "2026-08-29T00:06:14.917Z"
@@ -2582,7 +2582,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-18T22:41:40.730Z",
+    "last_updated": "2026-11-19T22:45:43.868Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of papers that studies Novel Class Discovery",
