@@ -117,7 +117,7 @@ More details are in this [survey](https://arxiv.org/abs/2403.01759).
 * ProtoGCD: Unified and Unbiased Prototype Learning for Generalized Category Discovery (**TPAMI** 2025) [\[paper\]](https://arxiv.org/abs/2504.03755) [\[code\]](https://github.com/mashijie1028/ProtoGCD) ⭐ 45 | 🐛 0 | 🌐 Python | 📅 2025-06-13
 * GET: Unlocking the Multi-Modal Potential of CLIP for Generalized Category Discovery (**CVPR** 2025) [\[paper\]](https://arxiv.org/abs/2403.09974) [\[code\]](https://github.com/enguangW/GET) ⭐ 37 | 🐛 2 | 🌐 Python | 📅 2025-03-31
 * HiLo: A Learning Framework for Generalized Category Discovery Robust to Domain Shifts (**ICLR** 2025) [\[paper\]](https://arxiv.org/abs/2408.04591) [\[code\]](https://github.com/Visual-AI/HiLo) ⭐ 22 | 🐛 4 | 🌐 Python | 📅 2026-11-06
-* SEAL: Semantic-Aware Hierarchical Learning for Generalized Category Discovery (**NeurIPS** 2025) [\[paper\]](https://arxiv.org/abs/2510.18740) [\[code\]](https://github.com/Visual-AI/seal) ⭐ 17 | 🐛 0 | 🌐 Python | 📅 2026-11-06
+* SEAL: Semantic-Aware Hierarchical Learning for Generalized Category Discovery (**NeurIPS** 2025) [\[paper\]](https://arxiv.org/abs/2510.18740) [\[code\]](https://github.com/Visual-AI/seal) ⭐ 18 | 🐛 0 | 🌐 Python | 📅 2026-11-06
 * DebGCD: Debiased Learning with Distribution Guidance for Generalized Category Discovery (**ICLR** 2025) [\[paper\]](https://arxiv.org/abs/2504.04804) [\[code\]](https://github.com/Visual-AI/DebGCD) ⭐ 15 | 🐛 0 | 🌐 Python | 📅 2026-11-06
 * MOS: Modeling Object-Scene Associations in Generalized Category Discovery (**CVPR** 2025) [\[paper\]](https://arxiv.org/abs/2503.12035) [\[code\]](https://github.com/JethroPeng/MOS?tab=readme-ov-file) ⭐ 11 | 🐛 1 | 🌐 Python | 📅 2025-04-13
 * Unleashing the Potential of Model Bias for Generalized Category Discovery (**AAAI** 2025) [\[paper\]](https://ojs.aaai.org/index.php/AAAI/article/view/33686) [\[code\]](https://github.com/Lackel/SDC) ⭐ 11 | 🐛 0 | 🌐 Python | 📅 2024-12-18
@@ -282,4 +282,4 @@ Please help us improve the above listing by submitting PRs of other papers in th
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-20._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-21._
