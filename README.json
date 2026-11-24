@@ -628,7 +628,7 @@
             "open_issues": 4,
             "owner": "Visual-AI",
             "repo": "hilo",
-            "stars": 22,
+            "stars": 23,
             "topics": []
           },
           "first_seen": "2026-08-29T00:06:14.917Z"
@@ -2582,7 +2582,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-22T21:15:31.648Z",
+    "last_updated": "2026-11-24T02:34:47.624Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of papers that studies Novel Class Discovery",
