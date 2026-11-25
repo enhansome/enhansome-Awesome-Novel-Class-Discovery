@@ -414,6 +414,27 @@
         },
         {
           "node_type": "item",
+          "title": "TAR: Token-Aware Refinement for Fine-Grained Generalized Category Discovery (CVPR 2026) [paper]",
+          "description": "VectorYangYiStar/TAR",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Official implementation of our CVPR2026 paper \"TAR: Token-Aware Refinement for Fine-grained Generalized Category Discovery\"",
+            "homepage": null,
+            "id": 1177879383,
+            "language": "Python",
+            "license": "MIT",
+            "last_commit": "2026-03-10T15:01:24Z",
+            "open_issues": 0,
+            "owner": "VectorYangYiStar",
+            "repo": "TAR",
+            "stars": 3,
+            "topics": []
+          },
+          "first_seen": "2026-08-29T00:06:14.917Z"
+        },
+        {
+          "node_type": "item",
           "title": "Learning through Creation: A Hash-Free Framework for On-the-Fly Category Discovery (CVPR Findings 2026) [paper]",
           "description": "brandinzhang/LTC",
           "children": [],
@@ -449,27 +470,6 @@
             "open_issues": 0,
             "owner": "hewei98",
             "repo": "SSR2-GCD",
-            "stars": 2,
-            "topics": []
-          },
-          "first_seen": "2026-08-29T00:06:14.917Z"
-        },
-        {
-          "node_type": "item",
-          "title": "TAR: Token-Aware Refinement for Fine-Grained Generalized Category Discovery (CVPR 2026) [paper]",
-          "description": "VectorYangYiStar/TAR",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Official implementation of our CVPR2026 paper \"TAR: Token-Aware Refinement for Fine-grained Generalized Category Discovery\"",
-            "homepage": null,
-            "id": 1177879383,
-            "language": "Python",
-            "license": "MIT",
-            "last_commit": "2026-03-10T15:01:24Z",
-            "open_issues": 0,
-            "owner": "VectorYangYiStar",
-            "repo": "TAR",
             "stars": 2,
             "topics": []
           },
@@ -1331,6 +1331,27 @@
         },
         {
           "node_type": "item",
+          "title": "Semantic-Guided Novel Category Discovery (AAAI 2024) [paper]",
+          "description": "wang-weishuai/Semantic-guided-NCD",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": null,
+            "homepage": null,
+            "id": 732818311,
+            "language": "Python",
+            "license": null,
+            "last_commit": "2024-02-20T16:58:16Z",
+            "open_issues": 1,
+            "owner": "wang-weishuai",
+            "repo": "Semantic-guided-NCD",
+            "stars": 9,
+            "topics": []
+          },
+          "first_seen": "2026-08-29T00:06:14.917Z"
+        },
+        {
+          "node_type": "item",
           "title": "Transfer and Alignment Network for Generalized Category Discovery (AAAI 2024) [paper]",
           "description": "Lackel/TAN",
           "children": [],
@@ -1346,27 +1367,6 @@
             "owner": "Lackel",
             "repo": "TAN",
             "stars": 9,
-            "topics": []
-          },
-          "first_seen": "2026-08-29T00:06:14.917Z"
-        },
-        {
-          "node_type": "item",
-          "title": "Semantic-Guided Novel Category Discovery (AAAI 2024) [paper]",
-          "description": "wang-weishuai/Semantic-guided-NCD",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": null,
-            "homepage": null,
-            "id": 732818311,
-            "language": "Python",
-            "license": null,
-            "last_commit": "2024-02-20T16:58:16Z",
-            "open_issues": 1,
-            "owner": "wang-weishuai",
-            "repo": "Semantic-guided-NCD",
-            "stars": 8,
             "topics": []
           },
           "first_seen": "2026-08-29T00:06:14.917Z"
@@ -2582,7 +2582,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-24T02:34:47.624Z",
+    "last_updated": "2026-11-25T00:06:08.460Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of papers that studies Novel Class Discovery",
