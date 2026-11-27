@@ -254,7 +254,7 @@
             "open_issues": 1,
             "owner": "ynanwu",
             "repo": "TALON",
-            "stars": 11,
+            "stars": 12,
             "topics": []
           },
           "first_seen": "2026-08-29T00:06:14.917Z"
@@ -1504,7 +1504,7 @@
             "open_issues": 2,
             "owner": "CVMI-Lab",
             "repo": "SimGCD",
-            "stars": 132,
+            "stars": 131,
             "topics": [
               "novel-category-discovery",
               "open-world-classification",
@@ -2582,7 +2582,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-26T23:59:42.602Z",
+    "last_updated": "2026-11-27T23:43:52.232Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of papers that studies Novel Class Discovery",
